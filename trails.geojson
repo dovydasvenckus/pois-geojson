@@ -1,0 +1,35 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "trail",
+        "name": "Pajautos slėnio takai",
+        "source": "https://www.pamatyklietuvoje.lt/lankytinos-vietos/pajautos-slenio-takai/4407"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.852474331855774,
+          54.8848687650288
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "cognitive_trail",
+        "name": "Baltojo kalno takas",
+        "source": "https://www.pamatyklietuvoje.lt/lankytinos-vietos/baltojo-kalno-takas/4406"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.829925000667572,
+          54.88717142337064
+        ]
+      }
+    }
+  ]
+}
