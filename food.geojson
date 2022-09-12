@@ -1,0 +1,33 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "cafe",
+        "name": "Cafe Musė"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.842914938926697,
+          54.94860836828664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "kebab",
+        "name": " Foman kebabai "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.84331592917442,
+          54.94829450607914
+        ]
+      }
+    }
+  ]
+}
