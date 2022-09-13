@@ -5,7 +5,8 @@
       "type": "Feature",
       "properties": {
         "type": "cafe",
-        "name": "Cafe Musė"
+        "name": "Cafe Musė",
+        "visited": true
       },
       "geometry": {
         "type": "Point",
@@ -19,13 +20,29 @@
       "type": "Feature",
       "properties": {
         "type": "kebab",
-        "name": " Foman kebabai "
+        "name": "Foman kebabai",
+        "visited": false
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           24.84331592917442,
           54.94829450607914
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "kebab",
+        "name": "Azerai",
+        "visited": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.277953147888184,
+          54.7436946656358
         ]
       }
     }
