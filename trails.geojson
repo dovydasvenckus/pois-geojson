@@ -32,6 +32,22 @@
           54.88717142337064
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "cognitive_trail",
+        "name": "Dziackagirio gamtinis pažintinis takas",
+        "source": "https://pamatyklietuvoje.lt/details/dziackagirio-gamtinis-pazintinis-takas/4321",
+        "visited": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.39911663532257,
+          54.06101411998201
+        ]
+      }
     }
   ]
 }
