@@ -6,7 +6,8 @@
       "properties": {
         "type": "trail",
         "name": "Pajautos slėnio takai",
-        "source": "https://www.pamatyklietuvoje.lt/lankytinos-vietos/pajautos-slenio-takai/4407"
+        "source": "https://www.pamatyklietuvoje.lt/lankytinos-vietos/pajautos-slenio-takai/4407",
+        "visited": true
       },
       "geometry": {
         "type": "Point",
@@ -21,7 +22,8 @@
       "properties": {
         "type": "cognitive_trail",
         "name": "Baltojo kalno takas",
-        "source": "https://www.pamatyklietuvoje.lt/lankytinos-vietos/baltojo-kalno-takas/4406"
+        "source": "https://www.pamatyklietuvoje.lt/lankytinos-vietos/baltojo-kalno-takas/4406",
+        "visited": true
       },
       "geometry": {
         "type": "Point",
