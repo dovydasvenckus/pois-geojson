@@ -14,6 +14,34 @@
         "type": "Point",
         "coordinates": [26.673989295959473, 55.320159451512446]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "small_city",
+        "name": "Zervynos",
+        "source": "https://www.pamatyklietuvoje.lt/lankytinos-vietos/zervynos/64",
+        "visited": false,
+        "description": "Gatvinis kaimas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.497762918472286, 54.11038946893376]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "small_city",
+        "name": "Grabijolai",
+        "source": "https://www.pamatyklietuvoje.lt/lankytinos-vietos/grabijolai/1205",
+        "visited": false,
+        "description": "Gatvinis kaimas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.869130849838257, 54.84075190221089]
+      }
     }
   ]
 }
