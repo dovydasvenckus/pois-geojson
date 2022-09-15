@@ -1,0 +1,19 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "small_city",
+        "name": "Didžiasalis",
+        "source": "https://lt.wikipedia.org/wiki/Did%C5%BEiasalis",
+        "visited": false,
+        "description": "Small city near border with many abandoned apartment buildings"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [26.673989295959473, 55.320159451512446]
+      }
+    }
+  ]
+}
