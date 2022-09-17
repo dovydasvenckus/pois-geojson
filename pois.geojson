@@ -42,6 +42,19 @@
         "type": "Point",
         "coordinates": [24.869130849838257, 54.84075190221089]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "chapel",
+        "name": "Didžiokų koplyčia",
+        "source": "https://www.pamatyklietuvoje.lt/lankytinos-vietos/didzioku-koplycia-mauzoliejus/11180",
+        "visited": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.354964733123776, 55.12185195298074]
+      }
     }
   ]
 }
