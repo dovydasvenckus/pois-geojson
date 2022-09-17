@@ -55,6 +55,56 @@
         "type": "Point",
         "coordinates": [25.354964733123776, 55.12185195298074]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "graveyard",
+        "name": "Bernardinų kapinės",
+        "description": "Pavasarį žydi mėlinos gėlės. ~Balandžio mėnesį",
+        "visited": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.306218266487118, 54.68080026781061]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "manor",
+        "name": " Markuciai Manor",
+        "visited": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.32650113105774, 54.673700687216936]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "small_city",
+        "name": " Visaginas",
+        "visited": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [26.42939329147339, 55.601396210046]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "church",
+        "name": " Visaginas",
+        "description": "Akmeninė bažnyčia",
+        "visited": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [26.139537692070007, 55.5839905799112]
+      }
     }
   ]
 }
