@@ -59,7 +59,7 @@
     {
       "type": "Feature",
       "properties": {
-        "type": "graveyard",
+        "type": "cemetery",
         "name": "Bernardinų kapinės",
         "description": "Pavasarį žydi mėlinos gėlės. ~Balandžio mėnesį",
         "visited": true
