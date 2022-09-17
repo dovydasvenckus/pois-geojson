@@ -10,10 +10,7 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          24.842914938926697,
-          54.94860836828664
-        ]
+        "coordinates": [24.842914938926697, 54.94860836828664]
       }
     },
     {
@@ -25,10 +22,7 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          24.84331592917442,
-          54.94829450607914
-        ]
+        "coordinates": [24.84331592917442, 54.94829450607914]
       }
     },
     {
@@ -40,10 +34,19 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          25.277953147888184,
-          54.7436946656358
-        ]
+        "coordinates": [25.277953147888184, 54.7436946656358]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "kebab",
+        "name": "Užkandinė Alyva",
+        "visited": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.230220794677734, 55.884256798010604]
       }
     }
   ]
