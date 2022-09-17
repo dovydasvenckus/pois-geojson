@@ -1,0 +1,18 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "car_museum",
+        "name": "Molėtų Technikos Muziejus ",
+        "source": "http://www.mtm.lt/",
+        "visited": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.333877205848694, 55.11531753390927]
+      }
+    }
+  ]
+}
