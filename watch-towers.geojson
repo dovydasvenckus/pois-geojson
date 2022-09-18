@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "watch_tower",
+        "name": "Birštono apžvalgos bokštas",
+        "visited": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.013039469718933, 54.60347088513722]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "watch_tower",
+        "name": "Merkinės apžvalgos bokštas",
+        "visited": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.17537748813629, 54.16373424276532]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "watch_tower",
+        "name": "Kirkilų apžvalgos bokštas",
+        "visited": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.691134095191956, 56.24847362573638]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "watch_tower",
+        "name": "Mindūnų (Labanoro) apžvalgos bokštas",
+        "visited": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.561285614967346, 55.21898418030061]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "watch_tower",
+        "name": "Anykščių medžių lajų takas",
+        "visited": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.06054937839508, 55.4855501713192]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "watch_tower",
+        "name": "Kalnalio apžvalgos bokštas",
+        "visited": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.541517972946167, 56.017179567941845]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "watch_tower",
+        "name": "Didžiasalio apžvalgos bokštas",
+        "visited": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [26.185060143470764, 55.229264742511496]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "watch_tower",
+        "name": "Sartų ežero (Baršėnų) apžvalgos bokštas",
+        "visited": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.838513374328613, 55.840988337095006]
+      }
+    }
+  ]
+}
