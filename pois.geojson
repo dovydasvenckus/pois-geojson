@@ -46,6 +46,19 @@
     {
       "type": "Feature",
       "properties": {
+        "type": "small_city",
+        "name": " Dieveniškės ",
+        "source": "https://www.pamatyklietuvoje.lt/lankytinos-vietos/dieveniskes/10075",
+        "visited": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.624955892562866, 54.19479049198504]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "type": "chapel",
         "name": "Didžiokų koplyčia",
         "source": "https://www.pamatyklietuvoje.lt/lankytinos-vietos/didzioku-koplycia-mauzoliejus/11180",
@@ -104,6 +117,32 @@
       "geometry": {
         "type": "Point",
         "coordinates": [26.139537692070007, 55.5839905799112]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "watermill",
+        "name": " Marimonto vandens malūno liekanos",
+        "source": "https://www.pamatyklietuvoje.lt/lankytinos-vietos/marimonto-vandens-maluno-liekanos/567",
+        "visited": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.8985036611557, 55.8220166711279]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "tree",
+        "name": " Grybiškių ąžuolas",
+        "source": "https://www.pamatyklietuvoje.lt/lankytinos-vietos/grybiskiu-azuolas/353",
+        "visited": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.640142560005188, 54.248380750267216]
       }
     }
   ]
