@@ -4,7 +4,7 @@
     {
       "type": "Feature",
       "properties": {
-        "type": "cycling-route",
+        "type": "cycling_route",
         "name": "Gražutės didysis dviračių žiedas",
         "url": "https://www.pamatyklietuvoje.lt/keliones/marsrutai-dviraciu/grazutes-didysis-dviraciu-ziedas/103",
         "distance": 45,
