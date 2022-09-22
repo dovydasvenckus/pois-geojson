@@ -48,6 +48,18 @@
         "type": "Point",
         "coordinates": [21.230220794677734, 55.884256798010604]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "restourant",
+        "name": "Venckai Venckuose",
+        "visited": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.32161170244217, 55.512567103591]
+      }
     }
   ]
 }
