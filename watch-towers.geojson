@@ -96,6 +96,214 @@
         "type": "Point",
         "coordinates": [25.838513374328613, 55.840988337095006]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "watch_tower",
+        "name": "Kalnų (Šiaulės kalno) apžvalgos bokštas",
+        "source": "https://www.pamatyklietuvoje.lt/lankytinos-vietos/kalnu-siaules-kalno-apzvalgos-bokstas/2339",
+        "visited": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.41910719871521, 55.64520043202019]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "watch_tower",
+        "name": "Tytuvėnų apžvalgos bokštas",
+        "source": "https://www.pamatyklietuvoje.lt/lankytinos-vietos/tytuvenu-apzvalgos-bokstas/3",
+        "visited": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.24005365371704, 55.58995701550463]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "watch_tower",
+        "name": "Vilkakalnio apžvalgos bokštas",
+        "source": "https://www.pamatyklietuvoje.lt/lankytinos-vietos/vilkakalnio-apzvalgos-bokstas/2",
+        "visited": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [26.17805957794189, 55.334740665170145]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "watch_tower",
+        "name": "Bijeikių (Rubikių) apžvalgos bokštas",
+        "source": "https://www.pamatyklietuvoje.lt/lankytinos-vietos/bijeikiu-rubikiu-apzvalgos-bokstas/84",
+        "visited": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.26777684688568, 55.483711197819154]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "watch_tower",
+        "name": "Puvočių apžvalgos bokštas",
+        "source": "https://www.pamatyklietuvoje.lt/lankytinos-vietos/puvociu-apzvalgos-bokstas/909",
+        "visited": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.309386014938354, 54.1143673975052]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "watch_tower",
+        "name": "Lygumų apžvalgos bokštas",
+        "source": "https://www.pamatyklietuvoje.lt/lankytinos-vietos/lygumu-apzvalgos-bokstas/1075",
+        "visited": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [26.122323274612423, 55.268899572849676]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "watch_tower",
+        "name": "Krekenavos apžvalgos bokštas",
+        "source": "https://www.pamatyklietuvoje.lt/lankytinos-vietos/krekenavos-apzvalgos-bokstas/1413",
+        "visited": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.10524845123291, 55.55185993091047]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "watch_tower",
+        "name": "Švenčionių apžvalgos bokštas",
+        "source": "https://www.pamatyklietuvoje.lt/lankytinos-vietos/svencioniu-apzvalgos-bokstas/1092",
+        "visited": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [26.210337281227112, 55.16553757915073]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "watch_tower",
+        "name": "Šiliniškių apžvalgos bokštas",
+        "source": "https://www.pamatyklietuvoje.lt/lankytinos-vietos/siliniskiu-apzvalgos-bokstas/23",
+        "visited": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.97458720207214, 55.38110363343937]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "watch_tower",
+        "name": "Aukštagirės apžvalgos bokštas",
+        "source": "https://www.pamatyklietuvoje.lt/lankytinos-vietos/aukstagires-apzvalgos-bokstas/341",
+        "visited": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.32793092727661, 55.612377608099116]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "watch_tower",
+        "name": "Siberijos apžvalgos bokštas",
+        "source": "https://www.pamatyklietuvoje.lt/lankytinos-vietos/siberijos-apzvalgos-bokstas/1086",
+        "visited": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.814456880092617, 56.03046623885588]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "watch_tower",
+        "name": "Jurakalnio apžvalgos bokštas",
+        "source": "https://www.pamatyklietuvoje.lt/lankytinos-vietos/jurakalnio-apzvalgos-bokstas/6",
+        "visited": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.782511711120605, 56.14352328681034]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "watch_tower",
+        "name": "Metelių apžvalgos bokštas",
+        "source": "https://www.pamatyklietuvoje.lt/lankytinos-vietos/meteliu-apzvalgos-bokstas/1411",
+        "visited": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.74243676662445, 54.29562335221448]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "watch_tower",
+        "name": "Veisiejų apžvalgos bokštas",
+        "source": "https://www.pamatyklietuvoje.lt/lankytinos-vietos/veisieju-apzvalgos-bokstas/1286",
+        "visited": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.722084164619446, 54.101262375491196]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "watch_tower",
+        "name": "Veisiejų apžvalgos bokštas",
+        "source": "https://www.pamatyklietuvoje.lt/lankytinos-vietos/veisieju-apzvalgos-bokstas/1286",
+        "visited": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.23358428478241, 55.516180008415766]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "watch_tower",
+        "name": "Drevernos apžvalgos bokštas",
+        "source": "https://www.pamatyklietuvoje.lt/lankytinos-vietos/drevernos-apzvalgos-bokstas/9",
+        "visited": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.23358428478241, 55.516180008415766]
+      }
     }
   ]
 }
