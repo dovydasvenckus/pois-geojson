@@ -293,6 +293,48 @@
         "type": "Point",
         "coordinates": [26.140615940093994, 55.58358126373988]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "cognitive_trail",
+        "name": "Bijotų pažintinis takas",
+        "source": "https://www.pamatyklietuvoje.lt/lankytinos-vietos/pazintinis-takas-bijotu-sirvinto-miskais/4326",
+        "distance": 3.5,
+        "visited": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.74147117137909, 54.283714044358874]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "cognitive_trail",
+        "name": "Šventos pažintinis mitologinis takas",
+        "source": "https://www.pamatyklietuvoje.lt/lankytinos-vietos/sventos-pazintinis-mitologinis-takas/4387",
+        "distance": 1.3,
+        "visited": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [26.205343008041382, 55.19428468126298]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "cognitive_trail",
+        "name": "Kačėniškės piliakalnio pažintinis takas",
+        "source": "https://www.pamatyklietuvoje.lt/lankytinos-vietos/pazintinis-takas-link-kaceniskes-piliakalnio/26482",
+        "distance": 0.8,
+        "visited": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [26.259596049785614, 55.22651892973623]
+      }
     }
   ]
 }
