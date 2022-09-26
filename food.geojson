@@ -52,13 +52,37 @@
     {
       "type": "Feature",
       "properties": {
-        "type": "restourant",
+        "type": "restaurant",
+        "name": "Snack bar",
+        "visited": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.239245086908337, 55.891645516784614]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "restaurant",
         "name": "Venckai Venckuose",
         "visited": false
       },
       "geometry": {
         "type": "Point",
         "coordinates": [21.32161170244217, 55.512567103591]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "restaurant",
+        "name": " Chinkali namai",
+        "visited": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.21371826529503, 54.67574244781728]
       }
     }
   ]
