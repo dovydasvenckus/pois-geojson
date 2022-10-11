@@ -54,7 +54,7 @@
       "properties": {
         "type": "restaurant",
         "name": "Snack bar",
-        "visited": true
+        "visited": false
       },
       "geometry": {
         "type": "Point",
@@ -83,6 +83,54 @@
       "geometry": {
         "type": "Point",
         "coordinates": [25.21371826529503, 54.67574244781728]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "restaurant",
+        "name": "Čeburėkinė",
+        "visited": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.043511986732483, 54.64419886114008]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "restaurant",
+        "name": "Viduklės koldūnai",
+        "visited": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.89639562368393, 55.400017132344644]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "kebab",
+        "name": " Saunch ",
+        "visited": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [385.2457505464554, 54.67297639198217]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "restaurant_vegetarian",
+        "name": "Viduklės koldūnai",
+        "visited": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [385.2777747809887, 54.68044981524174]
       }
     }
   ]
