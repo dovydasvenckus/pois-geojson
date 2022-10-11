@@ -13,6 +13,32 @@
         "type": "Point",
         "coordinates": [25.333877205848694, 55.11531753390927]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "museum_openair",
+        "name": "Orvidų sodyba",
+        "source": "https://www.orvidusodyba.lt/",
+        "visited": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [381.6101932525635, 56.051160590662874]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "museum_war",
+        "name": "Šaltojo karo muziejus",
+        "source": "https://pamatyklietuvoje.lt/details/saltojo-karo-muziejus/299",
+        "visited": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [381.90618038177485, 56.031940921291365]
+      }
     }
   ]
 }

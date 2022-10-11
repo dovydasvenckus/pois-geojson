@@ -144,6 +144,45 @@
         "type": "Point",
         "coordinates": [25.640142560005188, 54.248380750267216]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "small_city",
+        "name": "Atlanta",
+        "source": "https://lt.wikipedia.org/wiki/Did%C5%BEiasalis",
+        "visited": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.293059349060055, 55.35098791027422]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "tree",
+        "name": " Stelmužės ąžuolas",
+        "source": "https://lt.wikipedia.org/wiki/Stelmu%C5%BE%C4%97s_%C4%85%C5%BEuolas",
+        "visited": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [386.2173083424568, 55.82985411234586]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "church",
+        "name": " Stelmužės bažnyčia",
+        "source": "https://lt.wikipedia.org/wiki/Stelmu%C5%BE%C4%97s_Vie%C5%A1paties_J%C4%97zaus_Kry%C5%BEiaus_ba%C5%BEny%C4%8Dia",
+        "visited": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [386.21734388172626, 55.82944397399981]
+      }
     }
   ]
 }
