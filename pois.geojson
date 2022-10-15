@@ -183,6 +183,30 @@
         "type": "Point",
         "coordinates": [386.21734388172626, 55.82944397399981]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "market",
+        "name": " Bagažinių turgus",
+        "visited": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [383.99579018354416, 54.913778596533206]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "small_city",
+        "name": " Plokščiai",
+        "visited": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [383.17301988601685, 55.081852540957065]
+      }
     }
   ]
 }

@@ -132,6 +132,18 @@
         "type": "Point",
         "coordinates": [385.2777747809887, 54.68044981524174]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "kebab",
+        "name": "Kebab republic",
+        "visited": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [383.98876547813416, 54.91641337214686]
+      }
     }
   ]
 }
