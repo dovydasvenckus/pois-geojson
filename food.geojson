@@ -118,19 +118,19 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [385.2457505464554, 54.67297639198217]
+        "coordinates": [25.245750546455383, 54.672971739080225]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "type": "restaurant_vegetarian",
-        "name": "Viduklės koldūnai",
+        "name": "Rosehip",
         "visited": false
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [385.2777747809887, 54.68044981524174]
+        "coordinates": [25.277748629450798, 54.680453691946]
       }
     },
     {
@@ -142,7 +142,7 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [383.98876547813416, 54.91641337214686]
+        "coordinates": [23.98885264992714, 54.91641337214686]
       }
     }
   ]
