@@ -14,6 +14,20 @@
         "type": "Point",
         "coordinates": [26.134387850761414, 55.57987334698657]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "cycling_route",
+        "name": "Aplink Platelių ežerą",
+        "url": "https://pamatyklietuvoje.lt/keliones/marsrutai-dviraciu/aplink-plateliu-ezera/40",
+        "distance": 24,
+        "visited": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.81513011455536, 56.04231006435603]
+      }
     }
   ]
 }
