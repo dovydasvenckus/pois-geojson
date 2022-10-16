@@ -207,6 +207,32 @@
         "type": "Point",
         "coordinates": [23.17338466644287, 55.082408319857734]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "memorial",
+        "name": " Ablingos lurdas",
+        "source": "https://www.xxiamzius.lt/archyvas/priedai/uzlaisve/20070615/2-1.html",
+        "visited": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.696174144744873, 55.73141763959268]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "memorial",
+        "name": " Ablingos memorialas",
+        "source": "https://lt.wikipedia.org/wiki/Ablinga",
+        "visited": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.687237024307247, 55.7422176637792]
+      }
     }
   ]
 }
