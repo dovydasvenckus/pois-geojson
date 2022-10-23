@@ -39,6 +39,18 @@
         "type": "Point",
         "coordinates": [21.906180381774902, 56.03221666866527]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "museum_war",
+        "name": "Policijos muziejus",
+        "visited": false
+      },
+      "geometry": {
+        "coordinates": [25.26062405480178, 54.676473744463834],
+        "type": "Point"
+      }
     }
   ]
 }

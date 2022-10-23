@@ -233,6 +233,18 @@
         "type": "Point",
         "coordinates": [21.687237024307247, 55.7422176637792]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "memorial",
+        "name": " Šiaulių geležinkelio muziejus",
+        "visited": false
+      },
+      "geometry": {
+        "coordinates": [23.300198974724452, 55.926645270530344],
+        "type": "Point"
+      }
     }
   ]
 }

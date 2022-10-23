@@ -144,6 +144,42 @@
         "type": "Point",
         "coordinates": [23.98885264992714, 54.91641337214686]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "restaurant",
+        "name": " Yakitori Grill Boutique",
+        "visited": false
+      },
+      "geometry": {
+        "coordinates": [25.303248304783835, 54.6786309385173],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "cafe",
+        "name": "Kavos Reikalai",
+        "visited": false
+      },
+      "geometry": {
+        "coordinates": [25.273658171928417, 54.690059067622315],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "cafe",
+        "name": "Backstage Roastery Cafe",
+        "visited": false
+      },
+      "geometry": {
+        "coordinates": [25.265998284255033, 54.674953747402185],
+        "type": "Point"
+      }
     }
   ]
 }
