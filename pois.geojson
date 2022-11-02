@@ -245,6 +245,18 @@
         "coordinates": [23.300198974724452, 55.926645270530344],
         "type": "Point"
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "church",
+        "name": " Dubingiai church",
+        "visited": false
+      },
+      "geometry": {
+        "coordinates": [25.45220755671889, 55.05719828334054],
+        "type": "Point"
+      }
     }
   ]
 }

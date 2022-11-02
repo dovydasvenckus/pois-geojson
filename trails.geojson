@@ -335,6 +335,20 @@
         "type": "Point",
         "coordinates": [26.259596049785614, 55.22651892973623]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "cognitive_trail",
+        "name": "Daugėliškių miško bunkerio pažintinis takas",
+        "source": "https://pamatyklietuvoje.lt/details/daugeliskiu-misko-bunkerio-pazintinis-takas/6892",
+        "distance": 1.1,
+        "visited": false
+      },
+      "geometry": {
+        "coordinates": [23.697155644636638, 55.17484282498077],
+        "type": "Point"
+      }
     }
   ]
 }
