@@ -257,6 +257,18 @@
         "coordinates": [25.45220755671889, 55.05719828334054],
         "type": "Point"
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "memorial",
+        "name": " Romas Kalanta",
+        "visited": false
+      },
+      "geometry": {
+        "coordinates": [23.885558874489448, 54.90856887786347],
+        "type": "Point"
+      }
     }
   ]
 }
