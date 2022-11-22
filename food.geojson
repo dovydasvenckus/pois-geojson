@@ -180,6 +180,43 @@
         "coordinates": [25.265998284255033, 54.674953747402185],
         "type": "Point"
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "cake",
+        "name": "Patore sesės",
+        "visited": false
+      },
+      "geometry": {
+        "coordinates": [25.277680225305744, 54.67546201207389],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "cake",
+        "name": "Jūratės Gulbinienės įmonė",
+        "visited": false
+      },
+      "geometry": {
+        "coordinates": [25.23624562145892, 54.728140109166844],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "cake",
+        "name": "Babarskienės šakočiai",
+        "visited": false,
+        "url": "http://www.babarskiene.lt/"
+      },
+      "geometry": {
+        "coordinates": [25.26566822534079, 54.67638509996911],
+        "type": "Point"
+      }
     }
   ]
 }
