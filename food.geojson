@@ -229,6 +229,18 @@
         "coordinates": [25.293031870065903, 54.68601935027698],
         "type": "Point"
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "kebab",
+        "name": "Paragauk pats",
+        "visited": true
+      },
+      "geometry": {
+        "coordinates": [24.669023224133724, 54.784255954745845],
+        "type": "Point"
+      }
     }
   ]
 }
