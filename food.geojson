@@ -217,6 +217,18 @@
         "coordinates": [25.26566822534079, 54.67638509996911],
         "type": "Point"
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "ice-cream",
+        "name": "Rotonda",
+        "visited": false
+      },
+      "geometry": {
+        "coordinates": [25.293031870065903, 54.68601935027698],
+        "type": "Point"
+      }
     }
   ]
 }

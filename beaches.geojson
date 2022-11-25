@@ -1,0 +1,29 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "beach",
+        "name": "Balžio paplūdimys",
+        "visited": false
+      },
+      "geometry": {
+        "coordinates": [25.43200126963123, 54.79278383999633],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "beach",
+        "name": "Tapelių paplūdimys",
+        "visited": false
+      },
+      "geometry": {
+        "coordinates": [25.447462526266378, 54.771441276931256],
+        "type": "Point"
+      }
+    }
+  ]
+}
