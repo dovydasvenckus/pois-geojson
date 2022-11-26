@@ -51,6 +51,19 @@
         "coordinates": [25.26062405480178, 54.676473744463834],
         "type": "Point"
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "museum_war",
+        "name": "Kopūstėlių raketinė bazė",
+        "url": "https://www.niekonaujo.lt/20111216/kopusteliai",
+        "visited": false
+      },
+      "geometry": {
+        "coordinates": [24.707135200859653, 55.18635150692086],
+        "type": "Point"
+      }
     }
   ]
 }

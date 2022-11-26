@@ -349,6 +349,20 @@
         "coordinates": [23.697155644636638, 55.17484282498077],
         "type": "Point"
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "cognitive_trail",
+        "name": "Jurakalnio geologinis - pažintinis takas",
+        "source": "https://pamatyklietuvoje.lt/details/jurakalnio-geologinis-pazintinis-takas/4655",
+        "distance": 3,
+        "visited": false
+      },
+      "geometry": {
+        "coordinates": [22.78921745040111, 56.15179874528437],
+        "type": "Point"
+      }
     }
   ]
 }

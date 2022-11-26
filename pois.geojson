@@ -269,6 +269,96 @@
         "coordinates": [23.885558874489448, 54.90856887786347],
         "type": "Point"
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "church",
+        "name": " Papilės Šv. Juozapo bažnyčia",
+        "visited": false
+      },
+      "geometry": {
+        "coordinates": [22.78837400136112, 56.152086259652975],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "chapel",
+        "name": "Antanavo šešiakampė koplyčia",
+        "source": "https://www.pamatyklietuvoje.lt/details/antanavo-koplycia/10202",
+        "visited": false
+      },
+      "geometry": {
+        "coordinates": [23.30801862391243, 54.70116053317162],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "chapel",
+        "name": "Uoginių Šv.Marijos Magdalietės koplyčia",
+        "source": "https://lt.wikipedia.org/wiki/Uogini%C5%B3_koply%C4%8Dia",
+        "visited": false
+      },
+      "geometry": {
+        "coordinates": [24.769099581444408, 55.88600998990205],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "chapel",
+        "name": "Poklevskių-Kozelų koplyčia",
+        "source": "https://www.niekonaujo.lt/20201109/antakalnio-koplytele",
+        "visited": false
+      },
+      "geometry": {
+        "coordinates": [24.827574294126805, 55.236709554218464],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "manor",
+        "name": "Atlantos dvaras",
+        "source": "https://lt.wikipedia.org/wiki/Alantos_dvaras",
+        "visited": false
+      },
+      "geometry": {
+        "coordinates": [25.324949114929098, 55.34616918763669],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "manor",
+        "name": "Libertavos dvaro sodyba",
+        "source": "https://www.niekonaujo.lt/20190110/libertavos-dvaro-sodyba",
+        "visited": false
+      },
+      "geometry": {
+        "coordinates": [25.15400346949488, 55.35390168299165],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "manor",
+        "name": "Libertavos dvaro sodyba",
+        "source": "https://www.niekonaujo.lt/20190110/libertavos-dvaro-sodyba",
+        "visited": false
+      },
+      "geometry": {
+        "coordinates": [24.707135200859653, 55.18635150692086],
+        "type": "Point"
+      }
     }
   ]
 }
