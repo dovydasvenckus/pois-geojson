@@ -1,14 +1,13 @@
 {
   "type": "FeatureCollection",
-  "properties": {
-    "type": "abandoned",
-    "name": "Šilininkų vasaros stovykla",
-    "visited": false
-  },
   "features": [
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "type": "abandoned",
+        "name": "Šilininkų vasaros stovykla",
+        "visited": false
+      },
       "geometry": {
         "coordinates": [21.553846473353644, 55.2039955934101],
         "type": "Point"
