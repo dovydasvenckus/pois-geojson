@@ -359,6 +359,18 @@
         "coordinates": [24.707135200859653, 55.18635150692086],
         "type": "Point"
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "market",
+        "name": "Kalvarijų turgus",
+        "visited": false
+      },
+      "geometry": {
+        "coordinates": [25.28447091511447, 54.7002930738615],
+        "type": "Point"
+      }
     }
   ]
 }
