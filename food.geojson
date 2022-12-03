@@ -245,18 +245,6 @@
     {
       "type": "Feature",
       "properties": {
-        "type": "restaurant",
-        "name": "Chinkali namai",
-        "visited": false
-      },
-      "geometry": {
-        "coordinates": [25.213714987033683, 54.67574827029031],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "type": "burger",
         "name": "Barbeque Burgers",
         "visited": false
