@@ -12,6 +12,30 @@
         "coordinates": [21.553846473353644, 55.2039955934101],
         "type": "Point"
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "ghost_town",
+        "name": " Žąsaičiai (potentially abandoned village)",
+        "visited": false
+      },
+      "geometry": {
+        "coordinates": [23.449058486436684, 55.61493614358659],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "ghost_town",
+        "name": "Anužiai abandoned village",
+        "visited": false
+      },
+      "geometry": {
+        "coordinates": [21.56761233892817, 55.86660749279628],
+        "type": "Point"
+      }
     }
   ]
 }

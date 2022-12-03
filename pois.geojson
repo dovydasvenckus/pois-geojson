@@ -110,7 +110,7 @@
       "type": "Feature",
       "properties": {
         "type": "church",
-        "name": " Visaginas",
+        "name": " Salako akmeninė bažnyčia",
         "description": "Akmeninė bažnyčia",
         "visited": true
       },
@@ -369,6 +369,57 @@
       },
       "geometry": {
         "coordinates": [25.28447091511447, 54.7002930738615],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "church",
+        "name": " Šilavoto Švč. Jėzaus Širdies bažnyčia",
+        "visited": false
+      },
+      "geometry": {
+        "coordinates": [23.761510976852605, 54.667419343465355],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "church",
+        "name": " Šilavoto Švč. Jėzaus Širdies bažnyčia",
+        "url": "http://www.partizanai.org/laisves-kovu-archyvas-24-t-1998-m/3689-1946-metu-kaledos-labunavos-dvaro-bokste",
+        "visited": false
+      },
+      "geometry": {
+        "coordinates": [23.88363595144682, 55.17800623004055],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "chapel",
+        "name": "Panaros Dievo Gailestingumo koplyčia",
+        "source": "https://pamatyklietuvoje.lt/details/panaros-dievo-gailestingumo-koplycia/4027",
+        "visited": false
+      },
+      "geometry": {
+        "coordinates": [24.106272487503617, 54.11578921831716],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "statue",
+        "name": "Paminklas mokytojui",
+        "source": "https://lt.wikipedia.org/wiki/%C5%BDi%C5%ABronys",
+        "visited": false
+      },
+      "geometry": {
+        "coordinates": [23.806031031528192, 54.47960494990133],
         "type": "Point"
       }
     }

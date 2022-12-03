@@ -64,6 +64,19 @@
         "coordinates": [24.707135200859653, 55.18635150692086],
         "type": "Point"
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "museum_christian",
+        "name": "Šilavoto Davatkynas",
+        "url": "https://lt.wikipedia.org/wiki/%C5%A0ilavoto_Davatkynas",
+        "visited": false
+      },
+      "geometry": {
+        "coordinates": [23.755604934243763, 54.66524951597927],
+        "type": "Point"
+      }
     }
   ]
 }
