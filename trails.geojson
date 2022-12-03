@@ -47,7 +47,7 @@
       "properties": {
         "type": "cognitive_trail",
         "name": "Pūčkorių pažintinis takas",
-        "url": "https://www.pamatyklietuvoje.lt/lankytinos-vietos/puckoriu-pazintinis-istorinis-takas/4341",
+        "source": "https://www.pamatyklietuvoje.lt/lankytinos-vietos/puckoriu-pazintinis-istorinis-takas/4341",
         "distance": 4.7,
         "visited": true
       },
@@ -61,7 +61,7 @@
       "properties": {
         "type": "cognitive_trail",
         "name": "Varnikų pažintinis takas",
-        "url": "https://www.pamatyklietuvoje.lt/lankytinos-vietos/varniku-pazintinis-takas/4399",
+        "source": "https://www.pamatyklietuvoje.lt/lankytinos-vietos/varniku-pazintinis-takas/4399",
         "distance": 3.5,
         "visited": true
       },
@@ -75,7 +75,7 @@
       "properties": {
         "type": "cognitive_trail",
         "name": "Grabijolų pažintinis takas",
-        "url": "https://www.pamatyklietuvoje.lt/lankytinos-vietos/grabijolu-pazintinis-takas-laikinai-uzdarytas/7963",
+        "source": "https://www.pamatyklietuvoje.lt/lankytinos-vietos/grabijolu-pazintinis-takas-laikinai-uzdarytas/7963",
         "distance": 3.5,
         "visited": true
       },
@@ -89,7 +89,7 @@
       "properties": {
         "type": "cognitive_trail",
         "name": "Dūkštos pažintinis takas",
-        "url": "https://www.pamatyklietuvoje.lt/lankytinos-vietos/dukstos-pazintinis-takas/4319",
+        "source": "https://www.pamatyklietuvoje.lt/lankytinos-vietos/dukstos-pazintinis-takas/4319",
         "distance": 4.5,
         "visited": true
       },
@@ -103,7 +103,7 @@
       "properties": {
         "type": "cognitive_trail",
         "name": "Karmazinų pažintinis takas",
-        "url": "https://www.pamatyklietuvoje.lt/lankytinos-vietos/karmazinu-pazintinis-takas/4322",
+        "source": "https://www.pamatyklietuvoje.lt/lankytinos-vietos/karmazinu-pazintinis-takas/4322",
         "distance": 7,
         "visited": true
       },
@@ -117,7 +117,7 @@
       "properties": {
         "type": "cognitive_trail",
         "name": "Šilėnų pažintinis takas",
-        "url": "https://www.pamatyklietuvoje.lt/lankytinos-vietos/silenu-pazintinis-takas/4405",
+        "source": "https://www.pamatyklietuvoje.lt/lankytinos-vietos/silenu-pazintinis-takas/4405",
         "distance": 6,
         "visited": true
       },
@@ -131,7 +131,7 @@
       "properties": {
         "type": "trail",
         "name": "Senasis Vilniaus - Kauno traktas",
-        "url": "https://www.pamatyklietuvoje.lt/lankytinos-vietos/senasis-vilniaus-kauno-traktas/4445",
+        "source": "https://www.pamatyklietuvoje.lt/lankytinos-vietos/senasis-vilniaus-kauno-traktas/4445",
         "distance": 2.2,
         "visited": true
       },
@@ -145,7 +145,7 @@
       "properties": {
         "type": "trail",
         "name": "Miško pakraščio takas",
-        "url": "https://www.pamatyklietuvoje.lt/lankytinos-vietos/misko-pakrascio-takas/4395",
+        "source": "https://www.pamatyklietuvoje.lt/lankytinos-vietos/misko-pakrascio-takas/4395",
         "distance": 6.6,
         "visited": false
       },
@@ -159,7 +159,7 @@
       "properties": {
         "type": "cognitive_trail",
         "name": "Rokantiškių piliakalnio pažintinis takas",
-        "url": "https://nesedeknamuose.lt/pazintiniai-takai/rokantiskiu-piliakalnio-pazintinis-takas/",
+        "source": "https://nesedeknamuose.lt/pazintiniai-takai/rokantiskiu-piliakalnio-pazintinis-takas/",
         "distance": 1.1,
         "visited": true
       },
@@ -173,7 +173,7 @@
       "properties": {
         "type": "cognitive_trail",
         "name": "Strielčiukų žygtakis",
-        "url": "https://nesedeknamuose.lt/pazintiniai-takai/strielciuku-zygtakis/",
+        "source": "https://nesedeknamuose.lt/pazintiniai-takai/strielciuku-zygtakis/",
         "distance": 3.4,
         "visited": true
       },
@@ -187,7 +187,7 @@
       "properties": {
         "type": "trail",
         "name": "Verkių trasa",
-        "url": "https://nesedeknamuose.lt/pazintiniai-takai/verkiu-trasa/",
+        "source": "https://nesedeknamuose.lt/pazintiniai-takai/verkiu-trasa/",
         "distance": 10,
         "visited": false
       },
@@ -201,7 +201,7 @@
       "properties": {
         "type": "trail",
         "name": "Ribiškių pažintinis takas",
-        "url": "https://nesedeknamuose.lt/pazintiniai-takai/ribiskiu-takas/",
+        "source": "https://nesedeknamuose.lt/pazintiniai-takai/ribiskiu-takas/",
         "distance": 6,
         "visited": true
       },
@@ -215,7 +215,7 @@
       "properties": {
         "type": "cognitive_trail",
         "name": "Saidės pažintinis takas",
-        "url": "https://nesedeknamuose.lt/pazintiniai-takai/saides-pazintinis-takas/",
+        "source": "https://nesedeknamuose.lt/pazintiniai-takai/saides-pazintinis-takas/",
         "distance": 1.2,
         "visited": true
       },

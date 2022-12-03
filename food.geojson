@@ -211,7 +211,7 @@
         "type": "cake",
         "name": "Babarskienės šakočiai",
         "visited": false,
-        "url": "http://www.babarskiene.lt/"
+        "source": "http://www.babarskiene.lt/"
       },
       "geometry": {
         "coordinates": [25.26566822534079, 54.67638509996911],

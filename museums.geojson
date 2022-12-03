@@ -57,7 +57,7 @@
       "properties": {
         "type": "museum_war",
         "name": "Kopūstėlių raketinė bazė",
-        "url": "https://www.niekonaujo.lt/20111216/kopusteliai",
+        "source": "https://www.niekonaujo.lt/20111216/kopusteliai",
         "visited": false
       },
       "geometry": {
@@ -70,7 +70,7 @@
       "properties": {
         "type": "museum_christian",
         "name": "Šilavoto Davatkynas",
-        "url": "https://lt.wikipedia.org/wiki/%C5%A0ilavoto_Davatkynas",
+        "source": "https://lt.wikipedia.org/wiki/%C5%A0ilavoto_Davatkynas",
         "visited": false
       },
       "geometry": {

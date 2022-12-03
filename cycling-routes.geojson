@@ -6,7 +6,7 @@
       "properties": {
         "type": "cycling_route",
         "name": "Gražutės didysis dviračių žiedas",
-        "url": "https://www.pamatyklietuvoje.lt/keliones/marsrutai-dviraciu/grazutes-didysis-dviraciu-ziedas/103",
+        "source": "https://www.pamatyklietuvoje.lt/keliones/marsrutai-dviraciu/grazutes-didysis-dviraciu-ziedas/103",
         "distance": 45,
         "visited": false
       },
@@ -20,7 +20,7 @@
       "properties": {
         "type": "cycling_route",
         "name": "Aplink Platelių ežerą",
-        "url": "https://pamatyklietuvoje.lt/keliones/marsrutai-dviraciu/aplink-plateliu-ezera/40",
+        "source": "https://pamatyklietuvoje.lt/keliones/marsrutai-dviraciu/aplink-plateliu-ezera/40",
         "distance": 24,
         "visited": false
       },
