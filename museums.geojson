@@ -77,6 +77,19 @@
         "coordinates": [23.755604934243763, 54.66524951597927],
         "type": "Point"
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "museum_war",
+        "name": "VI fortas",
+        "source": "https://www.niekonaujo.lt/20220324/vi-fortas",
+        "visited": false
+      },
+      "geometry": {
+        "coordinates": [23.97919809141652, 54.901337514620934],
+        "type": "Point"
+      }
     }
   ]
 }

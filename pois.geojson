@@ -422,6 +422,71 @@
         "coordinates": [23.806031031528192, 54.47960494990133],
         "type": "Point"
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "bunker",
+        "name": "Cold war bunker",
+        "source": "https://coldwarbunker.lt/",
+        "visited": false
+      },
+      "geometry": {
+        "coordinates": [25.26340449149106, 54.668272079660994],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "track",
+        "name": "Auto Moto Parkas",
+        "source": "https://www.automotoparkas.lt/paslaugu-kainorastis",
+        "visited": false
+      },
+      "geometry": {
+        "coordinates": [24.442787855057134, 54.44603530353828],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "manor",
+        "name": " Pajiešmeniai manor",
+        "source": "https://www.15min.lt/pasaulis-kiseneje/naujiena/per-lietuva/pajiesmeniai-kaimas-sugebejes-issaugoti-tai-ka-daugelis-jau-seniai-pradangino-642-1743934",
+        "visited": false
+      },
+      "geometry": {
+        "coordinates": [24.496203683909386, 56.10646697087179],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "school",
+        "name": "Kurnėnų mokyklos statinių kompleksas",
+        "source": "https://www.manokrastas.lt/kurnenu-mokyklos-statiniu-kompleksas",
+        "visited": false
+      },
+      "geometry": {
+        "coordinates": [23.89803284457406, 54.39432416577898],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "bunker",
+        "name": "Soviet Bunker",
+        "source": "http://sovietbunker.com/",
+        "visited": false
+      },
+      "geometry": {
+        "coordinates": [25.535526693851182, 54.830975502075205],
+        "type": "Point"
+      }
     }
   ]
 }

@@ -363,6 +363,34 @@
         "coordinates": [22.78921745040111, 56.15179874528437],
         "type": "Point"
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "cognitive_trail",
+        "name": "Žuvinto ežero gamtinis takas",
+        "source": "https://www.pamatyklietuvoje.lt/details/zuvinto-ezero-gamtinis-takas/7272",
+        "distance": 0.5,
+        "visited": false
+      },
+      "geometry": {
+        "coordinates": [23.64004293037752, 54.45701706596955],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "cognitive_trail",
+        "name": "Cedronas",
+        "source": "https://welovelithuania.com/cedrono-aukstupio-krastovaizdzio-draustinyje-naujas-pazintinis-takas/",
+        "distance": 3,
+        "visited": false
+      },
+      "geometry": {
+        "coordinates": [25.267201928054902, 54.72706032109926],
+        "type": "Point"
+      }
     }
   ]
 }
