@@ -487,6 +487,18 @@
         "coordinates": [25.535526693851182, 54.830975502075205],
         "type": "Point"
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "church",
+        "name": "Leliūnų Šv. Juozapo bažnyčia",
+        "visited": false
+      },
+      "geometry": {
+        "coordinates": [25.395168788219053, 55.47348153285887],
+        "type": "Point"
+      }
     }
   ]
 }

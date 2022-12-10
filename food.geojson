@@ -253,6 +253,18 @@
         "coordinates": [25.222842607182997, 54.66811801260849],
         "type": "Point"
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "watermill",
+        "name": "Šlyninkos Vandens Malūnas",
+        "visited": false
+      },
+      "geometry": {
+        "coordinates": [26.19784069295133, 55.73385813321718],
+        "type": "Point"
+      }
     }
   ]
 }

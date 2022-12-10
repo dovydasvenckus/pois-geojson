@@ -304,6 +304,18 @@
         "type": "Point",
         "coordinates": [21.23358428478241, 55.516180008415766]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "watch_tower",
+        "name": "Aukštojo apžvalgos bokštas",
+        "visited": true
+      },
+      "geometry": {
+        "coordinates": [25.625976557729814, 54.52708269636517],
+        "type": "Point"
+      }
     }
   ]
 }

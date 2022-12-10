@@ -391,6 +391,48 @@
         "coordinates": [25.267201928054902, 54.72706032109926],
         "type": "Point"
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "cognitive_trail",
+        "name": "Gaujos mokomasis takas",
+        "source": "https://www.pamatyklietuvoje.lt/lankytinos-vietos/gaujos-mokomasis-takas/4401",
+        "distance": 1.7,
+        "visited": false
+      },
+      "geometry": {
+        "coordinates": [25.660873445603073, 54.179157294662446],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "cognitive_trail",
+        "name": "Sapieginės pažintinis poilsio takas",
+        "source": "https://www.pamatyklietuvoje.lt/lankytinos-vietos/sapiegines-pazintinis-poilsio-takas/4342",
+        "distance": 5.3,
+        "visited": false
+      },
+      "geometry": {
+        "coordinates": [25.347300051787812, 54.70004439612404],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "cognitive_trail",
+        "name": "Lopaičių pažintinis takas",
+        "source": "https://www.pamatyklietuvoje.lt/details/lopaiciu-pazintinis-takas/7870",
+        "distance": 1,
+        "visited": false
+      },
+      "geometry": {
+        "coordinates": [22.190993845992637, 55.74232830563744],
+        "type": "Point"
+      }
     }
   ]
 }

@@ -90,6 +90,19 @@
         "coordinates": [23.97919809141652, 54.901337514620934],
         "type": "Point"
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "car_museum",
+        "name": "Garažas 9:11 ",
+        "source": "https://www.youtube.com/watch?v=VROkhkJBbus",
+        "visited": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.333877205848694, 55.11531753390927]
+      }
     }
   ]
 }
