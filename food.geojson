@@ -126,7 +126,7 @@
       "properties": {
         "type": "restaurant_vegetarian",
         "name": "Rosehip",
-        "visited": false
+        "visited": true
       },
       "geometry": {
         "type": "Point",
@@ -174,7 +174,7 @@
       "properties": {
         "type": "cafe",
         "name": "Backstage Roastery Cafe",
-        "visited": false
+        "visited": true
       },
       "geometry": {
         "coordinates": [25.265998284255033, 54.674953747402185],
