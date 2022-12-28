@@ -36,6 +36,32 @@
         "coordinates": [21.56761233892817, 55.86660749279628],
         "type": "Point"
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "abandoned",
+        "name": "Spenglos globos namai",
+        "visited": false,
+	"source": "https://dina.lt/2016/08/pirmyn-i-kelione-apleista-sanatorine-mokykla-internatas-prie-spenglos-upelio"
+      },
+      "geometry": {
+        "coordinates": [24.771321884301898, 54.35631048414962],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "abandoned",
+        "name": "Vasaros stovykla \"Berželis\"",
+        "visited": false,
+	"source": "https://www.praeitieszvalgas.lt/vaiku-poilsio-stovykla-berzelis"
+      },
+      "geometry": {
+        "coordinates": [24.043787493624393, 54.59927880130647],
+        "type": "Point"
+      }
     }
   ]
 }
