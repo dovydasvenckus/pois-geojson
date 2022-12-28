@@ -265,6 +265,31 @@
         "coordinates": [26.19784069295133, 55.73385813321718],
         "type": "Point"
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "cafe",
+        "name": "Chaika",
+	"source": "https://chaika.lt/lt/kavines/",
+        "visited": false
+      },
+      "geometry": {
+        "coordinates": [25.282101969380534, 54.68527286674538],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "restourant",
+        "name": "Retro čeburėkai",
+        "visited": false
+      },
+      "geometry": {
+        "coordinates": [21.25944185413144, 55.890940094977566],
+        "type": "Point"
+      }
     }
   ]
 }
