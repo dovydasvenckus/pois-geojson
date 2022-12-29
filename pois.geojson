@@ -629,6 +629,57 @@
         "coordinates": [22.863567711036836, 54.77400899124456],
         "type": "Point"
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "manor",
+        "name": "Užvenčio dvaro sodyba",
+        "visited": false,
+	"source": "https://pamatyklietuvoje.lt/details/uzvencio-dvaro-sodyba/1815"
+      },
+      "geometry": {
+        "coordinates": [22.657046685861474, 55.78754625412353],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "hill",
+        "name": "Šatrijos piliakalnis",
+        "visited": false,
+	"source": "https://www.pamatyklietuvoje.lt/lankytinos-vietos/satrijos-piliakalnis/344"
+      },
+      "geometry": {
+        "coordinates": [22.56106859220992, 55.870479778053124],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "prison",
+        "name": "Lukiškių kalėjimas",
+        "visited": false,
+	"sources": "https://www.niekonaujo.lt/20191211/lukiskiu-kalejimas"
+      },
+      "geometry": {
+        "coordinates": [25.26623716126639, 54.69153520131212],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "market",
+        "name": "Ričardo antikvariatas",
+        "visited": false
+      },
+      "geometry": {
+        "coordinates": [24.84333340483738, 54.94801339138573],
+        "type": "Point"
+      }
     }
   ]
 }

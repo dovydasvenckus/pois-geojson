@@ -116,6 +116,19 @@
         "type": "Point",
         "coordinates": [26.534794540670106, 55.87483895434346]
       }
-    }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "museum_openair",
+        "name": "Europos parkas",
+        "source": "https://www.pamatyklietuvoje.lt/lankytinos-vietos/europos-parkas-europos-centro-muziejus/1485",
+        "visited": false 
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.351627968423543, 54.83086572245611]
+      }
+    },
   ]
 }
