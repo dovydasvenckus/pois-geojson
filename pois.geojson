@@ -525,6 +525,19 @@
         "coordinates": [24.130669217889807, 56.39199857914121],
         "type": "Point"
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "library",
+        "name": "Kretingos rajono savivaldybės viešoji biblioteka",
+        "visited": false,
+	"source": "https://www.kretvb.lt"
+      },
+      "geometry": {
+        "coordinates": [21.24429508170175, 55.890635621039735],
+        "type": "Point"
+      }
     }
   ]
 }

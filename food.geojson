@@ -284,7 +284,7 @@
       "properties": {
         "type": "restaurant",
         "name": "Retro čeburėkai",
-        "visited": false
+        "visited": true 
       },
       "geometry": {
         "coordinates": [21.25944185413144, 55.890940094977566],
