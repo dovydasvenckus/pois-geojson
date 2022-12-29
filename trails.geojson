@@ -433,6 +433,20 @@
         "coordinates": [22.190993845992637, 55.74232830563744],
         "type": "Point"
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "trail",
+        "name": "Sveikatos takai",
+        "source": "https://nesedeknamuose.lt/pazintiniai-takai/sveikatos-takai/",
+        "distance": 1,
+        "visited": false
+      },
+      "geometry": {
+        "coordinates": [21.07322633211325, 55.80685342691453],
+        "type": "Point"
+      }
     }
   ]
 }

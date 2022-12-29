@@ -499,6 +499,32 @@
         "coordinates": [25.395168788219053, 55.47348153285887],
         "type": "Point"
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "memorial",
+        "name": "Partizano Sergijaus Staniškio - žūties vieta",
+        "visited": false,
+	"source": "https://lt.wikipedia.org/wiki/Sergijus_Stani%C5%A1kis"
+      },
+      "geometry": {
+        "coordinates": [23.947458814921177, 54.593199083513014],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "manor",
+        "name": "Kaucidės dvaro rūmai",
+        "visited": false,
+	"source": "https://www.niekonaujo.lt/20220224/kaucmindes-rumai"
+      },
+      "geometry": {
+        "coordinates": [24.130669217889807, 56.39199857914121],
+        "type": "Point"
+      }
     }
   ]
 }
