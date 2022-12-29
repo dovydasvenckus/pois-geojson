@@ -103,6 +103,19 @@
         "type": "Point",
         "coordinates": [25.333877205848694, 55.11531753390927]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "museum_industrial",
+        "name": "Daugpilio šratų gamykla „DSR“",
+        "source": "https://www.niekonaujo.lt/20220815/daugpilio-sratu-gamykla",
+        "visited": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [26.534794540670106, 55.87483895434346]
+      }
     }
   ]
 }

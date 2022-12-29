@@ -452,6 +452,19 @@
     {
       "type": "Feature",
       "properties": {
+        "type": "track",
+        "name": "Varėnos Autosporto Klubas",
+        "source": "https://lt-lt.facebook.com/varenosask",
+        "visited": false
+      },
+      "geometry": {
+        "coordinates": [24.67478, 54.17493],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "type": "manor",
         "name": " Pajiešmeniai manor",
         "source": "https://www.15min.lt/pasaulis-kiseneje/naujiena/per-lietuva/pajiesmeniai-kaimas-sugebejes-issaugoti-tai-ka-daugelis-jau-seniai-pradangino-642-1743934",
@@ -536,6 +549,84 @@
       },
       "geometry": {
         "coordinates": [21.24429508170175, 55.890635621039735],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "manor",
+        "name": "Tytuvėnų dvaras",
+        "visited": false,
+	"source": "https://lt.wikipedia.org/wiki/Tytuv%C4%97n%C4%97li%C5%B3_dvaras"
+      },
+      "geometry": {
+        "coordinates": [23.180940112573836, 55.62073925201335],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "windmill",
+        "name": "Lazdininkų vėjo malūnas",
+        "visited": false,
+	"source": "https://pamatyklietuvoje.lt/lankytinos-vietos/lazdininku-vejo-malunas/3198"
+      },
+      "geometry": {
+        "coordinates": [21.21663509646163, 56.00650489482388],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "memorial",
+        "name": "Panerių memorialas",
+        "visited": true,
+	"source": "https://www.pamatyklietuvoje.lt/lankytinos-vietos/paneriu-memorialas/9277"
+      },
+      "geometry": {
+        "coordinates": [25.162135642866275, 54.62747264211944],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "manor",
+        "name": "Kraštų dvaras",
+        "visited": false,
+	"source": "https://www.niekonaujo.lt/20220911/krastu-dvaras"
+      },
+      "geometry": {
+        "coordinates": [25.905144921736166, 55.913838789832596],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "small_city",
+        "name": "Kačerginė",
+        "visited": false,
+	"source": "https://lt.wikipedia.org/wiki/Ka%C4%8Dergin%C4%97"
+      },
+      "geometry": {
+        "coordinates": [23.72084530950079, 54.933857243214675],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "small_city",
+        "name": "Kudirkos Naumiestis",
+        "visited": false,
+	"source": "https://lt.wikipedia.org/wiki/Kudirkos_Naumiestis"
+      },
+      "geometry": {
+        "coordinates": [22.863567711036836, 54.77400899124456],
         "type": "Point"
       }
     }

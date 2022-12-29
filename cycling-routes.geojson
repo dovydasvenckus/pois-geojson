@@ -28,6 +28,20 @@
         "type": "Point",
         "coordinates": [21.81513011455536, 56.04231006435603]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "cycling_route",
+        "name": "Kairiojo Neries kranto turizmo trasa",
+        "source": "https://nesedeknamuose.lt/pazintiniai-takai/kairiojo-neries-kranto-turizmo-trasa",
+        "distance": 28,
+        "visited": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.957463092165796, 54.7552574169834]
+      }
     }
   ]
 }
