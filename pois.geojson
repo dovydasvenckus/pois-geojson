@@ -680,6 +680,19 @@
         "coordinates": [24.84333340483738, 54.94801339138573],
         "type": "Point"
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "small_city",
+        "name": "Vilkija",
+        "source": "https://lt.wikipedia.org/wiki/Vilkija",
+        "visited": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.58330778580435, 55.04062237711415]
+      }
     }
   ]
 }

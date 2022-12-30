@@ -399,7 +399,7 @@
         "name": "Gaujos mokomasis takas",
         "source": "https://www.pamatyklietuvoje.lt/lankytinos-vietos/gaujos-mokomasis-takas/4401",
         "distance": 1.7,
-        "visited": false
+        "visited": true
       },
       "geometry": {
         "coordinates": [25.660873445603073, 54.179157294662446],
