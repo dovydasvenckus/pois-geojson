@@ -290,6 +290,18 @@
         "coordinates": [21.25944185413144, 55.890940094977566],
         "type": "Point"
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "restaurant",
+        "name": "Bobos daržas",
+        "visited": false
+      },
+      "geometry": {
+        "coordinates": [25.26555767577389, 54.68255863258841],
+        "type": "Point"
+      }
     }
   ]
 }

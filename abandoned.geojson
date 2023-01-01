@@ -62,6 +62,45 @@
         "coordinates": [24.043787493624393, 54.59927880130647],
         "type": "Point"
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "abandoned",
+        "name": "Priešlėktuvinės gynybos bazė Palangoje",
+        "visited": false,
+	"source": "http://www.apleistazona.lt/prieslektuvines-gynybos-baze-palangoje"
+      },
+      "geometry": {
+        "coordinates": [21.106742217767874, 55.97730388833608],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "abandoned",
+        "name": "Poilsio namai \"Rugelis\"",
+        "visited": false,
+	"source": "http://www.apleistazona.lt/poilsio-namai-rugelis"
+      },
+      "geometry": {
+        "coordinates": [21.07134704924806, 55.93997740470209],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "abandoned",
+        "name": "Pionierių stovykla \"Atgaja\"",
+        "visited": false,
+	"source": "https://www.niekonaujo.lt/20101028/apleista-pionieriu-stovykla"
+      },
+      "geometry": {
+        "coordinates": [25.077485803885082, 54.68392246416249],
+        "type": "Point"
+      }
     }
   ]
 }
