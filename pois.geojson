@@ -86,7 +86,7 @@
       "type": "Feature",
       "properties": {
         "type": "manor",
-        "name": " Markuciai Manor",
+        "name": " Markučių dvaras",
         "visited": false
       },
       "geometry": {
@@ -162,7 +162,7 @@
       "type": "Feature",
       "properties": {
         "type": "tree",
-        "name": " Stelmužės ąžuolas",
+        "name": "Stelmužės ąžuolas",
         "source": "https://lt.wikipedia.org/wiki/Stelmu%C5%BE%C4%97s_%C4%85%C5%BEuolas",
         "visited": false
       },
@@ -519,7 +519,7 @@
         "type": "memorial",
         "name": "Partizano Sergijaus Staniškio - žūties vieta",
         "visited": false,
-	"source": "https://lt.wikipedia.org/wiki/Sergijus_Stani%C5%A1kis"
+        "source": "https://lt.wikipedia.org/wiki/Sergijus_Stani%C5%A1kis"
       },
       "geometry": {
         "coordinates": [23.947458814921177, 54.593199083513014],
@@ -532,7 +532,7 @@
         "type": "manor",
         "name": "Kaucidės dvaro rūmai",
         "visited": false,
-	"source": "https://www.niekonaujo.lt/20220224/kaucmindes-rumai"
+        "source": "https://www.niekonaujo.lt/20220224/kaucmindes-rumai"
       },
       "geometry": {
         "coordinates": [24.130669217889807, 56.39199857914121],
@@ -545,7 +545,7 @@
         "type": "library",
         "name": "Kretingos rajono savivaldybės viešoji biblioteka",
         "visited": false,
-	"source": "https://www.kretvb.lt"
+        "source": "https://www.kretvb.lt"
       },
       "geometry": {
         "coordinates": [21.24429508170175, 55.890635621039735],
@@ -558,7 +558,7 @@
         "type": "manor",
         "name": "Tytuvėnų dvaras",
         "visited": false,
-	"source": "https://lt.wikipedia.org/wiki/Tytuv%C4%97n%C4%97li%C5%B3_dvaras"
+        "source": "https://lt.wikipedia.org/wiki/Tytuv%C4%97n%C4%97li%C5%B3_dvaras"
       },
       "geometry": {
         "coordinates": [23.180940112573836, 55.62073925201335],
@@ -571,7 +571,7 @@
         "type": "windmill",
         "name": "Lazdininkų vėjo malūnas",
         "visited": false,
-	"source": "https://pamatyklietuvoje.lt/lankytinos-vietos/lazdininku-vejo-malunas/3198"
+        "source": "https://pamatyklietuvoje.lt/lankytinos-vietos/lazdininku-vejo-malunas/3198"
       },
       "geometry": {
         "coordinates": [21.21663509646163, 56.00650489482388],
@@ -584,7 +584,7 @@
         "type": "memorial",
         "name": "Panerių memorialas",
         "visited": true,
-	"source": "https://www.pamatyklietuvoje.lt/lankytinos-vietos/paneriu-memorialas/9277"
+        "source": "https://www.pamatyklietuvoje.lt/lankytinos-vietos/paneriu-memorialas/9277"
       },
       "geometry": {
         "coordinates": [25.162135642866275, 54.62747264211944],
@@ -597,7 +597,7 @@
         "type": "manor",
         "name": "Kraštų dvaras",
         "visited": false,
-	"source": "https://www.niekonaujo.lt/20220911/krastu-dvaras"
+        "source": "https://www.niekonaujo.lt/20220911/krastu-dvaras"
       },
       "geometry": {
         "coordinates": [25.905144921736166, 55.913838789832596],
@@ -610,7 +610,7 @@
         "type": "small_city",
         "name": "Kačerginė",
         "visited": false,
-	"source": "https://lt.wikipedia.org/wiki/Ka%C4%8Dergin%C4%97"
+        "source": "https://lt.wikipedia.org/wiki/Ka%C4%8Dergin%C4%97"
       },
       "geometry": {
         "coordinates": [23.72084530950079, 54.933857243214675],
@@ -623,7 +623,7 @@
         "type": "small_city",
         "name": "Kudirkos Naumiestis",
         "visited": false,
-	"source": "https://lt.wikipedia.org/wiki/Kudirkos_Naumiestis"
+        "source": "https://lt.wikipedia.org/wiki/Kudirkos_Naumiestis"
       },
       "geometry": {
         "coordinates": [22.863567711036836, 54.77400899124456],
@@ -636,7 +636,7 @@
         "type": "manor",
         "name": "Užvenčio dvaro sodyba",
         "visited": false,
-	"source": "https://pamatyklietuvoje.lt/details/uzvencio-dvaro-sodyba/1815"
+        "source": "https://pamatyklietuvoje.lt/details/uzvencio-dvaro-sodyba/1815"
       },
       "geometry": {
         "coordinates": [22.657046685861474, 55.78754625412353],
@@ -649,7 +649,7 @@
         "type": "hill",
         "name": "Šatrijos piliakalnis",
         "visited": false,
-	"source": "https://www.pamatyklietuvoje.lt/lankytinos-vietos/satrijos-piliakalnis/344"
+        "source": "https://www.pamatyklietuvoje.lt/lankytinos-vietos/satrijos-piliakalnis/344"
       },
       "geometry": {
         "coordinates": [22.56106859220992, 55.870479778053124],
@@ -662,7 +662,7 @@
         "type": "prison",
         "name": "Lukiškių kalėjimas",
         "visited": false,
-	"sources": "https://www.niekonaujo.lt/20191211/lukiskiu-kalejimas"
+        "sources": "https://www.niekonaujo.lt/20191211/lukiskiu-kalejimas"
       },
       "geometry": {
         "coordinates": [25.26623716126639, 54.69153520131212],
@@ -692,6 +692,31 @@
       "geometry": {
         "type": "Point",
         "coordinates": [23.58330778580435, 55.04062237711415]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "market",
+        "name": "Halės turgus",
+        "source": "http://www.halesturgaviete.lt",
+        "visited": false
+      },
+      "geometry": {
+        "coordinates": [25.286343693106573, 54.67375038320537],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "market",
+        "name": "Tymo turgus",
+        "visited": false
+      },
+      "geometry": {
+        "coordinates": [25.294833749332412, 54.678893235449266],
+        "type": "Point"
       }
     }
   ]
