@@ -162,7 +162,7 @@
       "properties": {
         "type": "cafe",
         "name": "Kavos Reikalai",
-        "visited": false
+        "visited": true
       },
       "geometry": {
         "coordinates": [25.273658171928417, 54.690059067622315],
@@ -259,7 +259,7 @@
       "properties": {
         "type": "watermill",
         "name": "Šlyninkos Vandens Malūnas",
-        "visited": false
+        "visited": true
       },
       "geometry": {
         "coordinates": [26.19784069295133, 55.73385813321718],
