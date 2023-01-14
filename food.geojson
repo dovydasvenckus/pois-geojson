@@ -88,7 +88,7 @@
     {
       "type": "Feature",
       "properties": {
-        "type": "restaurant",
+        "type": "fast_food",
         "name": "Čeburėkinė",
         "visited": false
       },
@@ -425,6 +425,18 @@
       },
       "geometry": {
         "coordinates": [25.29015910082333, 54.67899851364811],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "kebab",
+        "name": "Labas kebabas",
+        "visited": false
+      },
+      "geometry": {
+        "coordinates": [25.140381269032048, 54.64608643021907],
         "type": "Point"
       }
     }

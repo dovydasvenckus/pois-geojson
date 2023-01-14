@@ -453,6 +453,19 @@
       "type": "Feature",
       "properties": {
         "type": "track",
+        "name": "Winter drift track Rokiškis",
+        "source": "https://www.facebook.com/profile.php?id=100074390713529",
+        "visited": false
+      },
+      "geometry": {
+        "coordinates": [25.74720630398747, 55.94507886279189],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "track",
         "name": "Varėnos Autosporto Klubas",
         "source": "https://lt-lt.facebook.com/varenosask",
         "visited": false
