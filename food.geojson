@@ -271,7 +271,7 @@
       "properties": {
         "type": "cafe",
         "name": "Chaika",
-	"source": "https://chaika.lt/lt/kavines/",
+        "source": "https://chaika.lt/lt/kavines/",
         "visited": false
       },
       "geometry": {
@@ -284,7 +284,7 @@
       "properties": {
         "type": "restaurant",
         "name": "Retro čeburėkai",
-        "visited": true 
+        "visited": true
       },
       "geometry": {
         "coordinates": [21.25944185413144, 55.890940094977566],
@@ -300,6 +300,131 @@
       },
       "geometry": {
         "coordinates": [25.26555767577389, 54.68255863258841],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "cake",
+        "name": "Ali Šokoladinė",
+        "visited": false
+      },
+      "geometry": {
+        "coordinates": [25.279221956630664, 54.684005160147166],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "restaurant",
+        "name": "Pamella",
+        "visited": false,
+        "description": "Good ramen. Works only at evenings"
+      },
+      "geometry": {
+        "coordinates": [25.288616079267484, 54.6720100433227],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "restaurant",
+        "name": "Druska Miltai Vanduo",
+        "visited": false
+      },
+      "geometry": {
+        "coordinates": [25.288369176425306, 54.67190683442499],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "fast_food",
+        "name": "Cheburekine",
+        "visited": false
+      },
+      "geometry": {
+        "coordinates": [25.251796034260337, 54.66708154324658],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "fast_food",
+        "name": "Čeburekinė",
+        "visited": false
+      },
+      "geometry": {
+        "coordinates": [25.280943408203058, 54.67239823162129],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "wine_bar",
+        "name": "Džiaugsmas",
+        "visited": false
+      },
+      "geometry": {
+        "coordinates": [25.279851623094117, 54.682668619291775],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "cafe",
+        "name": "Mint Vinetu",
+        "description": "Book store/cafe",
+        "visited": false
+      },
+      "geometry": {
+        "coordinates": [25.284969072661482, 54.681428658548384],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "cocktail_bar",
+        "name": "Salionas",
+        "visited": false
+      },
+      "geometry": {
+        "coordinates": [25.283307326724838, 54.687367620744794],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "tea",
+        "name": "MIN CHA",
+        "description": "Bubble tea store",
+        "visited": false
+      },
+      "geometry": {
+        "coordinates": [25.27789458066181, 54.68481779287822],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "restaurant",
+        "name": "Pirmas Blynas",
+        "source": "https://www.pirmasblynas.lt",
+        "description": "Food is prepared and served by people with disability. Mainly serves pancakes",
+        "visited": false
+      },
+      "geometry": {
+        "coordinates": [25.29015910082333, 54.67899851364811],
         "type": "Point"
       }
     }
