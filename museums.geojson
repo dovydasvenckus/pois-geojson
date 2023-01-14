@@ -129,6 +129,134 @@
         "type": "Point",
         "coordinates": [25.351627968423543, 54.83086572245611]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "museum_war",
+        "name": "Okupacijų ir laisvės kovų muziejus",
+        "source": "http://genocid.lt/muziejus",
+        "visited": true
+      },
+      "geometry": {
+        "coordinates": [25.270492962320418, 54.688033293874355],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "museum_war",
+        "name": "Okupacijų ir laisvės kovų muziejus",
+        "visited": true
+      },
+      "geometry": {
+        "coordinates": [25.270492962320418, 54.688033293874355],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "museum_industry",
+        "name": "",
+        "source": "https://www.etm.lt",
+        "visited": true
+      },
+      "geometry": {
+        "coordinates": [25.2878394486425, 54.69017120711709],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "museum_art",
+        "name": "Nacionalinė dailės galerija",
+        "source": "http://www.ndg.lt",
+        "visited": true
+      },
+      "geometry": {
+        "coordinates": [25.2706831930885, 54.69690954023093],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "museum_art",
+        "name": "MO muziejus",
+        "source": "https://mo.lt/",
+        "visited": true
+      },
+      "geometry": {
+        "coordinates": [25.27786239470828, 54.67943992542615],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "museum_war",
+        "name": "Okupacijų ir laisvės kovų muziejus",
+        "source": "http://genocid.lt/muziejus",
+        "visited": true
+      },
+      "geometry": {
+        "coordinates": [25.270492962320418, 54.688033293874355],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "museum_war",
+        "name": "Okupacijų ir laisvės kovų muziejus",
+        "visited": true
+      },
+      "geometry": {
+        "coordinates": [25.270492962320418, 54.688033293874355],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "museum_industry",
+        "name": "",
+        "source": "https://www.etm.lt",
+        "visited": true
+      },
+      "geometry": {
+        "coordinates": [25.2878394486425, 54.69017120711709],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "museum_art",
+        "name": "Nacionalinė dailės galerija",
+        "source": "http://www.ndg.lt",
+        "visited": true
+      },
+      "geometry": {
+        "coordinates": [25.2706831930885, 54.69690954023093],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "museum_art",
+        "name": "MO muziejus",
+        "source": "https://mo.lt/",
+        "visited": true
+      },
+      "geometry": {
+        "coordinates": [25.27786239470828, 54.67943992542615],
+        "type": "Point"
+      }
     }
   ]
 }
