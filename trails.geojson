@@ -385,7 +385,7 @@
         "name": "Cedronas",
         "source": "https://welovelithuania.com/cedrono-aukstupio-krastovaizdzio-draustinyje-naujas-pazintinis-takas/",
         "distance": 3,
-        "visited": false
+        "visited": true
       },
       "geometry": {
         "coordinates": [25.267201928054902, 54.72706032109926],
