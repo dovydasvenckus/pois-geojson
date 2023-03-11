@@ -24,6 +24,18 @@
         "coordinates": [25.447462526266378, 54.771441276931256],
         "type": "Point"
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "beach",
+        "name": "Gyliaus ežero pietinis pliažas",
+        "visited": false
+      },
+      "geometry": {
+        "coordinates": [23.197076168305244, 55.60583924580857],
+        "type": "Point"
+      }
     }
   ]
 }

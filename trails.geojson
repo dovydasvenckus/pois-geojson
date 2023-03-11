@@ -601,6 +601,20 @@
         "coordinates": [23.17773509964968, 55.08266776939405],
         "type": "Point"
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "cognitive_trail",
+        "name": "Akmenų rūžos pažintinis takas",
+        "source": "https://www.pamatyklietuvoje.lt/lankytinos-vietos/akmenu-ruzos-pazintinis-takas/4414",
+        "distance": 1.3,
+        "visited": false
+      },
+      "geometry": {
+        "coordinates": [23.197076168305244, 55.60583924580857],
+        "type": "Point"
+      }
     }
   ]
 }

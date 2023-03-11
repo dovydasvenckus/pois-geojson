@@ -731,6 +731,123 @@
         "coordinates": [25.294833749332412, 54.678893235449266],
         "type": "Point"
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "hill",
+        "name": "Šiurpilio piliakalnis",
+        "source": "https://lt.wikipedia.org/wiki/%C5%A0iurpilio_piliakalnis",
+        "visited": false
+      },
+      "geometry": {
+        "coordinates": [22.88429127376878, 54.23381075910203],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "church",
+        "name": "Tytuvėnų bažnyčios ir vienuolyno ansamblis",
+        "source": "https://www.pamatyklietuvoje.lt/lankytinos-vietos/tytuvenu-baznycios-ir-vienuolyno-ansamblis/1117",
+        "visited": false
+      },
+      "geometry": {
+        "coordinates": [23.201297253601524, 55.59683420546702],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "manor",
+        "name": "Kelmės dvaras/muziejus",
+        "source": "https://www.pamatyklietuvoje.lt/lankytinos-vietos/kelmes-krasto-muziejus/9344",
+        "visited": false
+      },
+      "geometry": {
+        "coordinates": [22.938321396683335, 55.63823941465901],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "manor",
+        "name": "Pakėvio dvaras",
+        "source": "https://www.pamatyklietuvoje.lt/lankytinos-vietos/pakevio-dvaras/1787",
+        "visited": false
+      },
+      "geometry": {
+        "coordinates": [22.823575703020225, 55.682019519532645],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "manor",
+        "name": "Beržėnų dvaras",
+        "source": "https://www.pamatyklietuvoje.lt/lankytinos-vietos/berzenu-dvaras/1748",
+        "visited": false
+      },
+      "geometry": {
+        "coordinates": [22.81369736099657, 55.82637315305834],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "watermill",
+        "name": "Užvenčio dvaro vandens malūnas",
+        "source": "https://www.pamatyklietuvoje.lt/lankytinos-vietos/uzvencio-dvaro-vandens-malunas/9353",
+        "visited": false
+      },
+      "geometry": {
+        "coordinates": [22.658518660595945, 55.78621452322673],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "hill",
+        "name": "Burbaičių piliakalnis",
+        "source": "https://www.pamatyklietuvoje.lt/lankytinos-vietos/burbaiciu-piliakalnis/2643",
+        "visited": false
+      },
+      "geometry": {
+        "coordinates": [23.03762579491388, 55.66423250021103],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "church",
+        "name": "Verpenos Šv. Onos bažnyčia",
+        "source": "https://www.pamatyklietuvoje.lt/lankytinos-vietos/verpenos-sv-onos-baznycia/7937",
+        "visited": false
+      },
+      "geometry": {
+        "coordinates": [22.91882399257986, 55.65287405040348],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "small_city",
+        "name": "Kražiai",
+        "source": "https://www.pamatyklietuvoje.lt/lankytinos-vietos/kraziai/6895",
+        "visited": false
+      },
+      "geometry": {
+        "coordinates": [22.689655615456843, 55.60464626659231],
+        "type": "Point"
+      }
     }
   ]
 }

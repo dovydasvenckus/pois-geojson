@@ -101,6 +101,18 @@
         "coordinates": [25.077485803885082, 54.68392246416249],
         "type": "Point"
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "abandoned",
+        "name": "Pakėvio bažnyčios griuvėsiai",
+        "visited": false
+      },
+      "geometry": {
+        "coordinates": [22.81584481936153, 55.68278967217128],
+        "type": "Point"
+      }
     }
   ]
 }
