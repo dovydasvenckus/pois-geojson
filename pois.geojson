@@ -848,6 +848,20 @@
         "coordinates": [22.689655615456843, 55.60464626659231],
         "type": "Point"
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "church",
+        "name": "Senoji Zapyškio Šv. Jono Krikštytojo bažnyčia",
+        "source": "https://www.pamatyklietuvoje.lt/lankytinos-vietos/senoji-zapyskio-sv-jono-krikstytojo-baznycia/3543",
+        "visited": false,
+        "notes": "Toliau esančiose kapinėse palaidotas Stanislovas Žemaitis. Susideginęs 1990 Maskvoje, protestuodamas prieš Rusijos ekonominę blokadą."
+      },
+      "geometry": {
+        "coordinates": [23.65404954519522, 54.92880132210155],
+        "type": "Point"
+      }
     }
   ]
 }
