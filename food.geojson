@@ -452,6 +452,19 @@
         "coordinates": [25.102271283845283, 54.66822917185689],
         "type": "Point"
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "kebab",
+        "name": "Brolių kebabai",
+        "source": "https://www.facebook.com/profile.php?id=100043332862281&sk=photos",
+        "visited": true
+      },
+      "geometry": {
+        "coordinates": [25.25486335065733, 54.66812583304417],
+        "type": "Point"
+      }
     }
   ]
 }
