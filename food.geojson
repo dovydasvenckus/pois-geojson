@@ -439,6 +439,19 @@
         "coordinates": [25.140381269032048, 54.64608643021907],
         "type": "Point"
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "kebab",
+        "name": "Kebis",
+        "source": "https://www.facebook.com/profile.php?id=100043332862281&sk=photos",
+        "visited": false
+      },
+      "geometry": {
+        "coordinates": [25.102271283845283, 54.66822917185689],
+        "type": "Point"
+      }
     }
   ]
 }
