@@ -615,6 +615,33 @@
         "coordinates": [23.197076168305244, 55.60583924580857],
         "type": "Point"
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "cognitive_trail",
+        "name": "Šventosios aukštupio pažintinė trasa",
+        "source": "https://nesedeknamuose.lt/pazintiniai-takai/sventosios-aukstupio-pazintine-trasa",
+        "distance": 10.5,
+        "visited": false
+      },
+      "geometry": {
+        "coordinates": [25.977249400881675, 55.629439330909406],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "trail",
+        "name": "Takas aplink 3 ežerus",
+        "distance": 7,
+        "visited": true
+      },
+      "geometry": {
+        "coordinates": [25.447133142802386, 54.771051530473414],
+        "type": "Point"
+      }
     }
   ]
 }

@@ -862,6 +862,19 @@
         "coordinates": [23.65404954519522, 54.92880132210155],
         "type": "Point"
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "church",
+        "name": "Lentvario Viešpaties apreiškimo Švč. Mergelei Marijai bažnyčia",
+        "source": "https://www.pamatyklietuvoje.lt/details/lentvario-viespaties-apreiskimo-svc-mergelei-marijai-baznycia/11531",
+        "visited": false
+      },
+      "geometry": {
+        "coordinates": [25.048269981890428, 54.64162479904732],
+        "type": "Point"
+      }
     }
   ]
 }
