@@ -35,7 +35,7 @@
         "type": "small_city",
         "name": "Grabijolai",
         "source": "https://www.pamatyklietuvoje.lt/lankytinos-vietos/grabijolai/1205",
-        "visited": false,
+        "visited": true,
         "description": "Gatvinis kaimas"
       },
       "geometry": {
