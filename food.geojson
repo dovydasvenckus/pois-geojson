@@ -472,7 +472,7 @@
         "type": "restaurant",
         "name": "Bebro blyninė",
         "source": "https://www.facebook.com/BebroBlynai",
-        "visited": true
+        "visited": false
       },
       "geometry": {
         "coordinates": [25.302706071098612, 54.678651760028345],
