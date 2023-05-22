@@ -465,6 +465,19 @@
         "coordinates": [25.25486335065733, 54.66812583304417],
         "type": "Point"
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "restaurant",
+        "name": "Bebro blyninė",
+        "source": "https://www.facebook.com/BebroBlynai",
+        "visited": true
+      },
+      "geometry": {
+        "coordinates": [25.302706071098612, 54.678651760028345],
+        "type": "Point"
+      }
     }
   ]
 }
