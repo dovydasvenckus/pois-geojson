@@ -478,6 +478,32 @@
         "coordinates": [25.302706071098612, 54.678651760028345],
         "type": "Point"
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "restaurant",
+        "name": "Oišy Izakaya",
+        "source": "https://www.oisy.lt/meniu.html",
+        "visited": false
+      },
+      "geometry": {
+        "coordinates": [25.278263667919845, 54.67994627000979],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "restaurant",
+        "name": "Kamikadzė",
+        "source": "https://www.facebook.com/uab.kamikadze/",
+        "visited": false
+      },
+      "geometry": {
+        "coordinates": [25.27806927003877, 54.6818163878138],
+        "type": "Point"
+      }
     }
   ]
 }
