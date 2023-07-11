@@ -508,24 +508,7 @@
         "name": "Soviet Bunker",
         "source": "http://sovietbunker.com/",
         "visited": false
-      },
-      "geometry": {
-        "coordinates": [25.535526693851182, 54.830975502075205],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "church",
-        "name": "Leliūnų Šv. Juozapo bažnyčia",
-        "visited": false
-      },
-      "geometry": {
-        "coordinates": [25.395168788219053, 55.47348153285887],
-        "type": "Point"
-      }
-    },
+      },pamatskola
     {
       "type": "Feature",
       "properties": {
@@ -873,6 +856,22 @@
       },
       "geometry": {
         "coordinates": [25.048269981890428, 54.64162479904732],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "aircraft",
+        "name": "Old plane near Barbeles primary school",
+        "source": "https://www.redzet.eu/en/photo/aircraft-near-barbele-boys-school-roots-and-wings-V-224-19-AM",
+        "visited": false
+      },
+      "geometry": {
+        "coordinates": [
+          24.618765453949123,
+          56.46315475350937
+        ],
         "type": "Point"
       }
     }
