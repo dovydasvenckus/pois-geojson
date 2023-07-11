@@ -888,6 +888,19 @@
         "coordinates": [24.618765453949123, 56.46315475350937],
         "type": "Point"
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "aircraft",
+        "name": "Įstra aviacijos muziejus",
+        "source": "https://www.aviapark.lt/",
+        "visited": false
+      },
+      "geometry": {
+        "coordinates": [24.359829, 55.827269],
+        "type": "Point"
+      }
     }
   ]
 }
