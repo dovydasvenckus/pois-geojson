@@ -656,20 +656,6 @@
         "coordinates": [21.45896498751239, 55.76754833778517],
         "type": "Point"
       }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "trail",
-        "name": "Strėvos žaliasis takas",
-        "source": "https://www.pamatyklietuvoje.lt/details/zaliasis-takas/4374",
-        "distance": 9,
-        "visited": true
-      },
-      "geometry": {
-        "coordinates": [24.701683805582746, 54.58798815599357],
-        "type": "Point"
-      }
     }
   ]
 }
