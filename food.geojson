@@ -504,6 +504,32 @@
         "coordinates": [25.27806927003877, 54.6818163878138],
         "type": "Point"
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "kebab",
+        "name": "Adiada",
+        "source": "https://www.facebook.com/kebabaisiauliuoseadiada",
+        "visited": false
+      },
+      "geometry": {
+        "coordinates": [23.273635057250942, 55.913424482855476],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "burger",
+        "name": "RestoBaZar",
+        "source": "https://m.facebook.com/restobazar/about",
+        "visited": false
+      },
+      "geometry": {
+        "coordinates": [26.244430630639982, 55.7310499161718],
+        "type": "Point"
+      }
     }
   ]
 }
