@@ -524,7 +524,7 @@
         "type": "burger",
         "name": "RestoBaZar",
         "source": "https://m.facebook.com/restobazar/about",
-        "visited": false
+        "visited": true
       },
       "geometry": {
         "coordinates": [26.244430630639982, 55.7310499161718],
@@ -540,7 +540,21 @@
         "visited": false
       },
       "geometry": {
-        "coordinates": [25.261287042037992, 54.69948545213998],
+        "coordinates": [25.261275980209177, 54.69960125935722],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "kebab",
+        "name": "Tarbushi Bistro",
+        "source": "https://www.facebook.com/tarbushibistro/",
+        "visited": true,
+        "notes": "Standard lithuanian kebabs with mayo. Very affordable pricing."
+      },
+      "geometry": {
+        "coordinates": [25.264376640588637, 54.6908992007491],
         "type": "Point"
       }
     }
