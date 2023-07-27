@@ -530,6 +530,19 @@
         "coordinates": [26.244430630639982, 55.7310499161718],
         "type": "Point"
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "cake",
+        "name": "1323 Blynai",
+        "source": "https://www.instagram.com/1323blynai/",
+        "visited": false
+      },
+      "geometry": {
+        "coordinates": [25.261287042037992, 54.69948545213998],
+        "type": "Point"
+      }
     }
   ]
 }
