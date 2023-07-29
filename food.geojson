@@ -537,7 +537,7 @@
         "type": "cake",
         "name": "1323 Blynai",
         "source": "https://www.instagram.com/1323blynai/",
-        "visited": false
+        "visited": true
       },
       "geometry": {
         "coordinates": [25.261275980209177, 54.69960125935722],
