@@ -557,6 +557,19 @@
         "coordinates": [25.264376640588637, 54.6908992007491],
         "type": "Point"
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "kebab",
+        "name": "Skoniai",
+        "source": "https://www.skoniai.com/",
+        "visited": false
+      },
+      "geometry": {
+        "coordinates": [21.138465215051326, 55.706517606692216],
+        "type": "Point"
+      }
     }
   ]
 }
