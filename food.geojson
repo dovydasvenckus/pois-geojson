@@ -570,6 +570,19 @@
         "coordinates": [21.138465215051326, 55.706517606692216],
         "type": "Point"
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "burger",
+        "name": "Bunker Food",
+        "source": "https://bunkerfood.lt/",
+        "visited": false
+      },
+      "geometry": {
+        "coordinates": [26.432989134232145, 55.59761524115541],
+        "type": "Point"
+      }
     }
   ]
 }
