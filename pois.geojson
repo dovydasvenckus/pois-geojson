@@ -901,6 +901,19 @@
         "coordinates": [24.359829, 55.827269],
         "type": "Point"
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "chapel",
+        "name": "Parausių koplyčia",
+        "source": "https://lt.m.wikipedia.org/wiki/Parausi%C5%B3_koply%C4%8Dia",
+        "visited": false
+      },
+      "geometry": {
+        "coordinates": [23.249155988600677, 54.687520476020495],
+        "type": "Point"
+      }
     }
   ]
 }
