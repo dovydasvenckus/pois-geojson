@@ -36,6 +36,18 @@
         "coordinates": [23.197076168305244, 55.60583924580857],
         "type": "Point"
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "beach",
+        "name": "Daujėnų karjero papludimys",
+        "visited": false
+      },
+      "geometry": {
+        "coordinates": [24.523509552851863, 55.972210575587866],
+        "type": "Point"
+      }
     }
   ]
 }
