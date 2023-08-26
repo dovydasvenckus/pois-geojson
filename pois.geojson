@@ -914,6 +914,32 @@
         "coordinates": [23.249155988600677, 54.687520476020495],
         "type": "Point"
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "hardware_store",
+        "name": "Depo",
+        "source": "https://depo-diy.lt/",
+        "visited": false
+      },
+      "geometry": {
+        "coordinates": [25.225163877046924, 54.741889659788484],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "shop",
+        "name": "Promo Cash&Carry",
+        "source": "https://epromo.lt",
+        "visited": false
+      },
+      "geometry": {
+        "coordinates": [25.24146941214022, 54.72505626442617],
+        "type": "Point"
+      }
     }
   ]
 }
