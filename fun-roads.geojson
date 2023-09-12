@@ -35,24 +35,24 @@
       "type": "Feature",
       "properties": {
         "type": "road",
-        "name": "Road near Bezdonys"
-      },
-      "waypoints": [
-        {
-          "name": "start",
-          "point": {
-            "latitude": 54.79558246228374,
-            "longitude": 25.452843904495243
+        "name": "Road near Bezdonys",
+        "waypoints": [
+          {
+            "name": "start",
+            "point": {
+              "latitude": 54.79558246228374,
+              "longitude": 25.452843904495243
+            }
+          },
+          {
+            "name": "finish",
+            "point": {
+              "latitude": 54.79892229112842,
+              "longitude": 25.50387024879456
+            }
           }
-        },
-        {
-          "name": "finish",
-          "point": {
-            "latitude": 54.79892229112842,
-            "longitude": 25.50387024879456
-          }
-        }
-      ]
+        ]
+      }
     }
   ]
 }
