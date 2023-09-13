@@ -5,29 +5,14 @@
       "type": "Feature",
       "properties": {
         "type": "road",
-        "name": "Road from Elektrėnai to Vievis",
-        "waypoints": [
-          {
-            "name": "start",
-            "point": {
-              "latitude": 54.75842991960919,
-              "longitude": 24.63983416557312
-            }
-          },
-          {
-            "name": "middle",
-            "point": {
-              "latitude": 54.71615002911719,
-              "longitude": 24.675496453473045
-            }
-          },
-          {
-            "name": "finish",
-            "point": {
-              "latitude": 54.758853987665,
-              "longitude": 24.63983416557312
-            }
-          }
+        "name": "Road from Elektrėnai to Vievis"
+      },
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [24.63983416557312, 54.75842991960919],
+          [24.675496453473045, 54.71615002911719],
+          [24.63983416557312, 54.758853987665]
         ]
       }
     },
@@ -35,22 +20,13 @@
       "type": "Feature",
       "properties": {
         "type": "road",
-        "name": "Road near Bezdonys",
-        "waypoints": [
-          {
-            "name": "start",
-            "point": {
-              "latitude": 54.79558246228374,
-              "longitude": 25.452843904495243
-            }
-          },
-          {
-            "name": "finish",
-            "point": {
-              "latitude": 54.79892229112842,
-              "longitude": 25.50387024879456
-            }
-          }
+        "name": "Road near Bezdonys"
+      },
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [25.452843904495243, 54.79558246228374],
+          [25.50387024879456, 54.79892229112842]
         ]
       }
     }
