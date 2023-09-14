@@ -44,6 +44,20 @@
           [25.370371709775384, 55.00482301426962]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "road",
+        "name": "Fun & hilly roads near Alanta"
+      },
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [25.13355866801095, 55.51093957598519],
+          [25.38780641241766, 55.23391225847226]
+        ]
+      }
     }
   ]
 }
