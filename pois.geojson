@@ -953,6 +953,19 @@
         "coordinates": [24.0539413621116, 54.081184784360204],
         "type": "Point"
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "church",
+        "name": "Akmenio kaimo Nukryžiuotojo Jėzaus bažnyčia",
+        "source": "https://www.pamatyklietuvoje.lt/lankytinos-vietos/akmenio-kaimo-nukryziuotojo-jezaus-baznycia/2343",
+        "visited": true
+      },
+      "geometry": {
+        "coordinates": [24.623193595449152, 54.30217805214377],
+        "type": "Point"
+      }
     }
   ]
 }
