@@ -113,6 +113,55 @@
         "coordinates": [22.81584481936153, 55.68278967217128],
         "type": "Point"
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "abandoned",
+        "name": "Abandoned church \"EAÕK Kalli Ristija Johannese kirik\"",
+        "visited": false
+      },
+      "geometry": {
+        "coordinates": [24.042243558787845, 58.53250174923869],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "abandoned",
+        "name": "Dinamo poilsio bazė",
+        "visited": false
+      },
+      "geometry": {
+        "coordinates": [24.848735670307917, 54.67738007100533],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "abandoned",
+        "name": "Sanatorija",
+        "visited": false
+      },
+      "geometry": {
+        "coordinates": [25.050903033400203, 54.71966562373564],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "abandoned",
+        "name": "Sanatorija Signma",
+        "source": "http://pbb.lt/2011/08/29/apleistas-profilaktoriumas-sigma/",
+        "visited": false
+      },
+      "geometry": {
+        "coordinates": [25.44197108226072, 54.789410490818426],
+        "type": "Point"
+      }
     }
   ]
 }
