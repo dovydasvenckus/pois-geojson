@@ -940,6 +940,19 @@
         "coordinates": [25.24146941214022, 54.72505626442617],
         "type": "Point"
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "small_city",
+        "name": "Liškiava",
+        "source": "https://www.pamatyklietuvoje.lt/lankytinos-vietos/liskiava/2460",
+        "visited": false
+      },
+      "geometry": {
+        "coordinates": [24.0539413621116, 54.081184784360204],
+        "type": "Point"
+      }
     }
   ]
 }
