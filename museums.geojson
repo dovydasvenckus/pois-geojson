@@ -123,7 +123,7 @@
         "type": "museum_openair",
         "name": "Europos parkas",
         "source": "https://www.pamatyklietuvoje.lt/lankytinos-vietos/europos-parkas-europos-centro-muziejus/1485",
-        "visited": false 
+        "visited": false
       },
       "geometry": {
         "type": "Point",
@@ -255,6 +255,19 @@
       },
       "geometry": {
         "coordinates": [25.27786239470828, 54.67943992542615],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "museum_openair",
+        "name": "Grūto parkas",
+        "source": "http://grutoparkas.lt/lauko-ekspozicija/",
+        "visited": false
+      },
+      "geometry": {
+        "coordinates": [24.078592136577356, 54.024550804058464],
         "type": "Point"
       }
     }
