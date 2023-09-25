@@ -585,7 +585,7 @@
       }
     },
     {
-      "type": "Feature",
+      "type": "feature",
       "properties": {
         "type": "restaurant",
         "name": "Mažoji Himalaja",
@@ -594,6 +594,18 @@
       },
       "geometry": {
         "coordinates": [25.279175948303134, 54.67739736132586],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "feature",
+      "properties": {
+        "type": "restaurant",
+        "name": "Blynų namai",
+        "visited": false
+      },
+      "geometry": {
+        "coordinates": [24.93293969906108, 54.64689500070966],
         "type": "Point"
       }
     }
