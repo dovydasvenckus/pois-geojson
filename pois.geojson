@@ -921,7 +921,7 @@
         "type": "hardware_store",
         "name": "Depo",
         "source": "https://depo-diy.lt/",
-        "visited": false
+        "visited": true
       },
       "geometry": {
         "coordinates": [25.225163877046924, 54.741889659788484],
