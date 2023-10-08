@@ -270,6 +270,19 @@
         "coordinates": [24.078592136577356, 54.024550804058464],
         "type": "Point"
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "car_museum",
+        "name": "Automuziejus ",
+        "source": "https://automuziejus.lt/",
+        "visited": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.273597294332063, 54.66507800573646]
+      }
     }
   ]
 }
