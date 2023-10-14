@@ -966,6 +966,32 @@
         "coordinates": [24.623193595449152, 54.30217805214377],
         "type": "Point"
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "hill",
+        "name": "Velnio duobė",
+        "source": "https://lt.wikipedia.org/wiki/Velnio_duob%C4%97",
+        "visited": false
+      },
+      "geometry": {
+        "coordinates": [24.51435291841483, 54.611807937575975],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "watermill",
+        "name": "Siesarties vandens malūnas",
+        "source": "https://lt.wikipedia.org/wiki/Siesarties_vandens_mal%C5%ABnas",
+        "visited": false
+      },
+      "geometry": {
+        "coordinates": [25.19199734774918, 55.22682897481707],
+        "type": "Point"
+      }
     }
   ]
 }

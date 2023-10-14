@@ -162,6 +162,19 @@
         "coordinates": [25.44197108226072, 54.789410490818426],
         "type": "Point"
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "ghost_town",
+        "name": "Paulavos respublika",
+        "source": "https://lt.wikipedia.org/wiki/Paulavos_respublikaj",
+        "visited": false
+      },
+      "geometry": {
+        "coordinates": [25.475012785612222, 54.45643732445495],
+        "type": "Point"
+      }
     }
   ]
 }
