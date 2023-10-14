@@ -608,7 +608,18 @@
         "coordinates": [24.93293969906108, 54.64689500070966],
         "type": "Point"
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "kebab",
+        "name": "Amazonė. Kebabai",
+        "visited": false
+      },
+      "geometry": {
+        "coordinates": [24.360259893052444, 55.727503996941664],
+        "type": "Point"
+      }
     }
-
   ]
 }
