@@ -1004,6 +1004,19 @@
         "coordinates": [24.869300331884062, 55.58675494086475],
         "type": "Point"
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "manor",
+        "name": "Vašuokėnų dvaras",
+        "source": "https://pamirsta.lt/vasuokenu-dvaro-griuvesiai/",
+        "visited": false
+      },
+      "geometry": {
+        "coordinates": [24.882420683261813, 55.63695970540971],
+        "type": "Point"
+      }
     }
   ]
 }
