@@ -621,6 +621,19 @@
         "coordinates": [24.360259893052444, 55.727503996941664],
         "type": "Point"
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "cafe",
+        "name": "Retro Bytes Cafe",
+        "url": "https://www.facebook.com/profile.php?id=100093042039641",
+        "visited": false
+      },
+      "geometry": {
+        "coordinates": [23.915843146870827, 54.89881797870058],
+        "type": "Point"
+      }
     }
   ]
 }

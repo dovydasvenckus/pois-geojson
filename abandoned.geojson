@@ -175,6 +175,19 @@
         "coordinates": [25.475012785612222, 54.45643732445495],
         "type": "Point"
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "bridge",
+        "name": "Senasis Mažeikių geležinkelio tiltas",
+        "source": "http://www.apleisti.lt/senasis-mazeikiu-gelezinkelio-tiltas",
+        "visited": false
+      },
+      "geometry": {
+        "coordinates": [22.23916004613463, 56.33923914313101],
+        "type": "Point"
+      }
     }
   ]
 }
