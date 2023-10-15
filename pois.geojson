@@ -992,6 +992,18 @@
         "coordinates": [25.19199734774918, 55.22682897481707],
         "type": "Point"
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "small_city",
+        "name": "Troškūnai",
+        "visited": false
+      },
+      "geometry": {
+        "coordinates": [24.869300331884062, 55.58675494086475],
+        "type": "Point"
+      }
     }
   ]
 }
