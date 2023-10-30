@@ -283,6 +283,19 @@
         "type": "Point",
         "coordinates": [25.273597294332063, 54.66507800573646]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "museum_war",
+        "name": "Vilniaus gynybinės sienos bastėja",
+        "source": "https://www.govilnius.lt/aplankykite/lankytinos-vietos/vilniaus-gynybines-sienos-basteja",
+        "visited": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.292388906973144, 54.677162646193324]
+      }
     }
   ]
 }
