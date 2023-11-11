@@ -1017,6 +1017,32 @@
         "coordinates": [24.882420683261813, 55.63695970540971],
         "type": "Point"
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "small_city",
+        "name": "Kurtuvėnai",
+        "source": "https://www.pamatyklietuvoje.lt/zemelapis?q=Kurtuv%C4%97nai",
+        "visited": false
+      },
+      "geometry": {
+        "coordinates": [23.048496505440596, 55.828184277815836],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "chapel",
+        "name": "Bernotiškių koplyčia",
+        "source": "https://lt.wikipedia.org/wiki/Bernoti%C5%A1ki%C5%B3_koply%C4%8Dia",
+        "visited": false
+      },
+      "geometry": {
+        "coordinates": [24.80329626848652, 55.30156825480162],
+        "type": "Point"
+      }
     }
   ]
 }
