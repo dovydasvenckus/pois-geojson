@@ -1279,7 +1279,7 @@
       }
     },
     {
-      "type": "feature",
+      "type": "Feature",
       "properties": {
         "type": "museum_openair",
         "name": "velnio akmuo",
@@ -1288,11 +1288,11 @@
       },
       "geometry": {
         "coordinates": [23.929026390173846, 53.985278893576435],
-        "type": "point"
+        "type": "Point"
       }
     },
     {
-      "type": "feature",
+      "type": "Feature",
       "properties": {
         "type": "hill",
         "name": "Kalniškių atodanga",
@@ -1301,11 +1301,11 @@
       },
       "geometry": {
         "coordinates": [24.075173637882955, 54.8891560717521],
-        "type": "point"
+        "type": "Point"
       }
     },
     {
-      "type": "feature",
+      "type": "Feature",
       "properties": {
         "type": "hill",
         "name": "Žaliakalnio funikulierius",
@@ -1314,11 +1314,11 @@
       },
       "geometry": {
         "coordinates": [23.918107019564985, 54.90214685270482],
-        "type": "point"
+        "type": "Point"
       }
     },
     {
-      "type": "feature",
+      "type": "Feature",
       "properties": {
         "type": "hill",
         "name": "Pyplių piliakalnis",
@@ -1327,11 +1327,11 @@
       },
       "geometry": {
         "coordinates": [23.75029965545815, 54.92717038913614],
-        "type": "point"
+        "type": "Point"
       }
     },
     {
-      "type": "feature",
+      "type": "Feature",
       "properties": {
         "type": "hill",
         "name": "Skališkių ola",
@@ -1340,11 +1340,11 @@
       },
       "geometry": {
         "coordinates": [25.57816264998138, 54.87580359741722],
-        "type": "point"
+        "type": "Point"
       }
     },
     {
-      "type": "feature",
+      "type": "Feature",
       "properties": {
         "type": "hill",
         "name": "Keturnaujienos Dievo Gailestingumo koplyčia",
@@ -1353,11 +1353,11 @@
       },
       "geometry": {
         "coordinates": [22.910248779363997, 54.85027103285],
-        "type": "point"
+        "type": "Point"
       }
     },
     {
-      "type": "feature",
+      "type": "Feature",
       "properties": {
         "type": "castle",
         "name": "Raudonės pilis",
@@ -1366,11 +1366,11 @@
       },
       "geometry": {
         "coordinates": [23.130846768417, 55.09726573714386],
-        "type": "point"
+        "type": "Point"
       }
     },
     {
-      "type": "feature",
+      "type": "Feature",
       "properties": {
         "type": "manor",
         "name": "Veliuonos dvaras",
@@ -1379,11 +1379,11 @@
       },
       "geometry": {
         "coordinates": [23.278724094138994, 55.0804863037026],
-        "type": "point"
+        "type": "Point"
       }
     },
     {
-      "type": "feature",
+      "type": "Feature",
       "properties": {
         "type": "manor",
         "name": "Belvederio dvaras",
@@ -1392,11 +1392,11 @@
       },
       "geometry": {
         "coordinates": [23.390585799019817, 55.079756026706775],
-        "type": "point"
+        "type": "Point"
       }
     },
     {
-      "type": "feature",
+      "type": "Feature",
       "properties": {
         "type": "castle",
         "name": "Belvederio dvaras",
@@ -1405,11 +1405,11 @@
       },
       "geometry": {
         "coordinates": [22.986299715093338, 55.09950471793297],
-        "type": "point"
+        "type": "Point"
       }
     },
     {
-      "type": "feature",
+      "type": "Feature",
       "properties": {
         "type": "hill",
         "name": "Menčių klinčių karjeras",
@@ -1418,11 +1418,11 @@
       },
       "geometry": {
         "coordinates": [22.92212560569368, 56.27478752411932],
-        "type": "point"
+        "type": "Point"
       }
     },
     {
-      "type": "feature",
+      "type": "Feature",
       "properties": {
         "type": "hill",
         "name": "Ukmergės piliakalnis",
@@ -1431,11 +1431,11 @@
       },
       "geometry": {
         "coordinates": [24.76913481937575, 55.25007236496057],
-        "type": "point"
+        "type": "Point"
       }
     },
     {
-      "type": "feature",
+      "type": "Feature",
       "properties": {
         "type": "manor",
         "name": "Vaitkuškio dvaras",
@@ -1444,11 +1444,11 @@
       },
       "geometry": {
         "coordinates": [24.798988004386757, 55.20908859276133],
-        "type": "point"
+        "type": "Point"
       }
     },
     {
-      "type": "feature",
+      "type": "Feature",
       "properties": {
         "type": "castle",
         "name": "Siesikų dvaras - pilis",
@@ -1457,11 +1457,11 @@
       },
       "geometry": {
         "coordinates": [24.513616901520493, 55.28601128004152],
-        "type": "point"
+        "type": "Point"
       }
     },
     {
-      "type": "feature",
+      "type": "Feature",
       "properties": {
         "type": "church",
         "name": "Vilniaus šv. Onos bažnyčia",
@@ -1470,11 +1470,11 @@
       },
       "geometry": {
         "coordinates": [25.29316886990216, 54.683076711963025],
-        "type": "point"
+        "type": "Point"
       }
     },
     {
-      "type": "feature",
+      "type": "Feature",
       "properties": {
         "type": "manor",
         "name": "Trakų Vokės dvaras",
@@ -1483,11 +1483,11 @@
       },
       "geometry": {
         "coordinates": [25.108759943958262, 54.63065232648225],
-        "type": "point"
+        "type": "Point"
       }
     },
     {
-      "type": "feature",
+      "type": "Feature",
       "properties": {
         "type": "manor",
         "name": "Taujėnų dvaras",
@@ -1496,11 +1496,11 @@
       },
       "geometry": {
         "coordinates": [24.761552224718343, 55.396386848254394],
-        "type": "point"
+        "type": "Point"
       }
     },
     {
-      "type": "feature",
+      "type": "Feature",
       "properties": {
         "type": "bridge",
         "name": "Jonavos geležinkelio tiltas",
@@ -1509,7 +1509,7 @@
       },
       "geometry": {
         "coordinates": [24.295774864603004, 55.07492981405008],
-        "type": "point"
+        "type": "Point"
       }
     }
   ]
