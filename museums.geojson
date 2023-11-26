@@ -376,7 +376,7 @@
       }
     },
     {
-      "type": "feature",
+      "type": "Feature",
       "properties": {
         "type": "museum_openair",
         "name": "Lietuvos etnokosmologijos muziejus",
@@ -385,11 +385,11 @@
       },
       "geometry": {
         "coordinates": [25.55618752290752, 55.31504775904804],
-        "type": "point"
+        "type": "Point"
       }
     },
     {
-      "type": "feature",
+      "type": "Feature",
       "properties": {
         "type": "aircraft",
         "name": "Lietuvos aviacijos muziejus",
@@ -398,20 +398,20 @@
       },
       "geometry": {
         "coordinates": [23.89162349026458, 54.87797481391445],
-        "type": "point"
+        "type": "Point"
       }
     },
     {
-      "type": "feature",
+      "type": "Feature",
       "properties": {
         "type": "museum_openair",
-        "name": "",
+        "name": "Akmens skulptūrų parkas \"Vilnoja\"",
         "source": "https://www.pamatyklietuvoje.lt/lankytinos-vietos/akmens-skulpturu-parkas-vilnoja/3757",
         "visited": false
       },
       "geometry": {
         "coordinates": [25.29316886990216, 54.683076711963025],
-        "type": "point"
+        "type": "Point"
       }
     }
   ]
