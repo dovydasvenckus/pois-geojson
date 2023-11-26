@@ -214,6 +214,45 @@
         "coordinates": [24.015853706290073, 54.88897248503403],
         "type": "Point"
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "abandoned",
+        "name": "Merkinės dvaro griuvėsiai",
+        "source": "https://lt.wikipedia.org/wiki/Merkin%C4%97s_dvaras_(%C5%A0al%C4%8Dininkai)",
+        "visited": false
+      },
+      "geometry": {
+        "coordinates": [25.47417099326492, 54.45593918537236],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "abandoned",
+        "name": "Deltuvos evangelikų – reformatų bažnyčios liekanos",
+        "source": "https://www.pamatyklietuvoje.lt/lankytinos-vietos/deltuvos-evangeliku-reformatu-baznycios-liekanos/4666",
+        "visited": false
+      },
+      "geometry": {
+        "coordinates": [24.66590396234102, 55.23589894473838],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "abandoned",
+        "name": "Raudondvario (Šeduvos) dvaras",
+        "source": "https://www.pamatyklietuvoje.lt/lankytinos-vietos/raudondvario-seduvos-dvaras/7273",
+        "visited": false
+      },
+      "geometry": {
+        "coordinates": [23.79668737943223, 55.75032867813937],
+        "type": "Point"
+      }
     }
   ]
 }

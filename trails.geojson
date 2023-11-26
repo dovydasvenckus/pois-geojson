@@ -656,6 +656,48 @@
         "coordinates": [21.45896498751239, 55.76754833778517],
         "type": "Point"
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "cognitive_trail",
+        "name": "Jiesios pažintinis takas",
+        "source": "https://www.pamatyklietuvoje.lt/details/jiesios-atodanga/3956",
+        "distance": 2.2,
+        "visited": false
+      },
+      "geometry": {
+        "coordinates": [23.93762383564541, 54.84368405241378],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "cognitive_trail",
+        "name": "Juodlės pažintinis takas",
+        "source": "https://nesedeknamuose.lt/pazintiniai-takai/juodles-pazintinis-takas/",
+        "distance": 4.2,
+        "visited": false
+      },
+      "geometry": {
+        "coordinates": [22.920316141503292, 55.81607397603739],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "cognitive_trail",
+        "name": "Dubravos rezervatinės apyrubės pažintinis takas",
+        "source": "https://www.pamatyklietuvoje.lt/lankytinos-vietos/dubravos-rezervatines-apyrubes-pazintinis-takas/4431",
+        "distance": 3.8,
+        "visited": false
+      },
+      "geometry": {
+        "coordinates": [24.07879980590033, 54.85626309885248],
+        "type": "Point"
+      }
     }
   ]
 }

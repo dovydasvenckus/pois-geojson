@@ -296,6 +296,123 @@
         "type": "Point",
         "coordinates": [25.292388906973144, 54.677162646193324]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "museum_industrial",
+        "name": "Lietuvos kelių muziejus",
+        "source": "https://www.checkinlithuania.com/lankytini-objektai/lietuvos-keliu-muziejus/",
+        "visited": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.814478858229876, 54.77239698860754]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "museum_war",
+        "name": "Battery Memel Nord",
+        "source": "https://www.pamatyklietuvoje.lt/lankytinos-vietos/memelnord-kariniai-itvirtinimai/4057",
+        "visited": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.0739667175568, 55.77771549987716]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "car_museum",
+        "name": "Šeduvos istorinės technikos muziejus „Retromobile“",
+        "source": "https://www.pamatyklietuvoje.lt/details/seduvos-istorines-technikos-muziejus/4659",
+        "visited": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.76623393200208, 55.75692437253301]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "museum_industrial",
+        "name": "Lietuvos Banko Pinigų muziejus",
+        "source": "https://www.pinigumuziejus.lt/",
+        "visited": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.76623393200208, 55.75692437253301]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "museum_industrial",
+        "name": "Arklio muziejus",
+        "source": "https://lt.wikipedia.org/wiki/Arklio_muziejus",
+        "visited": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.08548431506867, 55.572671681534956]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "museum_war",
+        "name": "Atominio bunkerio muziejus",
+        "source": "https://lt.wikipedia.org/wiki/Atominis_bunkeris",
+        "visited": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.841892684211217, 54.91367678462669]
+      }
+    },
+    {
+      "type": "feature",
+      "properties": {
+        "type": "museum_openair",
+        "name": "Lietuvos etnokosmologijos muziejus",
+        "source": "https://lt.wikipedia.org/wiki/Lietuvos_etnokosmologijos_muziejus",
+        "visited": false
+      },
+      "geometry": {
+        "coordinates": [25.55618752290752, 55.31504775904804],
+        "type": "point"
+      }
+    },
+    {
+      "type": "feature",
+      "properties": {
+        "type": "aircraft",
+        "name": "Lietuvos aviacijos muziejus",
+        "source": "https://www.pamatyklietuvoje.lt/lankytinos-vietos/lietuvos-aviacijos-muziejus/2269",
+        "visited": false
+      },
+      "geometry": {
+        "coordinates": [23.89162349026458, 54.87797481391445],
+        "type": "point"
+      }
+    },
+    {
+      "type": "feature",
+      "properties": {
+        "type": "museum_openair",
+        "name": "",
+        "source": "https://www.pamatyklietuvoje.lt/lankytinos-vietos/akmens-skulpturu-parkas-vilnoja/3757",
+        "visited": false
+      },
+      "geometry": {
+        "coordinates": [25.29316886990216, 54.683076711963025],
+        "type": "point"
+      }
     }
   ]
 }

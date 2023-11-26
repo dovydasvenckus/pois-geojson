@@ -1043,6 +1043,474 @@
         "coordinates": [24.80329626848652, 55.30156825480162],
         "type": "Point"
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "chapel",
+        "name": "Čedasų Šv. Apaštalų Petro ir Povilo bažnyčia",
+        "source": "https://lt.wikipedia.org/wiki/%C4%8Cedas%C5%B3_%C5%A1v._apa%C5%A1tal%C5%B3_Petro_ir_Povilo_ba%C5%BEny%C4%8Dia",
+        "visited": false
+      },
+      "geometry": {
+        "coordinates": [25.416481750006852, 56.09980703030186],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "hill",
+        "name": "Kruonio gravitacinė kalva",
+        "source": "https://www.pamatyklietuvoje.lt/lankytinos-vietos/kruonio-gravitacine-kalva/7872",
+        "visited": false
+      },
+      "geometry": {
+        "coordinates": [24.26962889654496, 54.79473647033285],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "locomotive",
+        "name": "Garvežys",
+        "source": "https://www.niekonaujo.lt/20170811/garvezys",
+        "visited": false
+      },
+      "geometry": {
+        "coordinates": [25.287801497398135, 54.67039716481847],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "small_city",
+        "name": "Linksmakalnis",
+        "source": "https://lt.wikipedia.org/wiki/Linksmakalnis",
+        "visited": false
+      },
+      "geometry": {
+        "coordinates": [23.930129498468915, 54.758154266437884],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "fort",
+        "name": "Kauno tvirtovės III fortas",
+        "source": "https://lt.wikipedia.org/wiki/III_Kauno_fortas",
+        "visited": false
+      },
+      "geometry": {
+        "coordinates": [23.907350053965246, 54.850609248367704],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "bridge",
+        "name": "Kazbiejų tiltas",
+        "source": "https://lt.wikipedia.org/wiki/Kazbiej%C5%B3_tiltas",
+        "visited": false
+      },
+      "geometry": {
+        "coordinates": [25.134670826237056, 54.614860786060945],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "hill",
+        "name": "Girininkų piliakalnis",
+        "source": "https://lt.wikipedia.org/wiki/Girnik%C5%B3_piliakalnis",
+        "visited": false
+      },
+      "geometry": {
+        "coordinates": [23.03394034978234, 55.86336150179028],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "small_city",
+        "name": "Kurtuvėnai",
+        "source": "https://lt.wikipedia.org/wiki/Kurtuv%C4%97nai",
+        "visited": false
+      },
+      "geometry": {
+        "coordinates": [23.048832625073402, 55.82801331302295],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "small_city",
+        "name": "Naisiai",
+        "source": "https://lt.wikipedia.org/wiki/Naisiai",
+        "visited": false
+      },
+      "geometry": {
+        "coordinates": [23.51042189527874, 56.02180605488914],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "manor",
+        "name": "Arvydų-Bezdonių dvaras",
+        "source": "https://www.checkinlithuania.com/lankytini-objektai/arvydu-bezdoniu-dvaras-lyg-rozinis-leliu-namelis/",
+        "visited": false
+      },
+      "geometry": {
+        "coordinates": [25.51927928469641, 54.79885558345944],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "manor",
+        "name": "Baltosios Vokės dvaras",
+        "source": "https://lt.wikipedia.org/wiki/Baltosios_Vok%C4%97s_dvaras",
+        "visited": false
+      },
+      "geometry": {
+        "coordinates": [25.189808867993207, 54.598374732937145],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "manor",
+        "name": "Glitiškių dvaras",
+        "source": "https://lt.wikipedia.org/wiki/Gliti%C5%A1ki%C5%B3_dvaras",
+        "visited": false
+      },
+      "geometry": {
+        "coordinates": [25.22193712670216, 54.98539784051769],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "manor",
+        "name": "Liubavos dvaras",
+        "source": "https://lt.wikipedia.org/wiki/Liubavo_dvaras",
+        "visited": false
+      },
+      "geometry": {
+        "coordinates": [25.34142256318262, 54.850783228379015],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "manor",
+        "name": "Petešos dvaras",
+        "source": "https://lt.wikipedia.org/wiki/Pete%C5%A1os_dvaras",
+        "visited": false
+      },
+      "geometry": {
+        "coordinates": [25.34780050277729, 54.56579468467777],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "hill",
+        "name": "Maišiagalos piliakalnis",
+        "source": "https://lt.wikipedia.org/wiki/Mai%C5%A1iagalos_piliakalnis",
+        "visited": false
+      },
+      "geometry": {
+        "coordinates": [25.06372586811179, 54.8661976950618],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "manor",
+        "name": "Maišiagalos dvaras",
+        "source": "https://lt.wikipedia.org/wiki/Mai%C5%A1iagalos_dvaras",
+        "visited": false
+      },
+      "geometry": {
+        "coordinates": [25.060402787187627, 54.867407644230155],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "manor",
+        "name": "Burbiškio dvaras",
+        "source": "https://lt.wikipedia.org/wiki/Burbi%C5%A1kio_dvaras_(Radvili%C5%A1kis)",
+        "visited": false
+      },
+      "geometry": {
+        "coordinates": [25.21660317390615, 55.501388625497896],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "hill",
+        "name": "Šeimyniškėlių piliakalnis",
+        "source": "https://lt.wikipedia.org/wiki/%C5%A0eimyni%C5%A1k%C4%97li%C5%B3_piliakalnis",
+        "visited": false
+      },
+      "geometry": {
+        "coordinates": [25.138833184003772, 55.545713880377065],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "feature",
+      "properties": {
+        "type": "museum_openair",
+        "name": "velnio akmuo",
+        "source": "https://lt.wikipedia.org/wiki/velnio_akmuo_(druskininkai)",
+        "visited": false
+      },
+      "geometry": {
+        "coordinates": [23.929026390173846, 53.985278893576435],
+        "type": "point"
+      }
+    },
+    {
+      "type": "feature",
+      "properties": {
+        "type": "hill",
+        "name": "Kalniškių atodanga",
+        "source": "https://lt.wikipedia.org/wiki/Kalni%C5%A1ki%C5%B3_konglomerat%C5%B3_atodanga",
+        "visited": false
+      },
+      "geometry": {
+        "coordinates": [24.075173637882955, 54.8891560717521],
+        "type": "point"
+      }
+    },
+    {
+      "type": "feature",
+      "properties": {
+        "type": "hill",
+        "name": "Žaliakalnio funikulierius",
+        "source": "https://visit.kaunas.lt/lt/aplankykite/top/kauno-funikulieriai/",
+        "visited": false
+      },
+      "geometry": {
+        "coordinates": [23.918107019564985, 54.90214685270482],
+        "type": "point"
+      }
+    },
+    {
+      "type": "feature",
+      "properties": {
+        "type": "hill",
+        "name": "Pyplių piliakalnis",
+        "source": "https://lt.wikipedia.org/wiki/Pypli%C5%B3_piliakalnis",
+        "visited": false
+      },
+      "geometry": {
+        "coordinates": [23.75029965545815, 54.92717038913614],
+        "type": "point"
+      }
+    },
+    {
+      "type": "feature",
+      "properties": {
+        "type": "hill",
+        "name": "Skališkių ola",
+        "source": "https://lt.wikipedia.org/wiki/Skali%C5%A1ki%C5%B3_ola",
+        "visited": false
+      },
+      "geometry": {
+        "coordinates": [25.57816264998138, 54.87580359741722],
+        "type": "point"
+      }
+    },
+    {
+      "type": "feature",
+      "properties": {
+        "type": "hill",
+        "name": "Keturnaujienos Dievo Gailestingumo koplyčia",
+        "source": "https://lt.m.wikipedia.org/wiki/Keturnaujienos_Dievo_Gailestingumo_koply%C4%8Dia",
+        "visited": false
+      },
+      "geometry": {
+        "coordinates": [22.910248779363997, 54.85027103285],
+        "type": "point"
+      }
+    },
+    {
+      "type": "feature",
+      "properties": {
+        "type": "castle",
+        "name": "Raudonės pilis",
+        "source": "https://lt.wikipedia.org/wiki/Raudon%C4%97s_pilis",
+        "visited": false
+      },
+      "geometry": {
+        "coordinates": [23.130846768417, 55.09726573714386],
+        "type": "point"
+      }
+    },
+    {
+      "type": "feature",
+      "properties": {
+        "type": "manor",
+        "name": "Veliuonos dvaras",
+        "source": "https://lt.wikipedia.org/wiki/Veliuonos_dvaras",
+        "visited": false
+      },
+      "geometry": {
+        "coordinates": [23.278724094138994, 55.0804863037026],
+        "type": "point"
+      }
+    },
+    {
+      "type": "feature",
+      "properties": {
+        "type": "manor",
+        "name": "Belvederio dvaras",
+        "source": "https://lt.wikipedia.org/wiki/Belvederio_dvaras",
+        "visited": false
+      },
+      "geometry": {
+        "coordinates": [23.390585799019817, 55.079756026706775],
+        "type": "point"
+      }
+    },
+    {
+      "type": "feature",
+      "properties": {
+        "type": "castle",
+        "name": "Belvederio dvaras",
+        "source": "https://lt.wikipedia.org/wiki/Panemun%C4%97s_pilis",
+        "visited": false
+      },
+      "geometry": {
+        "coordinates": [22.986299715093338, 55.09950471793297],
+        "type": "point"
+      }
+    },
+    {
+      "type": "feature",
+      "properties": {
+        "type": "hill",
+        "name": "Menčių klinčių karjeras",
+        "source": "https://www.pamatyklietuvoje.lt/details/menciu-klinciu-karjeras/4628",
+        "visited": false
+      },
+      "geometry": {
+        "coordinates": [22.92212560569368, 56.27478752411932],
+        "type": "point"
+      }
+    },
+    {
+      "type": "feature",
+      "properties": {
+        "type": "hill",
+        "name": "Ukmergės piliakalnis",
+        "source": "https://www.pamatyklietuvoje.lt/lankytinos-vietos/ukmerges-piliakalnis/3024",
+        "visited": false
+      },
+      "geometry": {
+        "coordinates": [24.76913481937575, 55.25007236496057],
+        "type": "point"
+      }
+    },
+    {
+      "type": "feature",
+      "properties": {
+        "type": "manor",
+        "name": "Vaitkuškio dvaras",
+        "source": "https://lt.wikipedia.org/wiki/Vaitku%C5%A1kio_dvaras",
+        "visited": false
+      },
+      "geometry": {
+        "coordinates": [24.798988004386757, 55.20908859276133],
+        "type": "point"
+      }
+    },
+    {
+      "type": "feature",
+      "properties": {
+        "type": "castle",
+        "name": "Siesikų dvaras - pilis",
+        "source": "https://www.pamatyklietuvoje.lt/lankytinos-vietos/siesiku-dvaras-pilis/2017",
+        "visited": false
+      },
+      "geometry": {
+        "coordinates": [24.513616901520493, 55.28601128004152],
+        "type": "point"
+      }
+    },
+    {
+      "type": "feature",
+      "properties": {
+        "type": "church",
+        "name": "Vilniaus šv. Onos bažnyčia",
+        "source": "https://lt.wikipedia.org/wiki/Vilniaus_%C5%A1v._Onos_ba%C5%BEny%C4%8Dia",
+        "visited": false
+      },
+      "geometry": {
+        "coordinates": [25.29316886990216, 54.683076711963025],
+        "type": "point"
+      }
+    },
+    {
+      "type": "feature",
+      "properties": {
+        "type": "manor",
+        "name": "Trakų Vokės dvaras",
+        "source": "https://lt.wikipedia.org/wiki/Trak%C5%B3_Vok%C4%97s_dvaras",
+        "visited": false
+      },
+      "geometry": {
+        "coordinates": [25.108759943958262, 54.63065232648225],
+        "type": "point"
+      }
+    },
+    {
+      "type": "feature",
+      "properties": {
+        "type": "manor",
+        "name": "Taujėnų dvaras",
+        "source": "https://www.pamatyklietuvoje.lt/lankytinos-vietos/taujenu-dvaras/7332",
+        "visited": false
+      },
+      "geometry": {
+        "coordinates": [24.761552224718343, 55.396386848254394],
+        "type": "point"
+      }
+    },
+    {
+      "type": "feature",
+      "properties": {
+        "type": "bridge",
+        "name": "Jonavos geležinkelio tiltas",
+        "source": "https://lt.wikipedia.org/wiki/Jonavos_gele%C5%BEinkelio_tiltas",
+        "visited": false
+      },
+      "geometry": {
+        "coordinates": [24.295774864603004, 55.07492981405008],
+        "type": "point"
+      }
     }
   ]
 }
