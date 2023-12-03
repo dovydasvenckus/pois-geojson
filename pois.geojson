@@ -1511,6 +1511,19 @@
         "coordinates": [24.295774864603004, 55.07492981405008],
         "type": "Point"
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "small_city",
+        "name": "Linkuva",
+        "source": "https://lt.wikipedia.org/wiki/Linkuva",
+        "visited": false
+      },
+      "geometry": {
+        "coordinates": [23.9724315100934, 56.08553408591598],
+        "type": "Point"
+      }
     }
   ]
 }
