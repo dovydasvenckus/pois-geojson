@@ -413,6 +413,19 @@
         "coordinates": [25.29316886990216, 54.683076711963025],
         "type": "Point"
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "museum_art",
+        "name": "Nacionalinis M. K. Čiurlionio dailės muziejus",
+        "source": "https://ciurlionis.lt",
+        "visited": false
+      },
+      "geometry": {
+        "coordinates": [25.29316886990216, 54.683076711963025],
+        "type": "Point"
+      }
     }
   ]
 }
