@@ -316,6 +316,19 @@
         "coordinates": [25.625976557729814, 54.52708269636517],
         "type": "Point"
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "watch_tower",
+        "name": "Pagramančio apžvalgos bokštas",
+        "url": "https://welovelithuania.com/naujas-apzvalgos-bokstas-taurageje-prie-akmenos-ir-juros-upiu-santakos/",
+        "visited": false
+      },
+      "geometry": {
+        "coordinates": [22.22986716477928, 55.351358474844346],
+        "type": "Point"
+      }
     }
   ]
 }

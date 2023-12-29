@@ -426,6 +426,19 @@
         "coordinates": [25.29316886990216, 54.683076711963025],
         "type": "Point"
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "aircraft",
+        "name": "Polish aviation musem",
+        "source": "https://muzeumlotnictwa.pl/muzeum/pl/",
+        "visited": false
+      },
+      "geometry": {
+        "coordinates": [19.989569856023223, 50.07694166546224],
+        "type": "Point"
+      }
     }
   ]
 }
