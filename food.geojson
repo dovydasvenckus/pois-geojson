@@ -634,6 +634,20 @@
         "coordinates": [23.915843146870827, 54.89881797870058],
         "type": "Point"
       }
-    }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "cafe",
+        "name": "Kohvik Vaffel",
+        "url": "https://vaffel.ee/",
+        "visited": false
+      },
+      "geometry": {
+        "coordinates": [24.738407301460512, 59.44409548450045],
+        "type": "Point"
+      }
+    },
+
   ]
 }
