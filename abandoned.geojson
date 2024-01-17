@@ -253,6 +253,18 @@
         "coordinates": [23.79668737943223, 55.75032867813937],
         "type": "Point"
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "abandoned",
+        "name": "Alytaus technikos mokykla",
+        "visited": false
+      },
+      "geometry": {
+        "coordinates": [24.031232422363672, 54.388103521282915],
+        "type": "Point"
+      }
     }
   ]
 }
