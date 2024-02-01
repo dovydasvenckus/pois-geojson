@@ -30,6 +30,19 @@
     {
       "type": "Feature",
       "properties": {
+        "type": "museum_openair",
+        "name": "Vaclovo Into sodyba",
+        "source": "https://intosodyba.lt",
+        "visited": false 
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.573281009328696, 56.16881230779239]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "type": "museum_war",
         "name": "Šaltojo karo muziejus",
         "source": "https://pamatyklietuvoje.lt/details/saltojo-karo-muziejus/299",
