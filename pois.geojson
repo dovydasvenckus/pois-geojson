@@ -1524,6 +1524,84 @@
         "coordinates": [23.9724315100934, 56.08553408591598],
         "type": "Point"
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "small_city",
+        "name": "Žeimelis",
+        "source": "https://lt.wikipedia.org/wiki/%C5%BDeimelis",
+        "visited": false
+      },
+      "geometry": {
+        "coordinates": [23.99789699814674, 56.27230080044793],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "small_city",
+        "name": "Akmenė",
+        "source": "https://lt.wikipedia.org/wiki/Akmen%C4%97",
+        "visited": false
+      },
+      "geometry": {
+        "coordinates": [22.747935031601003, 56.24586505432984],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "small_city",
+        "name": "Šiaulėnai",
+        "source": "https://lt.wikipedia.org/wiki/%C5%A0iaul%C4%97nai",
+        "visited": false
+      },
+      "geometry": {
+        "coordinates": [23.401092011854416, 55.677421112361856],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "small_city",
+        "name": "Kirdeikiai",
+        "source": "https://lt.wikipedia.org/wiki/Kirdeikiai",
+        "visited": false
+      },
+      "geometry": {
+        "coordinates": [25.941496031873697, 55.37700628408402],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "windmill",
+        "name": "Pumpėnų vėjo malūnas",
+        "source": "https://lt.wikipedia.org/wiki/Pump%C4%97n%C5%B3_v%C4%97jo_mal%C5%ABnas",
+        "visited": false
+      },
+      "geometry": {
+        "coordinates": [24.337506145453432, 55.934674742686184],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "small_city",
+        "name": "Duokiškis",
+        "source": "https://lt.wikipedia.org/wiki/Duoki%C5%A1kis",
+        "visited": false
+      },
+      "geometry": {
+        "coordinates": [25.524013480802807, 55.74326111832795],
+        "type": "Point"
+      }
     }
   ]
 }
