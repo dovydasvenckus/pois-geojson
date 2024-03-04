@@ -1602,6 +1602,31 @@
         "coordinates": [25.524013480802807, 55.74326111832795],
         "type": "Point"
       }
+    },
+    {
+      "properties": {
+        "type": "stream",
+        "name": "Ariogalos šaltinėlis",
+        "source": "https://www.pamatyklietuvoje.lt/details/marijos-asaru-sventas-saltinis/1354",
+        "visited": false
+      },
+      "geometry": {
+        "coordinates": [23.443968195342762, 55.280508706408256],
+        "type": "Point"
+      }
+    },
+     {
+      "type": "Feature",
+      "properties": {
+        "type": "statue",
+        "name": "Perkūno žirgai",
+        "source": "https://lt.wikipedia.org/wiki/%C5%BDemai%C4%8Di%C5%B3_plentas",
+        "visited": false
+      },
+      "geometry": {
+        "coordinates": [23.893940517773046, 54.92232041433385],
+        "type": "Point"
+      }
     }
   ]
 }
