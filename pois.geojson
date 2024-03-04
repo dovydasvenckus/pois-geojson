@@ -1604,6 +1604,7 @@
       }
     },
     {
+      "type": "Feature",
       "properties": {
         "type": "stream",
         "name": "Ariogalos šaltinėlis",
