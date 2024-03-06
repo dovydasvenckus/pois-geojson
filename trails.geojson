@@ -698,6 +698,20 @@
         "coordinates": [24.07879980590033, 54.85626309885248],
         "type": "Point"
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "cognitive_trail",
+        "name": "Ąžuolyno gamtos pažinimo takas",
+        "source": "https://nesedeknamuose.lt/pazintiniai-takai/azuolyno-gamtos-pazinimo-takas/",
+        "distance": 2,
+        "visited": false
+      },
+      "geometry": {
+        "coordinates": [23.94922482410732, 54.90313141740046],
+        "type": "Point"
+      }
     }
   ]
 }
