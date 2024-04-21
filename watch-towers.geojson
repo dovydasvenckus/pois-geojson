@@ -329,6 +329,42 @@
         "coordinates": [22.22986716477928, 55.351358474844346],
         "type": "Point"
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "watch_tower",
+        "name": "Neries apžvalgos terasa",
+        "visited": false
+      },
+      "geometry": {
+        "coordinates": [25.22939245411422, 54.6684367035962],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "watch_tower",
+        "name": "Gariūnų regykla",
+        "visited": false
+      },
+      "geometry": {
+        "coordinates": [25.171882681133326, 54.66200873332767],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "museum_openair",
+        "name": "Valujavičius ir Lituanica I ant daugiabučio fasado",
+        "visited": false
+      },
+      "geometry": {
+        "coordinates": [23.962691349179437, 54.91672130661806],
+        "type": "Point"
+      }
     }
   ]
 }

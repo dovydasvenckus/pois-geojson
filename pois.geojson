@@ -1641,6 +1641,32 @@
         "coordinates": [22.148567463099482, 55.732961329479366],
         "type": "Point"
       }
+    },
+     {
+      "type": "Feature",
+      "properties": {
+        "type": "small_city",
+        "name": "Kleboniškiai",
+        "source": "https://lt.wikipedia.org/wiki/Kleboni%C5%A1kiai",
+        "description": "Senas gatvinis kaimas. Turi muziejų",
+        "visited": false
+      },
+      "geometry": {
+        "coordinates": [23.855872469737335, 55.769904735019196],
+        "type": "Point"
+      }
+    },
+     {
+      "type": "Feature",
+      "properties": {
+        "type": "church",
+        "name": "Semeliškių šv. Nikolajaus Stebukladario cerkvė",
+        "visited": false
+      },
+      "geometry": {
+        "coordinates": [24.657635213874045, 54.667098686766906],
+        "type": "Point"
+      }
     }
   ]
 }

@@ -265,6 +265,18 @@
         "coordinates": [24.031232422363672, 54.388103521282915],
         "type": "Point"
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "abandoned",
+        "name": "Old bobsleigh track in Murjani",
+        "visited": false
+      },
+      "geometry": {
+        "coordinates": [24.681085489853217, 57.14431457419923],
+        "type": "Point"
+      }
     }
   ]
 }

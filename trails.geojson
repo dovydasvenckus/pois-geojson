@@ -712,6 +712,20 @@
         "coordinates": [23.94922482410732, 54.90313141740046],
         "type": "Point"
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "trail",
+        "name": "Bebrų takas",
+        "source": "https://nesedeknamuose.lt/pazintiniai-takai/azuolyno-gamtos-pazinimo-takas/",
+        "distance": 2,
+        "visited": false
+      },
+      "geometry": {
+        "coordinates": [25.232461133444133,54.67430960967903],
+        "type": "Point"
+      }
     }
   ]
 }

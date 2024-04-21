@@ -647,6 +647,18 @@
         "coordinates": [24.738407301460512, 59.44409548450045],
         "type": "Point"
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "kebab",
+        "name": "Kebabų ambasadoriai",
+        "visited": false
+      },
+      "geometry": {
+        "coordinates": [25.091053252634197, 54.77901139067211],
+        "type": "Point"
+      }
     }
   ]
 }
