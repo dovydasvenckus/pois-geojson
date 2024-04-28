@@ -1667,6 +1667,45 @@
         "coordinates": [24.657635213874045, 54.667098686766906],
         "type": "Point"
       }
+    },
+     {
+      "type": "Feature",
+      "properties": {
+        "type": "church",
+        "name": "Gegužinės Viešpaties Apreiškimo Švč. Mergelei Marijai bažnyčia",
+        "source": "https://lt.wikipedia.org/wiki/Gegu%C5%BEin%C4%97s_Vie%C5%A1paties_Aprei%C5%A1kimo_%C5%A0v%C4%8D._Mergelei_Marijai_ba%C5%BEny%C4%8Dia",
+        "visited": false
+      },
+      "geometry": {
+        "coordinates": [24.501313859151907, 55.009574971402486],
+        "type": "Point"
+      }
+    },
+     {
+      "type": "Feature",
+      "properties": {
+        "type": "manor",
+        "name": "Belvederio dvaras",
+        "source": "https://lt.wikipedia.org/wiki/Belvederio_dvaras",
+        "visited": false
+      },
+      "geometry": {
+        "coordinates": [23.38981831704652, 55.08081049907409],
+        "type": "Point"
+      }
+    },
+     {
+      "type": "Feature",
+      "properties": {
+        "type": "manor",
+        "name": "Burbiškių dvaras (Raseiniai)",
+        "source": "https://lt.wikipedia.org/wiki/Burbi%C5%A1ki%C5%B3_dvaras_(Raseiniai)",
+        "visited": false
+      },
+      "geometry": {
+        "coordinates": [23.345165428657907, 55.363547578660445],
+        "type": "Point"
+      }
     }
   ]
 }
