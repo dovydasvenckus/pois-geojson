@@ -726,6 +726,34 @@
         "coordinates": [25.232461133444133,54.67430960967903],
         "type": "Point"
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "cognitive_trail",
+        "name": "Girelės pažintinis takas",
+        "source": "https://nesedeknamuose.lt/gireles-pazintinis-takas-kur-laisvalaiki-leidzia-kaisiadoriskiaihttps://nesedeknamuose.lt/pazintiniai-takai/azuolyno-gamtos-pazinimo-takas/",
+        "distance": 1.5,
+        "visited": false
+      },
+      "geometry": {
+        "coordinates": [24.435805813606407, 54.85864803222648],
+        "type": "Point"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "cognitive_trail",
+        "name": "Punios šilo pažintinis takas",
+        "distance": 8,
+        "visited": false
+      },
+      "geometry": {
+        "coordinates": [24.038774611327398, 54.50740729939048],
+        "type": "Point"
+      }
     }
   ]
 }

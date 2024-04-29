@@ -1706,6 +1706,19 @@
         "coordinates": [23.345165428657907, 55.363547578660445],
         "type": "Point"
       }
+    },
+     {
+      "type": "Feature",
+      "properties": {
+        "type": "chapel",
+        "name": "Laumių šv. vyskupo Stanislovo koplyčia",
+        "source": "https://lt.wikipedia.org/wiki/Laumi%C5%B3_%C5%A1v._vyskupo_Stanislovo_koply%C4%8Dia",
+        "visited": false
+      },
+      "geometry": {
+        "coordinates": [21.856946560518622, 56.18371461386093],
+        "type": "Point"
+      }
     }
   ]
 }
