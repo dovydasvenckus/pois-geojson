@@ -214,7 +214,8 @@
         "type": "memorial",
         "name": " Ablingos lurdas",
         "source": "https://www.xxiamzius.lt/archyvas/priedai/uzlaisve/20070615/2-1.html",
-        "visited": false
+        "visited": true,
+        "visitDate": "2024-05-06"
       },
       "geometry": {
         "type": "Point",
@@ -227,7 +228,8 @@
         "type": "memorial",
         "name": " Ablingos memorialas",
         "source": "https://lt.wikipedia.org/wiki/Ablinga",
-        "visited": false
+        "visited": true,
+        "visitDate": "2024-05-06"
       },
       "geometry": {
         "type": "Point",
