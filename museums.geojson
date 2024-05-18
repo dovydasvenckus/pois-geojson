@@ -452,6 +452,45 @@
         "coordinates": [19.989569856023223, 50.07694166546224],
         "type": "Point"
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "museum_industry",
+        "name": "Lietuvos švietimo muziejus",
+        "source": "https://www.lsim.lt/",
+        "visited": false
+      },
+      "geometry": {
+        "coordinates": [23.92541466207095, 54.89481462882054],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "museum_industry",
+        "name": "Sugiharos namai",
+        "source": "http://www.sugiharahouse.com/",
+        "visited": false
+      },
+      "geometry": {
+        "coordinates": [23.933052184410144, 54.89263095689202],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "museum_openair",
+        "name": "Kauno botanikos sodas",
+        "source": "https://botanika.vdu.lt/",
+        "visited": false
+      },
+      "geometry": {
+        "coordinates": [23.91101283383452, 54.871427276457496],
+        "type": "Point"
+      }
     }
   ]
 }

@@ -741,7 +741,6 @@
         "type": "Point"
       }
     },
-
     {
       "type": "Feature",
       "properties": {
@@ -752,6 +751,62 @@
       },
       "geometry": {
         "coordinates": [24.038774611327398, 54.50740729939048],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "trail",
+        "name": "Trijų bunkerių maršrutas Dzūkijoje",
+        "source": "https://nesedeknamuose.lt/triju-bunkeriu-marsrutas-dzukijoje",
+        "distance": 27,
+        "visited": false
+      },
+      "geometry": {
+        "coordinates": [24.494930637121826, 54.15936994352123],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "trail",
+        "name": "Panerių pažintinis takas",
+        "source": "https://nesedeknamuose.lt/pazintiniai-takai/paneriu-pazintinis-takas/",
+        "distance": 5,
+        "visited": false
+      },
+      "geometry": {
+        "coordinates": [25.19750857080311, 54.64400960004008],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "trail",
+        "name": "Sakalinės girininkijos pėsčiųjų takas",
+        "source": "https://nesedeknamuose.lt/ilgas-ir-apsemtas-trumpas-ir-vaizdingas",
+        "distance": 11.6, 
+        "visited": false
+      },
+      "geometry": {
+        "coordinates": [22.28935173597813, 55.19610494302714],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "trail",
+        "name": "Algimanto apygardos partizanų kovų takais pažintinis maršrutas",
+        "source": "https://nesedeknamuose.lt/nuo-slaptavietes-iki-slaptavietes-algimanto-apygardos-partizanu-kovu-takais/",
+        "distance": 13.7, 
+        "visited": false
+      },
+      "geometry": {
+        "coordinates": [25.303083313090212, 55.698970173938875],
         "type": "Point"
       }
     }

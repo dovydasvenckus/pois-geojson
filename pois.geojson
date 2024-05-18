@@ -1721,6 +1721,19 @@
         "coordinates": [21.856946560518622, 56.18371461386093],
         "type": "Point"
       }
+    },
+     {
+      "type": "Feature",
+      "properties": {
+        "type": "bridge",
+        "name": "Moterties upelio tunelis",
+        "source": "https://www.alytusinfo.lt/lankytinos-vietos/moterties-upelio-pralaida/",
+        "visited": false
+      },
+      "geometry": {
+        "coordinates": [24.100954683047718, 54.38895421399235],
+        "type": "Point"
+      }
     }
   ]
 }
