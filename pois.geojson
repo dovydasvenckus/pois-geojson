@@ -1734,6 +1734,58 @@
         "coordinates": [24.100954683047718, 54.38895421399235],
         "type": "Point"
       }
+    },
+     {
+      "type": "Feature",
+      "properties": {
+        "type": "school",
+        "name": "Vilniaus kultūros, pramogų ir sporto rūmai",
+        "source": "https://www.openhousevilnius.lt/programa/vilniaus-kulturos-pramogu-ir-sporto-rumai/",
+        "visited": true
+      },
+      "geometry": {
+        "coordinates": [25.30107912897438, 54.69690165379464],
+        "type": "Point"
+      }
+    },
+     {
+      "type": "Feature",
+      "properties": {
+        "type": "memorial",
+        "name": "Tuskulėnų rimties parko koplyčia – kolumbariumas",
+        "source": "https://www.openhousevilnius.lt/programa/tuskulenu-rimties-parko-koplycia-kolumbariumas/",
+        "visited": true
+      },
+      "geometry": {
+        "coordinates": [25.302987371737657, 54.69808360986306],
+        "type": "Point"
+      }
+    },
+     {
+      "type": "Feature",
+      "properties": {
+        "type": "manor",
+        "name": "Vileišių rūmai",
+        "source": "https://www.openhousevilnius.lt/programa/lietuviu-literaturos-ir-tautosakos-institutas-vileisiu-rumai/",
+        "visited": true
+      },
+      "geometry": {
+        "coordinates": [25.30538001841012, 54.69513974489993],
+        "type": "Point"
+      }
+    },
+     {
+      "type": "Feature",
+      "properties": {
+        "type": "school",
+        "name": "Internamas – Nacionalinės M. K. Čiurlionio menų mokyklos bendrabutis",
+        "source": "https://www.openhousevilnius.lt/programa/internamas-nacionalines-m-k-ciurlionio-menu-mokyklos-bendrabutis/",
+        "visited": true
+      },
+      "geometry": {
+        "coordinates": [25.30185570709162, 54.691885766367136],
+        "type": "Point"
+      }
     }
   ]
 }

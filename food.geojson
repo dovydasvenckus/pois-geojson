@@ -659,6 +659,18 @@
         "coordinates": [25.091053252634197, 54.77901139067211],
         "type": "Point"
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "restaurant",
+        "name": "Alka",
+        "visited": false
+      },
+      "geometry": {
+        "coordinates": [23.9901994434355, 54.007097117229875],
+        "type": "Point"
+      }
     }
   ]
 }
