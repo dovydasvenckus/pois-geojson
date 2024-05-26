@@ -1,47 +1,56 @@
 {
-  "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "cycling_route",
-        "name": "Gražutės didysis dviračių žiedas",
-        "source": "https://www.pamatyklietuvoje.lt/keliones/marsrutai-dviraciu/grazutes-didysis-dviraciu-ziedas/103",
-        "distance": 45,
-        "visited": false
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [26.134387850761414, 55.57987334698657]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "cycling_route",
-        "name": "Aplink Platelių ežerą",
-        "source": "https://pamatyklietuvoje.lt/keliones/marsrutai-dviraciu/aplink-plateliu-ezera/40",
-        "distance": 24,
-        "visited": false
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [21.81513011455536, 56.04231006435603]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "cycling_route",
-        "name": "Kairiojo Neries kranto turizmo trasa",
-        "source": "https://nesedeknamuose.lt/pazintiniai-takai/kairiojo-neries-kranto-turizmo-trasa",
-        "distance": 28,
-        "visited": false
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [24.957463092165796, 54.7552574169834]
-      }
-    }
-  ]
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "cycling_route",
+                "name": "Gražutės didysis dviračių žiedas",
+                "source": "https://www.pamatyklietuvoje.lt/keliones/marsrutai-dviraciu/grazutes-didysis-dviraciu-ziedas/103",
+                "distance": 45,
+                "visited": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.134387850761414,
+                    55.57987334698657
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "cycling_route",
+                "name": "Aplink Platelių ežerą",
+                "source": "https://pamatyklietuvoje.lt/keliones/marsrutai-dviraciu/aplink-plateliu-ezera/40",
+                "distance": 24,
+                "visited": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.81513011455536,
+                    56.04231006435603
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "cycling_route",
+                "name": "Kairiojo Neries kranto turizmo trasa",
+                "source": "https://nesedeknamuose.lt/pazintiniai-takai/kairiojo-neries-kranto-turizmo-trasa",
+                "distance": 28,
+                "visited": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.957463092165796,
+                    54.7552574169834
+                ]
+            }
+        }
+    ]
 }

@@ -1,53 +1,65 @@
 {
-  "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "beach",
-        "name": "Balžio paplūdimys",
-        "visited": false
-      },
-      "geometry": {
-        "coordinates": [25.43200126963123, 54.79278383999633],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "beach",
-        "name": "Tapelių paplūdimys",
-        "visited": false
-      },
-      "geometry": {
-        "coordinates": [25.447462526266378, 54.771441276931256],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "beach",
-        "name": "Gyliaus ežero pietinis pliažas",
-        "visited": false
-      },
-      "geometry": {
-        "coordinates": [23.197076168305244, 55.60583924580857],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "beach",
-        "name": "Daujėnų karjero papludimys",
-        "visited": false
-      },
-      "geometry": {
-        "coordinates": [24.523903694468828, 55.97235908281428],
-        "type": "Point"
-      }
-    }
-  ]
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "beach",
+                "name": "Balžio paplūdimys",
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    25.43200126963123,
+                    54.79278383999633
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "beach",
+                "name": "Tapelių paplūdimys",
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    25.447462526266378,
+                    54.771441276931256
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "beach",
+                "name": "Gyliaus ežero pietinis pliažas",
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    23.197076168305244,
+                    55.60583924580857
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "beach",
+                "name": "Daujėnų karjero papludimys",
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    24.523903694468828,
+                    55.97235908281428
+                ],
+                "type": "Point"
+            }
+        }
+    ]
 }

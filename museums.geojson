@@ -1,496 +1,610 @@
 {
-  "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "car_museum",
-        "name": "Molėtų Technikos Muziejus ",
-        "source": "http://www.mtm.lt/",
-        "visited": true
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [25.333877205848694, 55.11531753390927]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "museum_openair",
-        "name": "Orvidų sodyba",
-        "source": "https://www.orvidusodyba.lt/",
-        "visited": true
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [21.610182523727417, 56.051160590662874]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "museum_openair",
-        "name": "Vaclovo Into sodyba",
-        "source": "https://intosodyba.lt",
-        "visited": false 
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [21.573281009328696, 56.16881230779239]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "museum_war",
-        "name": "Šaltojo karo muziejus",
-        "source": "https://pamatyklietuvoje.lt/details/saltojo-karo-muziejus/299",
-        "visited": false
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [21.906180381774902, 56.03221666866527]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "museum_war",
-        "name": "Policijos muziejus",
-        "visited": false
-      },
-      "geometry": {
-        "coordinates": [25.26062405480178, 54.676473744463834],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "museum_war",
-        "name": "Kopūstėlių raketinė bazė",
-        "source": "https://www.niekonaujo.lt/20111216/kopusteliai",
-        "visited": false
-      },
-      "geometry": {
-        "coordinates": [24.707135200859653, 55.18635150692086],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "museum_christian",
-        "name": "Šilavoto Davatkynas",
-        "source": "https://lt.wikipedia.org/wiki/%C5%A0ilavoto_Davatkynas",
-        "visited": false
-      },
-      "geometry": {
-        "coordinates": [23.755604934243763, 54.66524951597927],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "museum_war",
-        "name": "VI fortas",
-        "source": "https://www.niekonaujo.lt/20220324/vi-fortas",
-        "visited": false
-      },
-      "geometry": {
-        "coordinates": [23.97919809141652, 54.901337514620934],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "car_museum",
-        "name": "Garažas 9:11 ",
-        "source": "https://www.youtube.com/watch?v=VROkhkJBbus",
-        "visited": false
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [25.297548298050458, 54.68099661736389]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "museum_industrial",
-        "name": "Daugpilio šratų gamykla „DSR“",
-        "source": "https://www.niekonaujo.lt/20220815/daugpilio-sratu-gamykla",
-        "visited": false
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [26.534794540670106, 55.87483895434346]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "museum_openair",
-        "name": "Europos parkas",
-        "source": "https://www.pamatyklietuvoje.lt/lankytinos-vietos/europos-parkas-europos-centro-muziejus/1485",
-        "visited": false
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [25.351627968423543, 54.83086572245611]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "museum_war",
-        "name": "Okupacijų ir laisvės kovų muziejus",
-        "source": "http://genocid.lt/muziejus",
-        "visited": true
-      },
-      "geometry": {
-        "coordinates": [25.270492962320418, 54.688033293874355],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "museum_war",
-        "name": "Okupacijų ir laisvės kovų muziejus",
-        "visited": true
-      },
-      "geometry": {
-        "coordinates": [25.270492962320418, 54.688033293874355],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "museum_industry",
-        "name": "",
-        "source": "https://www.etm.lt",
-        "visited": true
-      },
-      "geometry": {
-        "coordinates": [25.2878394486425, 54.69017120711709],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "museum_art",
-        "name": "Nacionalinė dailės galerija",
-        "source": "http://www.ndg.lt",
-        "visited": true
-      },
-      "geometry": {
-        "coordinates": [25.2706831930885, 54.69690954023093],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "museum_art",
-        "name": "MO muziejus",
-        "source": "https://mo.lt/",
-        "visited": true
-      },
-      "geometry": {
-        "coordinates": [25.27786239470828, 54.67943992542615],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "museum_war",
-        "name": "Okupacijų ir laisvės kovų muziejus",
-        "source": "http://genocid.lt/muziejus",
-        "visited": true
-      },
-      "geometry": {
-        "coordinates": [25.270492962320418, 54.688033293874355],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "museum_war",
-        "name": "Okupacijų ir laisvės kovų muziejus",
-        "visited": true
-      },
-      "geometry": {
-        "coordinates": [25.270492962320418, 54.688033293874355],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "museum_industry",
-        "name": "",
-        "source": "https://www.etm.lt",
-        "visited": true
-      },
-      "geometry": {
-        "coordinates": [25.2878394486425, 54.69017120711709],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "museum_art",
-        "name": "Nacionalinė dailės galerija",
-        "source": "http://www.ndg.lt",
-        "visited": true
-      },
-      "geometry": {
-        "coordinates": [25.2706831930885, 54.69690954023093],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "museum_art",
-        "name": "MO muziejus",
-        "source": "https://mo.lt/",
-        "visited": true
-      },
-      "geometry": {
-        "coordinates": [25.27786239470828, 54.67943992542615],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "museum_openair",
-        "name": "Grūto parkas",
-        "source": "http://grutoparkas.lt/lauko-ekspozicija/",
-        "visited": false
-      },
-      "geometry": {
-        "coordinates": [24.078592136577356, 54.024550804058464],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "car_museum",
-        "name": "Automuziejus ",
-        "source": "https://automuziejus.lt/",
-        "visited": false
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [25.273597294332063, 54.66507800573646]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "museum_war",
-        "name": "Vilniaus gynybinės sienos bastėja",
-        "source": "https://www.govilnius.lt/aplankykite/lankytinos-vietos/vilniaus-gynybines-sienos-basteja",
-        "visited": false
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [25.292388906973144, 54.677162646193324]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "museum_industrial",
-        "name": "Lietuvos kelių muziejus",
-        "source": "https://www.checkinlithuania.com/lankytini-objektai/lietuvos-keliu-muziejus/",
-        "visited": false
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [24.814478858229876, 54.77239698860754]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "museum_war",
-        "name": "Battery Memel Nord",
-        "source": "https://www.pamatyklietuvoje.lt/lankytinos-vietos/memelnord-kariniai-itvirtinimai/4057",
-        "visited": false
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [21.0739667175568, 55.77771549987716]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "car_museum",
-        "name": "Šeduvos istorinės technikos muziejus „Retromobile“",
-        "source": "https://www.pamatyklietuvoje.lt/details/seduvos-istorines-technikos-muziejus/4659",
-        "visited": false
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [23.76623393200208, 55.75692437253301]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "museum_industrial",
-        "name": "Lietuvos Banko Pinigų muziejus",
-        "source": "https://www.pinigumuziejus.lt/",
-        "visited": false
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [23.76623393200208, 55.75692437253301]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "museum_industrial",
-        "name": "Arklio muziejus",
-        "source": "https://lt.wikipedia.org/wiki/Arklio_muziejus",
-        "visited": false
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [25.08548431506867, 55.572671681534956]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "museum_war",
-        "name": "Atominio bunkerio muziejus",
-        "source": "https://lt.wikipedia.org/wiki/Atominis_bunkeris",
-        "visited": false
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [23.841892684211217, 54.91367678462669]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "museum_openair",
-        "name": "Lietuvos etnokosmologijos muziejus",
-        "source": "https://lt.wikipedia.org/wiki/Lietuvos_etnokosmologijos_muziejus",
-        "visited": false
-      },
-      "geometry": {
-        "coordinates": [25.55618752290752, 55.31504775904804],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "aircraft",
-        "name": "Lietuvos aviacijos muziejus",
-        "source": "https://www.pamatyklietuvoje.lt/lankytinos-vietos/lietuvos-aviacijos-muziejus/2269",
-        "visited": false
-      },
-      "geometry": {
-        "coordinates": [23.89162349026458, 54.87797481391445],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "museum_openair",
-        "name": "Akmens skulptūrų parkas \"Vilnoja\"",
-        "source": "https://www.pamatyklietuvoje.lt/lankytinos-vietos/akmens-skulpturu-parkas-vilnoja/3757",
-        "visited": false
-      },
-      "geometry": {
-        "coordinates": [25.29316886990216, 54.683076711963025],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "museum_art",
-        "name": "Nacionalinis M. K. Čiurlionio dailės muziejus",
-        "source": "https://ciurlionis.lt",
-        "visited": false
-      },
-      "geometry": {
-        "coordinates": [25.29316886990216, 54.683076711963025],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "aircraft",
-        "name": "Polish aviation musem",
-        "source": "https://muzeumlotnictwa.pl/muzeum/pl/",
-        "visited": false
-      },
-      "geometry": {
-        "coordinates": [19.989569856023223, 50.07694166546224],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "museum_industry",
-        "name": "Lietuvos švietimo muziejus",
-        "source": "https://www.lsim.lt/",
-        "visited": false
-      },
-      "geometry": {
-        "coordinates": [23.92541466207095, 54.89481462882054],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "museum_industry",
-        "name": "Sugiharos namai",
-        "source": "http://www.sugiharahouse.com/",
-        "visited": false
-      },
-      "geometry": {
-        "coordinates": [23.933052184410144, 54.89263095689202],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "museum_openair",
-        "name": "Kauno botanikos sodas",
-        "source": "https://botanika.vdu.lt/",
-        "visited": false
-      },
-      "geometry": {
-        "coordinates": [23.91101283383452, 54.871427276457496],
-        "type": "Point"
-      }
-    }
-  ]
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "car_museum",
+                "name": "Molėtų Technikos Muziejus ",
+                "source": "http://www.mtm.lt/",
+                "visited": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.333877205848694,
+                    55.11531753390927
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "museum_openair",
+                "name": "Orvidų sodyba",
+                "source": "https://www.orvidusodyba.lt/",
+                "visited": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.610182523727417,
+                    56.051160590662874
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "museum_openair",
+                "name": "Vaclovo Into sodyba",
+                "source": "https://intosodyba.lt",
+                "visited": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.573281009328696,
+                    56.16881230779239
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "museum_war",
+                "name": "Šaltojo karo muziejus",
+                "source": "https://pamatyklietuvoje.lt/details/saltojo-karo-muziejus/299",
+                "visited": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.906180381774902,
+                    56.03221666866527
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "museum_war",
+                "name": "Policijos muziejus",
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    25.26062405480178,
+                    54.676473744463834
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "museum_war",
+                "name": "Kopūstėlių raketinė bazė",
+                "source": "https://www.niekonaujo.lt/20111216/kopusteliai",
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    24.707135200859653,
+                    55.18635150692086
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "museum_christian",
+                "name": "Šilavoto Davatkynas",
+                "source": "https://lt.wikipedia.org/wiki/%C5%A0ilavoto_Davatkynas",
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    23.755604934243763,
+                    54.66524951597927
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "museum_war",
+                "name": "VI fortas",
+                "source": "https://www.niekonaujo.lt/20220324/vi-fortas",
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    23.97919809141652,
+                    54.901337514620934
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "car_museum",
+                "name": "Garažas 9:11 ",
+                "source": "https://www.youtube.com/watch?v=VROkhkJBbus",
+                "visited": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.297548298050458,
+                    54.68099661736389
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "museum_industrial",
+                "name": "Daugpilio šratų gamykla „DSR“",
+                "source": "https://www.niekonaujo.lt/20220815/daugpilio-sratu-gamykla",
+                "visited": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.534794540670106,
+                    55.87483895434346
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "museum_openair",
+                "name": "Europos parkas",
+                "source": "https://www.pamatyklietuvoje.lt/lankytinos-vietos/europos-parkas-europos-centro-muziejus/1485",
+                "visited": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.351627968423543,
+                    54.83086572245611
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "museum_war",
+                "name": "Okupacijų ir laisvės kovų muziejus",
+                "source": "http://genocid.lt/muziejus",
+                "visited": true
+            },
+            "geometry": {
+                "coordinates": [
+                    25.270492962320418,
+                    54.688033293874355
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "museum_war",
+                "name": "Okupacijų ir laisvės kovų muziejus",
+                "visited": true
+            },
+            "geometry": {
+                "coordinates": [
+                    25.270492962320418,
+                    54.688033293874355
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "museum_industry",
+                "name": "",
+                "source": "https://www.etm.lt",
+                "visited": true
+            },
+            "geometry": {
+                "coordinates": [
+                    25.2878394486425,
+                    54.69017120711709
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "museum_art",
+                "name": "Nacionalinė dailės galerija",
+                "source": "http://www.ndg.lt",
+                "visited": true
+            },
+            "geometry": {
+                "coordinates": [
+                    25.2706831930885,
+                    54.69690954023093
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "museum_art",
+                "name": "MO muziejus",
+                "source": "https://mo.lt/",
+                "visited": true
+            },
+            "geometry": {
+                "coordinates": [
+                    25.27786239470828,
+                    54.67943992542615
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "museum_war",
+                "name": "Okupacijų ir laisvės kovų muziejus",
+                "source": "http://genocid.lt/muziejus",
+                "visited": true
+            },
+            "geometry": {
+                "coordinates": [
+                    25.270492962320418,
+                    54.688033293874355
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "museum_war",
+                "name": "Okupacijų ir laisvės kovų muziejus",
+                "visited": true
+            },
+            "geometry": {
+                "coordinates": [
+                    25.270492962320418,
+                    54.688033293874355
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "museum_industry",
+                "name": "",
+                "source": "https://www.etm.lt",
+                "visited": true
+            },
+            "geometry": {
+                "coordinates": [
+                    25.2878394486425,
+                    54.69017120711709
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "museum_art",
+                "name": "Nacionalinė dailės galerija",
+                "source": "http://www.ndg.lt",
+                "visited": true
+            },
+            "geometry": {
+                "coordinates": [
+                    25.2706831930885,
+                    54.69690954023093
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "museum_art",
+                "name": "MO muziejus",
+                "source": "https://mo.lt/",
+                "visited": true
+            },
+            "geometry": {
+                "coordinates": [
+                    25.27786239470828,
+                    54.67943992542615
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "museum_openair",
+                "name": "Grūto parkas",
+                "source": "http://grutoparkas.lt/lauko-ekspozicija/",
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    24.078592136577356,
+                    54.024550804058464
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "car_museum",
+                "name": "Automuziejus ",
+                "source": "https://automuziejus.lt/",
+                "visited": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.273597294332063,
+                    54.66507800573646
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "museum_war",
+                "name": "Vilniaus gynybinės sienos bastėja",
+                "source": "https://www.govilnius.lt/aplankykite/lankytinos-vietos/vilniaus-gynybines-sienos-basteja",
+                "visited": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.292388906973144,
+                    54.677162646193324
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "museum_industrial",
+                "name": "Lietuvos kelių muziejus",
+                "source": "https://www.checkinlithuania.com/lankytini-objektai/lietuvos-keliu-muziejus/",
+                "visited": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.814478858229876,
+                    54.77239698860754
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "museum_war",
+                "name": "Battery Memel Nord",
+                "source": "https://www.pamatyklietuvoje.lt/lankytinos-vietos/memelnord-kariniai-itvirtinimai/4057",
+                "visited": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0739667175568,
+                    55.77771549987716
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "car_museum",
+                "name": "Šeduvos istorinės technikos muziejus „Retromobile“",
+                "source": "https://www.pamatyklietuvoje.lt/details/seduvos-istorines-technikos-muziejus/4659",
+                "visited": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.76623393200208,
+                    55.75692437253301
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "museum_industrial",
+                "name": "Lietuvos Banko Pinigų muziejus",
+                "source": "https://www.pinigumuziejus.lt/",
+                "visited": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.76623393200208,
+                    55.75692437253301
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "museum_industrial",
+                "name": "Arklio muziejus",
+                "source": "https://lt.wikipedia.org/wiki/Arklio_muziejus",
+                "visited": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.08548431506867,
+                    55.572671681534956
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "museum_war",
+                "name": "Atominio bunkerio muziejus",
+                "source": "https://lt.wikipedia.org/wiki/Atominis_bunkeris",
+                "visited": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.841892684211217,
+                    54.91367678462669
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "museum_openair",
+                "name": "Lietuvos etnokosmologijos muziejus",
+                "source": "https://lt.wikipedia.org/wiki/Lietuvos_etnokosmologijos_muziejus",
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    25.55618752290752,
+                    55.31504775904804
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "aircraft",
+                "name": "Lietuvos aviacijos muziejus",
+                "source": "https://www.pamatyklietuvoje.lt/lankytinos-vietos/lietuvos-aviacijos-muziejus/2269",
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    23.89162349026458,
+                    54.87797481391445
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "museum_openair",
+                "name": "Akmens skulptūrų parkas \"Vilnoja\"",
+                "source": "https://www.pamatyklietuvoje.lt/lankytinos-vietos/akmens-skulpturu-parkas-vilnoja/3757",
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    25.29316886990216,
+                    54.683076711963025
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "museum_art",
+                "name": "Nacionalinis M. K. Čiurlionio dailės muziejus",
+                "source": "https://ciurlionis.lt",
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    25.29316886990216,
+                    54.683076711963025
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "aircraft",
+                "name": "Polish aviation musem",
+                "source": "https://muzeumlotnictwa.pl/muzeum/pl/",
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    19.989569856023223,
+                    50.07694166546224
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "museum_industry",
+                "name": "Lietuvos švietimo muziejus",
+                "source": "https://www.lsim.lt/",
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    23.92541466207095,
+                    54.89481462882054
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "museum_industry",
+                "name": "Sugiharos namai",
+                "source": "http://www.sugiharahouse.com/",
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    23.933052184410144,
+                    54.89263095689202
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "museum_openair",
+                "name": "Kauno botanikos sodas",
+                "source": "https://botanika.vdu.lt/",
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    23.91101283383452,
+                    54.871427276457496
+                ],
+                "type": "Point"
+            }
+        }
+    ]
 }

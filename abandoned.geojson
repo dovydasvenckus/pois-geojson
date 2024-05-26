@@ -1,282 +1,348 @@
 {
-  "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "abandoned",
-        "name": "Šilininkų vasaros stovykla",
-        "visited": false
-      },
-      "geometry": {
-        "coordinates": [21.553846473353644, 55.2039955934101],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "ghost_town",
-        "name": " Žąsaičiai (potentially abandoned village)",
-        "visited": false
-      },
-      "geometry": {
-        "coordinates": [23.449058486436684, 55.61493614358659],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "ghost_town",
-        "name": "Anužiai abandoned village",
-        "visited": false
-      },
-      "geometry": {
-        "coordinates": [21.56761233892817, 55.86660749279628],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "abandoned",
-        "name": "Spenglos globos namai",
-        "visited": false,
-        "source": "http://www.dinosblogas.lt/?p=1446"
-      },
-      "geometry": {
-        "coordinates": [24.771321884301898, 54.35631048414962],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "abandoned",
-        "name": "Vasaros stovykla \"Berželis\"",
-        "visited": false,
-        "source": "https://www.praeitieszvalgas.lt/vaiku-poilsio-stovykla-berzelis"
-      },
-      "geometry": {
-        "coordinates": [24.043787493624393, 54.59927880130647],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "abandoned",
-        "name": "Priešlėktuvinės gynybos bazė Palangoje",
-        "visited": false,
-        "source": "http://www.apleistazona.lt/prieslektuvines-gynybos-baze-palangoje"
-      },
-      "geometry": {
-        "coordinates": [21.106742217767874, 55.97730388833608],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "abandoned",
-        "name": "Poilsio namai \"Rugelis\"",
-        "visited": false,
-        "source": "http://www.apleistazona.lt/poilsio-namai-rugelis"
-      },
-      "geometry": {
-        "coordinates": [21.07134704924806, 55.93997740470209],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "abandoned",
-        "name": "Pionierių stovykla \"Atgaja\"",
-        "visited": false,
-        "source": "https://www.niekonaujo.lt/20101028/apleista-pionieriu-stovykla"
-      },
-      "geometry": {
-        "coordinates": [25.077485803885082, 54.68392246416249],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "abandoned",
-        "name": "Pakėvio bažnyčios griuvėsiai",
-        "visited": false
-      },
-      "geometry": {
-        "coordinates": [22.81584481936153, 55.68278967217128],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "abandoned",
-        "name": "Abandoned church \"EAÕK Kalli Ristija Johannese kirik\"",
-        "visited": false
-      },
-      "geometry": {
-        "coordinates": [24.042243558787845, 58.53250174923869],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "abandoned",
-        "name": "Dinamo poilsio bazė",
-        "visited": false
-      },
-      "geometry": {
-        "coordinates": [24.848735670307917, 54.67738007100533],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "abandoned",
-        "name": "Sanatorija",
-        "visited": false
-      },
-      "geometry": {
-        "coordinates": [25.050903033400203, 54.71966562373564],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "abandoned",
-        "name": "Sanatorija Signma",
-        "source": "http://pbb.lt/2011/08/29/apleistas-profilaktoriumas-sigma/",
-        "visited": false
-      },
-      "geometry": {
-        "coordinates": [25.44197108226072, 54.789410490818426],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "ghost_town",
-        "name": "Paulavos respublika",
-        "source": "https://lt.wikipedia.org/wiki/Paulavos_respublikaj",
-        "visited": false
-      },
-      "geometry": {
-        "coordinates": [25.475012785612222, 54.45643732445495],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "bridge",
-        "name": "Senasis Mažeikių geležinkelio tiltas",
-        "source": "http://www.apleisti.lt/senasis-mazeikiu-gelezinkelio-tiltas",
-        "visited": false
-      },
-      "geometry": {
-        "coordinates": [22.23916004613463, 56.33923914313101],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "ghost_town",
-        "name": "Konstantinava",
-        "source": "https://www.delfi.lt/keliones/naujienos/daugiabuciai-parduotuve-sporto-sale-mokykla-lietuvos-cernobylyje-viskas-palikta-ir-niekam-nereikalinga-84504713",
-        "visited": false
-      },
-      "geometry": {
-        "coordinates": [25.350970414661788, 56.054896173988766],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "bridge",
-        "name": "Filmo \"Černobylis\" tiltas",
-        "source": "https://welovelithuania.com/cernobylio-tiltas-keistas-kelio-zenklas-kaune-su-dar-keistesne-nuoroda/",
-        "visited": false
-      },
-      "geometry": {
-        "coordinates": [24.015853706290073, 54.88897248503403],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "abandoned",
-        "name": "Merkinės dvaro griuvėsiai",
-        "source": "https://lt.wikipedia.org/wiki/Merkin%C4%97s_dvaras_(%C5%A0al%C4%8Dininkai)",
-        "visited": false
-      },
-      "geometry": {
-        "coordinates": [25.47417099326492, 54.45593918537236],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "abandoned",
-        "name": "Deltuvos evangelikų – reformatų bažnyčios liekanos",
-        "source": "https://www.pamatyklietuvoje.lt/lankytinos-vietos/deltuvos-evangeliku-reformatu-baznycios-liekanos/4666",
-        "visited": false
-      },
-      "geometry": {
-        "coordinates": [24.66590396234102, 55.23589894473838],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "abandoned",
-        "name": "Raudondvario (Šeduvos) dvaras",
-        "source": "https://www.pamatyklietuvoje.lt/lankytinos-vietos/raudondvario-seduvos-dvaras/7273",
-        "visited": false
-      },
-      "geometry": {
-        "coordinates": [23.79668737943223, 55.75032867813937],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "abandoned",
-        "name": "Alytaus technikos mokykla",
-        "visited": false
-      },
-      "geometry": {
-        "coordinates": [24.031232422363672, 54.388103521282915],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "abandoned",
-        "name": "Old bobsleigh track in Murjani",
-        "visited": false
-      },
-      "geometry": {
-        "coordinates": [24.681085489853217, 57.14431457419923],
-        "type": "Point"
-      }
-    }
-  ]
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "abandoned",
+                "name": "Šilininkų vasaros stovykla",
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    21.553846473353644,
+                    55.2039955934101
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "ghost_town",
+                "name": " Žąsaičiai (potentially abandoned village)",
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    23.449058486436684,
+                    55.61493614358659
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "ghost_town",
+                "name": "Anužiai abandoned village",
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    21.56761233892817,
+                    55.86660749279628
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "abandoned",
+                "name": "Spenglos globos namai",
+                "visited": false,
+                "source": "http://www.dinosblogas.lt/?p=1446"
+            },
+            "geometry": {
+                "coordinates": [
+                    24.771321884301898,
+                    54.35631048414962
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "abandoned",
+                "name": "Vasaros stovykla \"Berželis\"",
+                "visited": false,
+                "source": "https://www.praeitieszvalgas.lt/vaiku-poilsio-stovykla-berzelis"
+            },
+            "geometry": {
+                "coordinates": [
+                    24.043787493624393,
+                    54.59927880130647
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "abandoned",
+                "name": "Priešlėktuvinės gynybos bazė Palangoje",
+                "visited": false,
+                "source": "http://www.apleistazona.lt/prieslektuvines-gynybos-baze-palangoje"
+            },
+            "geometry": {
+                "coordinates": [
+                    21.106742217767874,
+                    55.97730388833608
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "abandoned",
+                "name": "Poilsio namai \"Rugelis\"",
+                "visited": false,
+                "source": "http://www.apleistazona.lt/poilsio-namai-rugelis"
+            },
+            "geometry": {
+                "coordinates": [
+                    21.07134704924806,
+                    55.93997740470209
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "abandoned",
+                "name": "Pionierių stovykla \"Atgaja\"",
+                "visited": false,
+                "source": "https://www.niekonaujo.lt/20101028/apleista-pionieriu-stovykla"
+            },
+            "geometry": {
+                "coordinates": [
+                    25.077485803885082,
+                    54.68392246416249
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "abandoned",
+                "name": "Pakėvio bažnyčios griuvėsiai",
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    22.81584481936153,
+                    55.68278967217128
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "abandoned",
+                "name": "Abandoned church \"EAÕK Kalli Ristija Johannese kirik\"",
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    24.042243558787845,
+                    58.53250174923869
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "abandoned",
+                "name": "Dinamo poilsio bazė",
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    24.848735670307917,
+                    54.67738007100533
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "abandoned",
+                "name": "Sanatorija",
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    25.050903033400203,
+                    54.71966562373564
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "abandoned",
+                "name": "Sanatorija Signma",
+                "source": "http://pbb.lt/2011/08/29/apleistas-profilaktoriumas-sigma/",
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    25.44197108226072,
+                    54.789410490818426
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "ghost_town",
+                "name": "Paulavos respublika",
+                "source": "https://lt.wikipedia.org/wiki/Paulavos_respublikaj",
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    25.475012785612222,
+                    54.45643732445495
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "bridge",
+                "name": "Senasis Mažeikių geležinkelio tiltas",
+                "source": "http://www.apleisti.lt/senasis-mazeikiu-gelezinkelio-tiltas",
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    22.23916004613463,
+                    56.33923914313101
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "ghost_town",
+                "name": "Konstantinava",
+                "source": "https://www.delfi.lt/keliones/naujienos/daugiabuciai-parduotuve-sporto-sale-mokykla-lietuvos-cernobylyje-viskas-palikta-ir-niekam-nereikalinga-84504713",
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    25.350970414661788,
+                    56.054896173988766
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "bridge",
+                "name": "Filmo \"Černobylis\" tiltas",
+                "source": "https://welovelithuania.com/cernobylio-tiltas-keistas-kelio-zenklas-kaune-su-dar-keistesne-nuoroda/",
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    24.015853706290073,
+                    54.88897248503403
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "abandoned",
+                "name": "Merkinės dvaro griuvėsiai",
+                "source": "https://lt.wikipedia.org/wiki/Merkin%C4%97s_dvaras_(%C5%A0al%C4%8Dininkai)",
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    25.47417099326492,
+                    54.45593918537236
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "abandoned",
+                "name": "Deltuvos evangelikų – reformatų bažnyčios liekanos",
+                "source": "https://www.pamatyklietuvoje.lt/lankytinos-vietos/deltuvos-evangeliku-reformatu-baznycios-liekanos/4666",
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    24.66590396234102,
+                    55.23589894473838
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "abandoned",
+                "name": "Raudondvario (Šeduvos) dvaras",
+                "source": "https://www.pamatyklietuvoje.lt/lankytinos-vietos/raudondvario-seduvos-dvaras/7273",
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    23.79668737943223,
+                    55.75032867813937
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "abandoned",
+                "name": "Alytaus technikos mokykla",
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    24.031232422363672,
+                    54.388103521282915
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "abandoned",
+                "name": "Old bobsleigh track in Murjani",
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    24.681085489853217,
+                    57.14431457419923
+                ],
+                "type": "Point"
+            }
+        }
+    ]
 }

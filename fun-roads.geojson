@@ -1,94 +1,145 @@
 {
-  "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "road",
-        "name": "Road from Elektrėnai to Vievis"
-      },
-      "geometry": {
-        "type": "MultiPoint",
-        "coordinates": [
-          [24.640196557312, 54.75942991960919],
-          [24.67551053473045, 54.71625002911719],
-          [24.63983416557312, 54.758853987665],
-          [24.732853484727457, 54.74379882238168],
-          [24.802117777860587, 54.76029124670697]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "road",
-        "name": "Road near Bezdonys"
-      },
-      "geometry": {
-        "type": "MultiPoint",
-        "coordinates": [
-          [25.452843904495243, 54.79558246228374],
-          [25.50387024879456, 54.79892229112842]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "road",
-        "name": "Bijutiškės <=> Jokūbonys"
-      },
-      "geometry": {
-        "type": "MultiPoint",
-        "coordinates": [
-          [25.397159507447242, 55.117238149499684],
-          [25.44492909639376, 55.08285832249066],
-          [25.408788853107893, 55.02601397676142],
-          [25.370371709775384, 55.00482301426962]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "road",
-        "name": "Fun & hilly roads near Alanta"
-      },
-      "geometry": {
-        "type": "MultiPoint",
-        "coordinates": [
-          [25.13355866801095, 55.51093957598519],
-          [25.38780641241766, 55.23391225847226]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "road",
-        "name": "Vakarinis #1"
-      },
-      "geometry": {
-        "type": "MultiPoint",
-        "coordinates": [
-          [25.205292001761734, 54.69527263850799],
-          [25.182891490683573, 54.697547937245645]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "road",
-        "name": "Vakarinis #2"
-      },
-      "geometry": {
-        "type": "MultiPoint",
-        "coordinates": [
-          [25.191385255872916, 54.68387816796485],
-          [25.182640683573, 54.697547937245645]
-        ]
-      }
-    }
-  ]
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "road",
+                "name": "Road from Elektrėnai to Vievis"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        24.640196557312,
+                        54.75942991960919
+                    ],
+                    [
+                        24.67551053473045,
+                        54.71625002911719
+                    ],
+                    [
+                        24.63983416557312,
+                        54.758853987665
+                    ],
+                    [
+                        24.732853484727457,
+                        54.74379882238168
+                    ],
+                    [
+                        24.802117777860587,
+                        54.76029124670697
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "road",
+                "name": "Road near Bezdonys"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        25.452843904495243,
+                        54.79558246228374
+                    ],
+                    [
+                        25.50387024879456,
+                        54.79892229112842
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "road",
+                "name": "Bijutiškės <=> Jokūbonys"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        25.397159507447242,
+                        55.117238149499684
+                    ],
+                    [
+                        25.44492909639376,
+                        55.08285832249066
+                    ],
+                    [
+                        25.408788853107893,
+                        55.02601397676142
+                    ],
+                    [
+                        25.370371709775384,
+                        55.00482301426962
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "road",
+                "name": "Fun & hilly roads near Alanta"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        25.13355866801095,
+                        55.51093957598519
+                    ],
+                    [
+                        25.38780641241766,
+                        55.23391225847226
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "road",
+                "name": "Vakarinis #1"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        25.205292001761734,
+                        54.69527263850799
+                    ],
+                    [
+                        25.182891490683573,
+                        54.697547937245645
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "road",
+                "name": "Vakarinis #2"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        25.191385255872916,
+                        54.68387816796485
+                    ],
+                    [
+                        25.182640683573,
+                        54.697547937245645
+                    ]
+                ]
+            }
+        }
+    ]
 }

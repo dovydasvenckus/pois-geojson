@@ -1,1791 +1,2205 @@
 {
-  "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "small_city",
-        "name": "Didžiasalis",
-        "source": "https://lt.wikipedia.org/wiki/Did%C5%BEiasalis",
-        "visited": false,
-        "description": "Small city near border with many abandoned apartment buildings"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [26.673989295959473, 55.320159451512446]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "small_city",
-        "name": "Zervynos",
-        "source": "https://www.pamatyklietuvoje.lt/lankytinos-vietos/zervynos/64",
-        "visited": false,
-        "description": "Gatvinis kaimas"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [24.497762918472286, 54.11038946893376]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "small_city",
-        "name": "Grabijolai",
-        "source": "https://www.pamatyklietuvoje.lt/lankytinos-vietos/grabijolai/1205",
-        "visited": true,
-        "description": "Gatvinis kaimas"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [24.869130849838257, 54.84075190221089]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "small_city",
-        "name": " Dieveniškės ",
-        "source": "https://www.pamatyklietuvoje.lt/lankytinos-vietos/dieveniskes/10075",
-        "visited": true
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [25.624955892562866, 54.19479049198504]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "chapel",
-        "name": "Didžiokų koplyčia",
-        "source": "https://www.pamatyklietuvoje.lt/lankytinos-vietos/didzioku-koplycia-mauzoliejus/11180",
-        "visited": false
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [25.354964733123776, 55.12185195298074]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "cemetery",
-        "name": "Bernardinų kapinės",
-        "description": "Pavasarį žydi mėlinos gėlės. ~Balandžio mėnesį",
-        "visited": true
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [25.306218266487118, 54.68080026781061]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "manor",
-        "name": " Markučių dvaras",
-        "visited": false
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [25.32650113105774, 54.673700687216936]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "small_city",
-        "name": " Visaginas",
-        "visited": false
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [26.42939329147339, 55.601396210046]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "church",
-        "name": " Salako akmeninė bažnyčia",
-        "description": "Akmeninė bažnyčia",
-        "visited": true
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [26.139537692070007, 55.5839905799112]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "watermill",
-        "name": " Marimonto vandens malūno liekanos",
-        "source": "https://www.pamatyklietuvoje.lt/lankytinos-vietos/marimonto-vandens-maluno-liekanos/567",
-        "visited": true
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [25.8985036611557, 55.8220166711279]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "tree",
-        "name": " Grybiškių ąžuolas",
-        "source": "https://www.pamatyklietuvoje.lt/lankytinos-vietos/grybiskiu-azuolas/353",
-        "visited": true
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [25.640142560005188, 54.248380750267216]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "small_city",
-        "name": "Atlanta",
-        "source": "https://lt.wikipedia.org/wiki/Did%C5%BEiasalis",
-        "visited": false
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [25.293059349060055, 55.35098791027422]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "tree",
-        "name": "Stelmužės ąžuolas",
-        "source": "https://lt.wikipedia.org/wiki/Stelmu%C5%BE%C4%97s_%C4%85%C5%BEuolas",
-        "visited": false
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [26.217327117919922, 55.82989026758491]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "church",
-        "name": " Stelmužės bažnyčia",
-        "source": "https://lt.wikipedia.org/wiki/Stelmu%C5%BE%C4%97s_Vie%C5%A1paties_J%C4%97zaus_Kry%C5%BEiaus_ba%C5%BEny%C4%8Dia",
-        "visited": false
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [26.21734857559204, 55.8294383246811]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "market",
-        "name": " Bagažinių turgus",
-        "visited": true
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [23.99578750133514, 54.91377705477667]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "small_city",
-        "name": " Plokščiai",
-        "visited": false
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [23.17338466644287, 55.082408319857734]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "memorial",
-        "name": " Ablingos lurdas",
-        "source": "https://www.xxiamzius.lt/archyvas/priedai/uzlaisve/20070615/2-1.html",
-        "visited": true,
-        "visitDate": "2024-05-06"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [21.696174144744873, 55.73141763959268]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "memorial",
-        "name": " Ablingos memorialas",
-        "source": "https://lt.wikipedia.org/wiki/Ablinga",
-        "visited": true,
-        "visitDate": "2024-05-06"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [21.687237024307247, 55.7422176637792]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "memorial",
-        "name": " Šiaulių geležinkelio muziejus",
-        "visited": false
-      },
-      "geometry": {
-        "coordinates": [23.300198974724452, 55.926645270530344],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "church",
-        "name": " Dubingiai church",
-        "visited": false
-      },
-      "geometry": {
-        "coordinates": [25.45220755671889, 55.05719828334054],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "memorial",
-        "name": " Romas Kalanta",
-        "visited": false
-      },
-      "geometry": {
-        "coordinates": [23.885558874489448, 54.90856887786347],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "church",
-        "name": " Papilės Šv. Juozapo bažnyčia",
-        "visited": false
-      },
-      "geometry": {
-        "coordinates": [22.78837400136112, 56.152086259652975],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "chapel",
-        "name": "Antanavo šešiakampė koplyčia",
-        "source": "https://www.pamatyklietuvoje.lt/details/antanavo-koplycia/10202",
-        "visited": false
-      },
-      "geometry": {
-        "coordinates": [23.30801862391243, 54.70116053317162],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "chapel",
-        "name": "Uoginių Šv.Marijos Magdalietės koplyčia",
-        "source": "https://lt.wikipedia.org/wiki/Uogini%C5%B3_koply%C4%8Dia",
-        "visited": false
-      },
-      "geometry": {
-        "coordinates": [24.769099581444408, 55.88600998990205],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "chapel",
-        "name": "Poklevskių-Kozelų koplyčia",
-        "source": "https://www.niekonaujo.lt/20201109/antakalnio-koplytele",
-        "visited": false
-      },
-      "geometry": {
-        "coordinates": [24.827574294126805, 55.236709554218464],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "manor",
-        "name": "Atlantos dvaras",
-        "source": "https://lt.wikipedia.org/wiki/Alantos_dvaras",
-        "visited": false
-      },
-      "geometry": {
-        "coordinates": [25.324949114929098, 55.34616918763669],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "manor",
-        "name": "Libertavos dvaro sodyba",
-        "source": "https://www.niekonaujo.lt/20190110/libertavos-dvaro-sodyba",
-        "visited": false
-      },
-      "geometry": {
-        "coordinates": [25.15400346949488, 55.35390168299165],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "manor",
-        "name": "Libertavos dvaro sodyba",
-        "source": "https://www.niekonaujo.lt/20190110/libertavos-dvaro-sodyba",
-        "visited": false
-      },
-      "geometry": {
-        "coordinates": [24.707135200859653, 55.18635150692086],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "market",
-        "name": "Kalvarijų turgus",
-        "visited": false
-      },
-      "geometry": {
-        "coordinates": [25.28447091511447, 54.7002930738615],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "church",
-        "name": " Šilavoto Švč. Jėzaus Širdies bažnyčia",
-        "visited": false
-      },
-      "geometry": {
-        "coordinates": [23.761510976852605, 54.667419343465355],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "church",
-        "name": " Šilavoto Švč. Jėzaus Širdies bažnyčia",
-        "source": "http://www.partizanai.org/laisves-kovu-archyvas-24-t-1998-m/3689-1946-metu-kaledos-labunavos-dvaro-bokste",
-        "visited": false
-      },
-      "geometry": {
-        "coordinates": [23.88363595144682, 55.17800623004055],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "chapel",
-        "name": "Panaros Dievo Gailestingumo koplyčia",
-        "source": "https://pamatyklietuvoje.lt/details/panaros-dievo-gailestingumo-koplycia/4027",
-        "visited": false
-      },
-      "geometry": {
-        "coordinates": [24.106272487503617, 54.11578921831716],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "statue",
-        "name": "Paminklas mokytojui",
-        "source": "https://lt.wikipedia.org/wiki/%C5%BDi%C5%ABronys",
-        "visited": false
-      },
-      "geometry": {
-        "coordinates": [23.806031031528192, 54.47960494990133],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "bunker",
-        "name": "Cold war bunker",
-        "source": "https://coldwarbunker.lt/",
-        "visited": false
-      },
-      "geometry": {
-        "coordinates": [25.26340449149106, 54.668272079660994],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "track",
-        "name": "Auto Moto Parkas",
-        "source": "https://www.automotoparkas.lt/paslaugu-kainorastis",
-        "visited": false
-      },
-      "geometry": {
-        "coordinates": [24.442787855057134, 54.44603530353828],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "track",
-        "name": "Winter drift track Rokiškis",
-        "source": "https://www.facebook.com/profile.php?id=100074390713529",
-        "visited": false
-      },
-      "geometry": {
-        "coordinates": [25.74720630398747, 55.94507886279189],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "track",
-        "name": "Varėnos Autosporto Klubas",
-        "source": "https://lt-lt.facebook.com/varenosask",
-        "visited": false
-      },
-      "geometry": {
-        "coordinates": [24.67478, 54.17493],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "manor",
-        "name": " Pajiešmeniai manor",
-        "source": "https://www.15min.lt/pasaulis-kiseneje/naujiena/per-lietuva/pajiesmeniai-kaimas-sugebejes-issaugoti-tai-ka-daugelis-jau-seniai-pradangino-642-1743934",
-        "visited": false
-      },
-      "geometry": {
-        "coordinates": [24.496203683909386, 56.10646697087179],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "school",
-        "name": "Kurnėnų mokyklos statinių kompleksas",
-        "source": "https://www.manokrastas.lt/kurnenu-mokyklos-statiniu-kompleksas",
-        "visited": false
-      },
-      "geometry": {
-        "coordinates": [23.89803284457406, 54.39432416577898],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "bunker",
-        "name": "Soviet Bunker",
-        "source": "http://sovietbunker.com/",
-        "visited": false
-      },
-      "geometry": {
-        "coordinates": [25.535526693851182, 54.830975502075205],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "church",
-        "name": "Leliūnų Šv. Juozapo bažnyčia",
-        "visited": false
-      },
-      "geometry": {
-        "coordinates": [25.395168788219053, 55.47348153285887],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "memorial",
-        "name": "Partizano Sergijaus Staniškio - žūties vieta",
-        "visited": false,
-        "source": "https://lt.wikipedia.org/wiki/Sergijus_Stani%C5%A1kis"
-      },
-      "geometry": {
-        "coordinates": [23.947458814921177, 54.593199083513014],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "manor",
-        "name": "Kaucidės dvaro rūmai",
-        "visited": false,
-        "source": "https://www.niekonaujo.lt/20220224/kaucmindes-rumai"
-      },
-      "geometry": {
-        "coordinates": [24.130669217889807, 56.39199857914121],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "library",
-        "name": "Kretingos rajono savivaldybės viešoji biblioteka",
-        "visited": false,
-        "source": "https://www.kretvb.lt"
-      },
-      "geometry": {
-        "coordinates": [21.24429508170175, 55.890635621039735],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "manor",
-        "name": "Tytuvėnų dvaras",
-        "visited": false,
-        "source": "https://lt.wikipedia.org/wiki/Tytuv%C4%97n%C4%97li%C5%B3_dvaras"
-      },
-      "geometry": {
-        "coordinates": [23.180940112573836, 55.62073925201335],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "windmill",
-        "name": "Lazdininkų vėjo malūnas",
-        "visited": false,
-        "source": "https://pamatyklietuvoje.lt/lankytinos-vietos/lazdininku-vejo-malunas/3198"
-      },
-      "geometry": {
-        "coordinates": [21.21663509646163, 56.00650489482388],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "memorial",
-        "name": "Panerių memorialas",
-        "visited": true,
-        "source": "https://www.pamatyklietuvoje.lt/lankytinos-vietos/paneriu-memorialas/9277"
-      },
-      "geometry": {
-        "coordinates": [25.162135642866275, 54.62747264211944],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "manor",
-        "name": "Kraštų dvaras",
-        "visited": false,
-        "source": "https://www.niekonaujo.lt/20220911/krastu-dvaras"
-      },
-      "geometry": {
-        "coordinates": [25.905144921736166, 55.913838789832596],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "small_city",
-        "name": "Kačerginė",
-        "visited": false,
-        "source": "https://lt.wikipedia.org/wiki/Ka%C4%8Dergin%C4%97"
-      },
-      "geometry": {
-        "coordinates": [23.72084530950079, 54.933857243214675],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "small_city",
-        "name": "Kudirkos Naumiestis",
-        "visited": false,
-        "source": "https://lt.wikipedia.org/wiki/Kudirkos_Naumiestis"
-      },
-      "geometry": {
-        "coordinates": [22.863567711036836, 54.77400899124456],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "manor",
-        "name": "Užvenčio dvaro sodyba",
-        "visited": false,
-        "source": "https://pamatyklietuvoje.lt/details/uzvencio-dvaro-sodyba/1815"
-      },
-      "geometry": {
-        "coordinates": [22.657046685861474, 55.78754625412353],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "hill",
-        "name": "Šatrijos piliakalnis",
-        "visited": false,
-        "source": "https://www.pamatyklietuvoje.lt/lankytinos-vietos/satrijos-piliakalnis/344"
-      },
-      "geometry": {
-        "coordinates": [22.56106859220992, 55.870479778053124],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "prison",
-        "name": "Lukiškių kalėjimas",
-        "visited": false,
-        "sources": "https://www.niekonaujo.lt/20191211/lukiskiu-kalejimas"
-      },
-      "geometry": {
-        "coordinates": [25.26623716126639, 54.69153520131212],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "market",
-        "name": "Ričardo antikvariatas",
-        "visited": false
-      },
-      "geometry": {
-        "coordinates": [24.84333340483738, 54.94801339138573],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "small_city",
-        "name": "Vilkija",
-        "source": "https://lt.wikipedia.org/wiki/Vilkija",
-        "visited": false
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [23.58330778580435, 55.04062237711415]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "market",
-        "name": "Halės turgus",
-        "source": "http://www.halesturgaviete.lt",
-        "visited": false
-      },
-      "geometry": {
-        "coordinates": [25.286343693106573, 54.67375038320537],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "market",
-        "name": "Tymo turgus",
-        "visited": false
-      },
-      "geometry": {
-        "coordinates": [25.294833749332412, 54.678893235449266],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "hill",
-        "name": "Šiurpilio piliakalnis",
-        "source": "https://lt.wikipedia.org/wiki/%C5%A0iurpilio_piliakalnis",
-        "visited": false
-      },
-      "geometry": {
-        "coordinates": [22.88429127376878, 54.23381075910203],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "church",
-        "name": "Tytuvėnų bažnyčios ir vienuolyno ansamblis",
-        "source": "https://www.pamatyklietuvoje.lt/lankytinos-vietos/tytuvenu-baznycios-ir-vienuolyno-ansamblis/1117",
-        "visited": false
-      },
-      "geometry": {
-        "coordinates": [23.201297253601524, 55.59683420546702],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "manor",
-        "name": "Kelmės dvaras/muziejus",
-        "source": "https://www.pamatyklietuvoje.lt/lankytinos-vietos/kelmes-krasto-muziejus/9344",
-        "visited": false
-      },
-      "geometry": {
-        "coordinates": [22.938321396683335, 55.63823941465901],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "manor",
-        "name": "Pakėvio dvaras",
-        "source": "https://www.pamatyklietuvoje.lt/lankytinos-vietos/pakevio-dvaras/1787",
-        "visited": false
-      },
-      "geometry": {
-        "coordinates": [22.823575703020225, 55.682019519532645],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "manor",
-        "name": "Beržėnų dvaras",
-        "source": "https://www.pamatyklietuvoje.lt/lankytinos-vietos/berzenu-dvaras/1748",
-        "visited": false
-      },
-      "geometry": {
-        "coordinates": [22.81369736099657, 55.82637315305834],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "watermill",
-        "name": "Užvenčio dvaro vandens malūnas",
-        "source": "https://www.pamatyklietuvoje.lt/lankytinos-vietos/uzvencio-dvaro-vandens-malunas/9353",
-        "visited": false
-      },
-      "geometry": {
-        "coordinates": [22.658518660595945, 55.78621452322673],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "hill",
-        "name": "Burbaičių piliakalnis",
-        "source": "https://www.pamatyklietuvoje.lt/lankytinos-vietos/burbaiciu-piliakalnis/2643",
-        "visited": false
-      },
-      "geometry": {
-        "coordinates": [23.03762579491388, 55.66423250021103],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "church",
-        "name": "Verpenos Šv. Onos bažnyčia",
-        "source": "https://www.pamatyklietuvoje.lt/lankytinos-vietos/verpenos-sv-onos-baznycia/7937",
-        "visited": false
-      },
-      "geometry": {
-        "coordinates": [22.91882399257986, 55.65287405040348],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "small_city",
-        "name": "Kražiai",
-        "source": "https://www.pamatyklietuvoje.lt/lankytinos-vietos/kraziai/6895",
-        "visited": false
-      },
-      "geometry": {
-        "coordinates": [22.689655615456843, 55.60464626659231],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "church",
-        "name": "Senoji Zapyškio Šv. Jono Krikštytojo bažnyčia",
-        "source": "https://www.pamatyklietuvoje.lt/lankytinos-vietos/senoji-zapyskio-sv-jono-krikstytojo-baznycia/3543",
-        "visited": false,
-        "notes": "Toliau esančiose kapinėse palaidotas Stanislovas Žemaitis. Susideginęs 1990 Maskvoje, protestuodamas prieš Rusijos ekonominę blokadą."
-      },
-      "geometry": {
-        "coordinates": [23.65404954519522, 54.92880132210155],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "church",
-        "name": "Lentvario Viešpaties apreiškimo Švč. Mergelei Marijai bažnyčia",
-        "source": "https://www.pamatyklietuvoje.lt/details/lentvario-viespaties-apreiskimo-svc-mergelei-marijai-baznycia/11531",
-        "visited": false
-      },
-      "geometry": {
-        "coordinates": [25.048269981890428, 54.64162479904732],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "aircraft",
-        "name": "Old plane near Barbeles primary school",
-        "source": "https://www.redzet.eu/en/photo/aircraft-near-barbele-boys-school-roots-and-wings-V-224-19-AM",
-        "visited": false
-      },
-      "geometry": {
-        "coordinates": [24.618765453949123, 56.46315475350937],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "aircraft",
-        "name": "Įstra aviacijos muziejus",
-        "source": "https://www.aviapark.lt/",
-        "visited": false
-      },
-      "geometry": {
-        "coordinates": [24.359829, 55.827269],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "chapel",
-        "name": "Parausių koplyčia",
-        "source": "https://lt.m.wikipedia.org/wiki/Parausi%C5%B3_koply%C4%8Dia",
-        "visited": false
-      },
-      "geometry": {
-        "coordinates": [23.249155988600677, 54.687520476020495],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "hardware_store",
-        "name": "Depo",
-        "source": "https://depo-diy.lt/",
-        "visited": true
-      },
-      "geometry": {
-        "coordinates": [25.225163877046924, 54.741889659788484],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "shop",
-        "name": "Promo Cash&Carry",
-        "source": "https://epromo.lt",
-        "visited": false
-      },
-      "geometry": {
-        "coordinates": [25.24146941214022, 54.72505626442617],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "small_city",
-        "name": "Liškiava",
-        "source": "https://www.pamatyklietuvoje.lt/lankytinos-vietos/liskiava/2460",
-        "visited": false
-      },
-      "geometry": {
-        "coordinates": [24.0539413621116, 54.081184784360204],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "church",
-        "name": "Akmenio kaimo Nukryžiuotojo Jėzaus bažnyčia",
-        "source": "https://www.pamatyklietuvoje.lt/lankytinos-vietos/akmenio-kaimo-nukryziuotojo-jezaus-baznycia/2343",
-        "visited": true
-      },
-      "geometry": {
-        "coordinates": [24.623193595449152, 54.30217805214377],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "hill",
-        "name": "Velnio duobė",
-        "source": "https://lt.wikipedia.org/wiki/Velnio_duob%C4%97",
-        "visited": false
-      },
-      "geometry": {
-        "coordinates": [24.51435291841483, 54.611807937575975],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "watermill",
-        "name": "Siesarties vandens malūnas",
-        "source": "https://lt.wikipedia.org/wiki/Siesarties_vandens_mal%C5%ABnas",
-        "visited": false
-      },
-      "geometry": {
-        "coordinates": [25.19199734774918, 55.22682897481707],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "small_city",
-        "name": "Troškūnai",
-        "visited": false
-      },
-      "geometry": {
-        "coordinates": [24.869300331884062, 55.58675494086475],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "manor",
-        "name": "Vašuokėnų dvaras",
-        "source": "https://pamirsta.lt/vasuokenu-dvaro-griuvesiai/",
-        "visited": false
-      },
-      "geometry": {
-        "coordinates": [24.882420683261813, 55.63695970540971],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "small_city",
-        "name": "Kurtuvėnai",
-        "source": "https://www.pamatyklietuvoje.lt/zemelapis?q=Kurtuv%C4%97nai",
-        "visited": false
-      },
-      "geometry": {
-        "coordinates": [23.048496505440596, 55.828184277815836],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "chapel",
-        "name": "Bernotiškių koplyčia",
-        "source": "https://lt.wikipedia.org/wiki/Bernoti%C5%A1ki%C5%B3_koply%C4%8Dia",
-        "visited": false
-      },
-      "geometry": {
-        "coordinates": [24.80329626848652, 55.30156825480162],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "chapel",
-        "name": "Čedasų Šv. Apaštalų Petro ir Povilo bažnyčia",
-        "source": "https://lt.wikipedia.org/wiki/%C4%8Cedas%C5%B3_%C5%A1v._apa%C5%A1tal%C5%B3_Petro_ir_Povilo_ba%C5%BEny%C4%8Dia",
-        "visited": false
-      },
-      "geometry": {
-        "coordinates": [25.416481750006852, 56.09980703030186],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "hill",
-        "name": "Kruonio gravitacinė kalva",
-        "source": "https://www.pamatyklietuvoje.lt/lankytinos-vietos/kruonio-gravitacine-kalva/7872",
-        "visited": false
-      },
-      "geometry": {
-        "coordinates": [24.26962889654496, 54.79473647033285],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "locomotive",
-        "name": "Garvežys",
-        "source": "https://www.niekonaujo.lt/20170811/garvezys",
-        "visited": false
-      },
-      "geometry": {
-        "coordinates": [25.287801497398135, 54.67039716481847],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "small_city",
-        "name": "Linksmakalnis",
-        "source": "https://lt.wikipedia.org/wiki/Linksmakalnis",
-        "visited": false
-      },
-      "geometry": {
-        "coordinates": [23.930129498468915, 54.758154266437884],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "fort",
-        "name": "Kauno tvirtovės III fortas",
-        "source": "https://lt.wikipedia.org/wiki/III_Kauno_fortas",
-        "visited": false
-      },
-      "geometry": {
-        "coordinates": [23.907350053965246, 54.850609248367704],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "bridge",
-        "name": "Kazbiejų tiltas",
-        "source": "https://lt.wikipedia.org/wiki/Kazbiej%C5%B3_tiltas",
-        "visited": false
-      },
-      "geometry": {
-        "coordinates": [25.134670826237056, 54.614860786060945],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "hill",
-        "name": "Girininkų piliakalnis",
-        "source": "https://lt.wikipedia.org/wiki/Girnik%C5%B3_piliakalnis",
-        "visited": false
-      },
-      "geometry": {
-        "coordinates": [23.03394034978234, 55.86336150179028],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "small_city",
-        "name": "Kurtuvėnai",
-        "source": "https://lt.wikipedia.org/wiki/Kurtuv%C4%97nai",
-        "visited": false
-      },
-      "geometry": {
-        "coordinates": [23.048832625073402, 55.82801331302295],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "small_city",
-        "name": "Naisiai",
-        "source": "https://lt.wikipedia.org/wiki/Naisiai",
-        "visited": false
-      },
-      "geometry": {
-        "coordinates": [23.51042189527874, 56.02180605488914],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "manor",
-        "name": "Arvydų-Bezdonių dvaras",
-        "source": "https://www.checkinlithuania.com/lankytini-objektai/arvydu-bezdoniu-dvaras-lyg-rozinis-leliu-namelis/",
-        "visited": false
-      },
-      "geometry": {
-        "coordinates": [25.51927928469641, 54.79885558345944],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "manor",
-        "name": "Baltosios Vokės dvaras",
-        "source": "https://lt.wikipedia.org/wiki/Baltosios_Vok%C4%97s_dvaras",
-        "visited": false
-      },
-      "geometry": {
-        "coordinates": [25.189808867993207, 54.598374732937145],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "manor",
-        "name": "Glitiškių dvaras",
-        "source": "https://lt.wikipedia.org/wiki/Gliti%C5%A1ki%C5%B3_dvaras",
-        "visited": false
-      },
-      "geometry": {
-        "coordinates": [25.22193712670216, 54.98539784051769],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "manor",
-        "name": "Liubavos dvaras",
-        "source": "https://lt.wikipedia.org/wiki/Liubavo_dvaras",
-        "visited": false
-      },
-      "geometry": {
-        "coordinates": [25.34142256318262, 54.850783228379015],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "manor",
-        "name": "Petešos dvaras",
-        "source": "https://lt.wikipedia.org/wiki/Pete%C5%A1os_dvaras",
-        "visited": false
-      },
-      "geometry": {
-        "coordinates": [25.34780050277729, 54.56579468467777],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "hill",
-        "name": "Maišiagalos piliakalnis",
-        "source": "https://lt.wikipedia.org/wiki/Mai%C5%A1iagalos_piliakalnis",
-        "visited": false
-      },
-      "geometry": {
-        "coordinates": [25.06372586811179, 54.8661976950618],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "manor",
-        "name": "Maišiagalos dvaras",
-        "source": "https://lt.wikipedia.org/wiki/Mai%C5%A1iagalos_dvaras",
-        "visited": false
-      },
-      "geometry": {
-        "coordinates": [25.060402787187627, 54.867407644230155],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "manor",
-        "name": "Burbiškio dvaras",
-        "source": "https://lt.wikipedia.org/wiki/Burbi%C5%A1kio_dvaras_(Radvili%C5%A1kis)",
-        "visited": false
-      },
-      "geometry": {
-        "coordinates": [25.21660317390615, 55.501388625497896],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "hill",
-        "name": "Šeimyniškėlių piliakalnis",
-        "source": "https://lt.wikipedia.org/wiki/%C5%A0eimyni%C5%A1k%C4%97li%C5%B3_piliakalnis",
-        "visited": false
-      },
-      "geometry": {
-        "coordinates": [25.138833184003772, 55.545713880377065],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "museum_openair",
-        "name": "velnio akmuo",
-        "source": "https://lt.wikipedia.org/wiki/velnio_akmuo_(druskininkai)",
-        "visited": false
-      },
-      "geometry": {
-        "coordinates": [23.929026390173846, 53.985278893576435],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "hill",
-        "name": "Kalniškių atodanga",
-        "source": "https://lt.wikipedia.org/wiki/Kalni%C5%A1ki%C5%B3_konglomerat%C5%B3_atodanga",
-        "visited": false
-      },
-      "geometry": {
-        "coordinates": [24.075173637882955, 54.8891560717521],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "hill",
-        "name": "Žaliakalnio funikulierius",
-        "source": "https://visit.kaunas.lt/lt/aplankykite/top/kauno-funikulieriai/",
-        "visited": false
-      },
-      "geometry": {
-        "coordinates": [23.918107019564985, 54.90214685270482],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "hill",
-        "name": "Pyplių piliakalnis",
-        "source": "https://lt.wikipedia.org/wiki/Pypli%C5%B3_piliakalnis",
-        "visited": false
-      },
-      "geometry": {
-        "coordinates": [23.75029965545815, 54.92717038913614],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "hill",
-        "name": "Skališkių ola",
-        "source": "https://lt.wikipedia.org/wiki/Skali%C5%A1ki%C5%B3_ola",
-        "visited": false
-      },
-      "geometry": {
-        "coordinates": [25.57816264998138, 54.87580359741722],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "hill",
-        "name": "Keturnaujienos Dievo Gailestingumo koplyčia",
-        "source": "https://lt.m.wikipedia.org/wiki/Keturnaujienos_Dievo_Gailestingumo_koply%C4%8Dia",
-        "visited": false
-      },
-      "geometry": {
-        "coordinates": [22.910248779363997, 54.85027103285],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "castle",
-        "name": "Raudonės pilis",
-        "source": "https://lt.wikipedia.org/wiki/Raudon%C4%97s_pilis",
-        "visited": false
-      },
-      "geometry": {
-        "coordinates": [23.130846768417, 55.09726573714386],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "manor",
-        "name": "Veliuonos dvaras",
-        "source": "https://lt.wikipedia.org/wiki/Veliuonos_dvaras",
-        "visited": false
-      },
-      "geometry": {
-        "coordinates": [23.278724094138994, 55.0804863037026],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "manor",
-        "name": "Belvederio dvaras",
-        "source": "https://lt.wikipedia.org/wiki/Belvederio_dvaras",
-        "visited": false
-      },
-      "geometry": {
-        "coordinates": [23.390585799019817, 55.079756026706775],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "castle",
-        "name": "Belvederio dvaras",
-        "source": "https://lt.wikipedia.org/wiki/Panemun%C4%97s_pilis",
-        "visited": false
-      },
-      "geometry": {
-        "coordinates": [22.986299715093338, 55.09950471793297],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "hill",
-        "name": "Menčių klinčių karjeras",
-        "source": "https://www.pamatyklietuvoje.lt/details/menciu-klinciu-karjeras/4628",
-        "visited": false
-      },
-      "geometry": {
-        "coordinates": [22.92212560569368, 56.27478752411932],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "hill",
-        "name": "Ukmergės piliakalnis",
-        "source": "https://www.pamatyklietuvoje.lt/lankytinos-vietos/ukmerges-piliakalnis/3024",
-        "visited": false
-      },
-      "geometry": {
-        "coordinates": [24.76913481937575, 55.25007236496057],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "manor",
-        "name": "Vaitkuškio dvaras",
-        "source": "https://lt.wikipedia.org/wiki/Vaitku%C5%A1kio_dvaras",
-        "visited": false
-      },
-      "geometry": {
-        "coordinates": [24.798988004386757, 55.20908859276133],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "castle",
-        "name": "Siesikų dvaras - pilis",
-        "source": "https://www.pamatyklietuvoje.lt/lankytinos-vietos/siesiku-dvaras-pilis/2017",
-        "visited": false
-      },
-      "geometry": {
-        "coordinates": [24.513616901520493, 55.28601128004152],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "church",
-        "name": "Vilniaus šv. Onos bažnyčia",
-        "source": "https://lt.wikipedia.org/wiki/Vilniaus_%C5%A1v._Onos_ba%C5%BEny%C4%8Dia",
-        "visited": false
-      },
-      "geometry": {
-        "coordinates": [25.29316886990216, 54.683076711963025],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "manor",
-        "name": "Trakų Vokės dvaras",
-        "source": "https://lt.wikipedia.org/wiki/Trak%C5%B3_Vok%C4%97s_dvaras",
-        "visited": false
-      },
-      "geometry": {
-        "coordinates": [25.108759943958262, 54.63065232648225],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "manor",
-        "name": "Taujėnų dvaras",
-        "source": "https://www.pamatyklietuvoje.lt/lankytinos-vietos/taujenu-dvaras/7332",
-        "visited": false
-      },
-      "geometry": {
-        "coordinates": [24.761552224718343, 55.396386848254394],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "bridge",
-        "name": "Jonavos geležinkelio tiltas",
-        "source": "https://lt.wikipedia.org/wiki/Jonavos_gele%C5%BEinkelio_tiltas",
-        "visited": false
-      },
-      "geometry": {
-        "coordinates": [24.295774864603004, 55.07492981405008],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "small_city",
-        "name": "Linkuva",
-        "source": "https://lt.wikipedia.org/wiki/Linkuva",
-        "visited": false
-      },
-      "geometry": {
-        "coordinates": [23.9724315100934, 56.08553408591598],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "small_city",
-        "name": "Žeimelis",
-        "source": "https://lt.wikipedia.org/wiki/%C5%BDeimelis",
-        "visited": false
-      },
-      "geometry": {
-        "coordinates": [23.99789699814674, 56.27230080044793],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "small_city",
-        "name": "Akmenė",
-        "source": "https://lt.wikipedia.org/wiki/Akmen%C4%97",
-        "visited": false
-      },
-      "geometry": {
-        "coordinates": [22.747935031601003, 56.24586505432984],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "small_city",
-        "name": "Šiaulėnai",
-        "source": "https://lt.wikipedia.org/wiki/%C5%A0iaul%C4%97nai",
-        "visited": false
-      },
-      "geometry": {
-        "coordinates": [23.401092011854416, 55.677421112361856],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "small_city",
-        "name": "Kirdeikiai",
-        "source": "https://lt.wikipedia.org/wiki/Kirdeikiai",
-        "visited": false
-      },
-      "geometry": {
-        "coordinates": [25.941496031873697, 55.37700628408402],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "windmill",
-        "name": "Pumpėnų vėjo malūnas",
-        "source": "https://lt.wikipedia.org/wiki/Pump%C4%97n%C5%B3_v%C4%97jo_mal%C5%ABnas",
-        "visited": false
-      },
-      "geometry": {
-        "coordinates": [24.337506145453432, 55.934674742686184],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "small_city",
-        "name": "Duokiškis",
-        "source": "https://lt.wikipedia.org/wiki/Duoki%C5%A1kis",
-        "visited": false
-      },
-      "geometry": {
-        "coordinates": [25.524013480802807, 55.74326111832795],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "stream",
-        "name": "Ariogalos šaltinėlis",
-        "source": "https://www.pamatyklietuvoje.lt/details/marijos-asaru-sventas-saltinis/1354",
-        "visited": false
-      },
-      "geometry": {
-        "coordinates": [23.443968195342762, 55.280508706408256],
-        "type": "Point"
-      }
-    },
-     {
-      "type": "Feature",
-      "properties": {
-        "type": "statue",
-        "name": "Perkūno žirgai",
-        "source": "https://lt.wikipedia.org/wiki/%C5%BDemai%C4%8Di%C5%B3_plentas",
-        "visited": false
-      },
-      "geometry": {
-        "coordinates": [23.893940517773046, 54.92232041433385],
-        "type": "Point"
-      }
-    },
-     {
-      "type": "Feature",
-      "properties": {
-        "type": "small_city",
-        "name": "Tverai",
-        "source": "https://lt.wikipedia.org/wiki/Tverai",
-        "visited": false
-      },
-      "geometry": {
-        "coordinates": [22.148567463099482, 55.732961329479366],
-        "type": "Point"
-      }
-    },
-     {
-      "type": "Feature",
-      "properties": {
-        "type": "small_city",
-        "name": "Kleboniškiai",
-        "source": "https://lt.wikipedia.org/wiki/Kleboni%C5%A1kiai",
-        "description": "Senas gatvinis kaimas. Turi muziejų",
-        "visited": false
-      },
-      "geometry": {
-        "coordinates": [23.855872469737335, 55.769904735019196],
-        "type": "Point"
-      }
-    },
-     {
-      "type": "Feature",
-      "properties": {
-        "type": "church",
-        "name": "Semeliškių šv. Nikolajaus Stebukladario cerkvė",
-        "visited": false
-      },
-      "geometry": {
-        "coordinates": [24.657635213874045, 54.667098686766906],
-        "type": "Point"
-      }
-    },
-     {
-      "type": "Feature",
-      "properties": {
-        "type": "church",
-        "name": "Gegužinės Viešpaties Apreiškimo Švč. Mergelei Marijai bažnyčia",
-        "source": "https://lt.wikipedia.org/wiki/Gegu%C5%BEin%C4%97s_Vie%C5%A1paties_Aprei%C5%A1kimo_%C5%A0v%C4%8D._Mergelei_Marijai_ba%C5%BEny%C4%8Dia",
-        "visited": false
-      },
-      "geometry": {
-        "coordinates": [24.501313859151907, 55.009574971402486],
-        "type": "Point"
-      }
-    },
-     {
-      "type": "Feature",
-      "properties": {
-        "type": "manor",
-        "name": "Belvederio dvaras",
-        "source": "https://lt.wikipedia.org/wiki/Belvederio_dvaras",
-        "visited": false
-      },
-      "geometry": {
-        "coordinates": [23.38981831704652, 55.08081049907409],
-        "type": "Point"
-      }
-    },
-     {
-      "type": "Feature",
-      "properties": {
-        "type": "manor",
-        "name": "Burbiškių dvaras (Raseiniai)",
-        "source": "https://lt.wikipedia.org/wiki/Burbi%C5%A1ki%C5%B3_dvaras_(Raseiniai)",
-        "visited": false
-      },
-      "geometry": {
-        "coordinates": [23.345165428657907, 55.363547578660445],
-        "type": "Point"
-      }
-    },
-     {
-      "type": "Feature",
-      "properties": {
-        "type": "chapel",
-        "name": "Laumių šv. vyskupo Stanislovo koplyčia",
-        "source": "https://lt.wikipedia.org/wiki/Laumi%C5%B3_%C5%A1v._vyskupo_Stanislovo_koply%C4%8Dia",
-        "visited": false
-      },
-      "geometry": {
-        "coordinates": [21.856946560518622, 56.18371461386093],
-        "type": "Point"
-      }
-    },
-     {
-      "type": "Feature",
-      "properties": {
-        "type": "bridge",
-        "name": "Moterties upelio tunelis",
-        "source": "https://www.alytusinfo.lt/lankytinos-vietos/moterties-upelio-pralaida/",
-        "visited": false
-      },
-      "geometry": {
-        "coordinates": [24.100954683047718, 54.38895421399235],
-        "type": "Point"
-      }
-    },
-     {
-      "type": "Feature",
-      "properties": {
-        "type": "school",
-        "name": "Vilniaus kultūros, pramogų ir sporto rūmai",
-        "source": "https://www.openhousevilnius.lt/programa/vilniaus-kulturos-pramogu-ir-sporto-rumai/",
-        "visited": true
-      },
-      "geometry": {
-        "coordinates": [25.30107912897438, 54.69690165379464],
-        "type": "Point"
-      }
-    },
-     {
-      "type": "Feature",
-      "properties": {
-        "type": "memorial",
-        "name": "Tuskulėnų rimties parko koplyčia – kolumbariumas",
-        "source": "https://www.openhousevilnius.lt/programa/tuskulenu-rimties-parko-koplycia-kolumbariumas/",
-        "visited": true
-      },
-      "geometry": {
-        "coordinates": [25.302987371737657, 54.69808360986306],
-        "type": "Point"
-      }
-    },
-     {
-      "type": "Feature",
-      "properties": {
-        "type": "manor",
-        "name": "Vileišių rūmai",
-        "source": "https://www.openhousevilnius.lt/programa/lietuviu-literaturos-ir-tautosakos-institutas-vileisiu-rumai/",
-        "visited": true
-      },
-      "geometry": {
-        "coordinates": [25.30538001841012, 54.69513974489993],
-        "type": "Point"
-      }
-    },
-     {
-      "type": "Feature",
-      "properties": {
-        "type": "school",
-        "name": "Internamas – Nacionalinės M. K. Čiurlionio menų mokyklos bendrabutis",
-        "source": "https://www.openhousevilnius.lt/programa/internamas-nacionalines-m-k-ciurlionio-menu-mokyklos-bendrabutis/",
-        "visited": true
-      },
-      "geometry": {
-        "coordinates": [25.30185570709162, 54.691885766367136],
-        "type": "Point"
-      }
-    }
-  ]
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "small_city",
+                "name": "Didžiasalis",
+                "source": "https://lt.wikipedia.org/wiki/Did%C5%BEiasalis",
+                "visited": false,
+                "description": "Small city near border with many abandoned apartment buildings"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.673989295959473,
+                    55.320159451512446
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "small_city",
+                "name": "Zervynos",
+                "source": "https://www.pamatyklietuvoje.lt/lankytinos-vietos/zervynos/64",
+                "visited": false,
+                "description": "Gatvinis kaimas"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.497762918472286,
+                    54.11038946893376
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "small_city",
+                "name": "Grabijolai",
+                "source": "https://www.pamatyklietuvoje.lt/lankytinos-vietos/grabijolai/1205",
+                "visited": true,
+                "description": "Gatvinis kaimas"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.869130849838257,
+                    54.84075190221089
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "small_city",
+                "name": " Dieveniškės ",
+                "source": "https://www.pamatyklietuvoje.lt/lankytinos-vietos/dieveniskes/10075",
+                "visited": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.624955892562866,
+                    54.19479049198504
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "chapel",
+                "name": "Didžiokų koplyčia",
+                "source": "https://www.pamatyklietuvoje.lt/lankytinos-vietos/didzioku-koplycia-mauzoliejus/11180",
+                "visited": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.354964733123776,
+                    55.12185195298074
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "cemetery",
+                "name": "Bernardinų kapinės",
+                "description": "Pavasarį žydi mėlinos gėlės. ~Balandžio mėnesį",
+                "visited": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.306218266487118,
+                    54.68080026781061
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "manor",
+                "name": " Markučių dvaras",
+                "visited": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.32650113105774,
+                    54.673700687216936
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "small_city",
+                "name": " Visaginas",
+                "visited": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.42939329147339,
+                    55.601396210046
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "church",
+                "name": " Salako akmeninė bažnyčia",
+                "description": "Akmeninė bažnyčia",
+                "visited": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.139537692070007,
+                    55.5839905799112
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "watermill",
+                "name": " Marimonto vandens malūno liekanos",
+                "source": "https://www.pamatyklietuvoje.lt/lankytinos-vietos/marimonto-vandens-maluno-liekanos/567",
+                "visited": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.8985036611557,
+                    55.8220166711279
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "tree",
+                "name": " Grybiškių ąžuolas",
+                "source": "https://www.pamatyklietuvoje.lt/lankytinos-vietos/grybiskiu-azuolas/353",
+                "visited": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.640142560005188,
+                    54.248380750267216
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "small_city",
+                "name": "Atlanta",
+                "source": "https://lt.wikipedia.org/wiki/Did%C5%BEiasalis",
+                "visited": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.293059349060055,
+                    55.35098791027422
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "tree",
+                "name": "Stelmužės ąžuolas",
+                "source": "https://lt.wikipedia.org/wiki/Stelmu%C5%BE%C4%97s_%C4%85%C5%BEuolas",
+                "visited": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.217327117919922,
+                    55.82989026758491
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "church",
+                "name": " Stelmužės bažnyčia",
+                "source": "https://lt.wikipedia.org/wiki/Stelmu%C5%BE%C4%97s_Vie%C5%A1paties_J%C4%97zaus_Kry%C5%BEiaus_ba%C5%BEny%C4%8Dia",
+                "visited": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.21734857559204,
+                    55.8294383246811
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "market",
+                "name": " Bagažinių turgus",
+                "visited": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.99578750133514,
+                    54.91377705477667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "small_city",
+                "name": " Plokščiai",
+                "visited": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.17338466644287,
+                    55.082408319857734
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "memorial",
+                "name": " Ablingos lurdas",
+                "source": "https://www.xxiamzius.lt/archyvas/priedai/uzlaisve/20070615/2-1.html",
+                "visited": true,
+                "visitDate": "2024-05-06"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.696174144744873,
+                    55.73141763959268
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "memorial",
+                "name": " Ablingos memorialas",
+                "source": "https://lt.wikipedia.org/wiki/Ablinga",
+                "visited": true,
+                "visitDate": "2024-05-06"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.687237024307247,
+                    55.7422176637792
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "memorial",
+                "name": " Šiaulių geležinkelio muziejus",
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    23.300198974724452,
+                    55.926645270530344
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "church",
+                "name": " Dubingiai church",
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    25.45220755671889,
+                    55.05719828334054
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "memorial",
+                "name": " Romas Kalanta",
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    23.885558874489448,
+                    54.90856887786347
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "church",
+                "name": " Papilės Šv. Juozapo bažnyčia",
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    22.78837400136112,
+                    56.152086259652975
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "chapel",
+                "name": "Antanavo šešiakampė koplyčia",
+                "source": "https://www.pamatyklietuvoje.lt/details/antanavo-koplycia/10202",
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    23.30801862391243,
+                    54.70116053317162
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "chapel",
+                "name": "Uoginių Šv.Marijos Magdalietės koplyčia",
+                "source": "https://lt.wikipedia.org/wiki/Uogini%C5%B3_koply%C4%8Dia",
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    24.769099581444408,
+                    55.88600998990205
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "chapel",
+                "name": "Poklevskių-Kozelų koplyčia",
+                "source": "https://www.niekonaujo.lt/20201109/antakalnio-koplytele",
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    24.827574294126805,
+                    55.236709554218464
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "manor",
+                "name": "Atlantos dvaras",
+                "source": "https://lt.wikipedia.org/wiki/Alantos_dvaras",
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    25.324949114929098,
+                    55.34616918763669
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "manor",
+                "name": "Libertavos dvaro sodyba",
+                "source": "https://www.niekonaujo.lt/20190110/libertavos-dvaro-sodyba",
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    25.15400346949488,
+                    55.35390168299165
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "manor",
+                "name": "Libertavos dvaro sodyba",
+                "source": "https://www.niekonaujo.lt/20190110/libertavos-dvaro-sodyba",
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    24.707135200859653,
+                    55.18635150692086
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "market",
+                "name": "Kalvarijų turgus",
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    25.28447091511447,
+                    54.7002930738615
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "church",
+                "name": " Šilavoto Švč. Jėzaus Širdies bažnyčia",
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    23.761510976852605,
+                    54.667419343465355
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "church",
+                "name": " Šilavoto Švč. Jėzaus Širdies bažnyčia",
+                "source": "http://www.partizanai.org/laisves-kovu-archyvas-24-t-1998-m/3689-1946-metu-kaledos-labunavos-dvaro-bokste",
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    23.88363595144682,
+                    55.17800623004055
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "chapel",
+                "name": "Panaros Dievo Gailestingumo koplyčia",
+                "source": "https://pamatyklietuvoje.lt/details/panaros-dievo-gailestingumo-koplycia/4027",
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    24.106272487503617,
+                    54.11578921831716
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "statue",
+                "name": "Paminklas mokytojui",
+                "source": "https://lt.wikipedia.org/wiki/%C5%BDi%C5%ABronys",
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    23.806031031528192,
+                    54.47960494990133
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "bunker",
+                "name": "Cold war bunker",
+                "source": "https://coldwarbunker.lt/",
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    25.26340449149106,
+                    54.668272079660994
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "track",
+                "name": "Auto Moto Parkas",
+                "source": "https://www.automotoparkas.lt/paslaugu-kainorastis",
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    24.442787855057134,
+                    54.44603530353828
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "track",
+                "name": "Winter drift track Rokiškis",
+                "source": "https://www.facebook.com/profile.php?id=100074390713529",
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    25.74720630398747,
+                    55.94507886279189
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "track",
+                "name": "Varėnos Autosporto Klubas",
+                "source": "https://lt-lt.facebook.com/varenosask",
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    24.67478,
+                    54.17493
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "manor",
+                "name": " Pajiešmeniai manor",
+                "source": "https://www.15min.lt/pasaulis-kiseneje/naujiena/per-lietuva/pajiesmeniai-kaimas-sugebejes-issaugoti-tai-ka-daugelis-jau-seniai-pradangino-642-1743934",
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    24.496203683909386,
+                    56.10646697087179
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "school",
+                "name": "Kurnėnų mokyklos statinių kompleksas",
+                "source": "https://www.manokrastas.lt/kurnenu-mokyklos-statiniu-kompleksas",
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    23.89803284457406,
+                    54.39432416577898
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "bunker",
+                "name": "Soviet Bunker",
+                "source": "http://sovietbunker.com/",
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    25.535526693851182,
+                    54.830975502075205
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "church",
+                "name": "Leliūnų Šv. Juozapo bažnyčia",
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    25.395168788219053,
+                    55.47348153285887
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "memorial",
+                "name": "Partizano Sergijaus Staniškio - žūties vieta",
+                "visited": false,
+                "source": "https://lt.wikipedia.org/wiki/Sergijus_Stani%C5%A1kis"
+            },
+            "geometry": {
+                "coordinates": [
+                    23.947458814921177,
+                    54.593199083513014
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "manor",
+                "name": "Kaucidės dvaro rūmai",
+                "visited": false,
+                "source": "https://www.niekonaujo.lt/20220224/kaucmindes-rumai"
+            },
+            "geometry": {
+                "coordinates": [
+                    24.130669217889807,
+                    56.39199857914121
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "library",
+                "name": "Kretingos rajono savivaldybės viešoji biblioteka",
+                "visited": false,
+                "source": "https://www.kretvb.lt"
+            },
+            "geometry": {
+                "coordinates": [
+                    21.24429508170175,
+                    55.890635621039735
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "manor",
+                "name": "Tytuvėnų dvaras",
+                "visited": false,
+                "source": "https://lt.wikipedia.org/wiki/Tytuv%C4%97n%C4%97li%C5%B3_dvaras"
+            },
+            "geometry": {
+                "coordinates": [
+                    23.180940112573836,
+                    55.62073925201335
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "windmill",
+                "name": "Lazdininkų vėjo malūnas",
+                "visited": false,
+                "source": "https://pamatyklietuvoje.lt/lankytinos-vietos/lazdininku-vejo-malunas/3198"
+            },
+            "geometry": {
+                "coordinates": [
+                    21.21663509646163,
+                    56.00650489482388
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "memorial",
+                "name": "Panerių memorialas",
+                "visited": true,
+                "source": "https://www.pamatyklietuvoje.lt/lankytinos-vietos/paneriu-memorialas/9277"
+            },
+            "geometry": {
+                "coordinates": [
+                    25.162135642866275,
+                    54.62747264211944
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "manor",
+                "name": "Kraštų dvaras",
+                "visited": false,
+                "source": "https://www.niekonaujo.lt/20220911/krastu-dvaras"
+            },
+            "geometry": {
+                "coordinates": [
+                    25.905144921736166,
+                    55.913838789832596
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "small_city",
+                "name": "Kačerginė",
+                "visited": false,
+                "source": "https://lt.wikipedia.org/wiki/Ka%C4%8Dergin%C4%97"
+            },
+            "geometry": {
+                "coordinates": [
+                    23.72084530950079,
+                    54.933857243214675
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "small_city",
+                "name": "Kudirkos Naumiestis",
+                "visited": false,
+                "source": "https://lt.wikipedia.org/wiki/Kudirkos_Naumiestis"
+            },
+            "geometry": {
+                "coordinates": [
+                    22.863567711036836,
+                    54.77400899124456
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "manor",
+                "name": "Užvenčio dvaro sodyba",
+                "visited": false,
+                "source": "https://pamatyklietuvoje.lt/details/uzvencio-dvaro-sodyba/1815"
+            },
+            "geometry": {
+                "coordinates": [
+                    22.657046685861474,
+                    55.78754625412353
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "hill",
+                "name": "Šatrijos piliakalnis",
+                "visited": false,
+                "source": "https://www.pamatyklietuvoje.lt/lankytinos-vietos/satrijos-piliakalnis/344"
+            },
+            "geometry": {
+                "coordinates": [
+                    22.56106859220992,
+                    55.870479778053124
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "prison",
+                "name": "Lukiškių kalėjimas",
+                "visited": false,
+                "sources": "https://www.niekonaujo.lt/20191211/lukiskiu-kalejimas"
+            },
+            "geometry": {
+                "coordinates": [
+                    25.26623716126639,
+                    54.69153520131212
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "market",
+                "name": "Ričardo antikvariatas",
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    24.84333340483738,
+                    54.94801339138573
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "small_city",
+                "name": "Vilkija",
+                "source": "https://lt.wikipedia.org/wiki/Vilkija",
+                "visited": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.58330778580435,
+                    55.04062237711415
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "market",
+                "name": "Halės turgus",
+                "source": "http://www.halesturgaviete.lt",
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    25.286343693106573,
+                    54.67375038320537
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "market",
+                "name": "Tymo turgus",
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    25.294833749332412,
+                    54.678893235449266
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "hill",
+                "name": "Šiurpilio piliakalnis",
+                "source": "https://lt.wikipedia.org/wiki/%C5%A0iurpilio_piliakalnis",
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    22.88429127376878,
+                    54.23381075910203
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "church",
+                "name": "Tytuvėnų bažnyčios ir vienuolyno ansamblis",
+                "source": "https://www.pamatyklietuvoje.lt/lankytinos-vietos/tytuvenu-baznycios-ir-vienuolyno-ansamblis/1117",
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    23.201297253601524,
+                    55.59683420546702
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "manor",
+                "name": "Kelmės dvaras/muziejus",
+                "source": "https://www.pamatyklietuvoje.lt/lankytinos-vietos/kelmes-krasto-muziejus/9344",
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    22.938321396683335,
+                    55.63823941465901
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "manor",
+                "name": "Pakėvio dvaras",
+                "source": "https://www.pamatyklietuvoje.lt/lankytinos-vietos/pakevio-dvaras/1787",
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    22.823575703020225,
+                    55.682019519532645
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "manor",
+                "name": "Beržėnų dvaras",
+                "source": "https://www.pamatyklietuvoje.lt/lankytinos-vietos/berzenu-dvaras/1748",
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    22.81369736099657,
+                    55.82637315305834
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "watermill",
+                "name": "Užvenčio dvaro vandens malūnas",
+                "source": "https://www.pamatyklietuvoje.lt/lankytinos-vietos/uzvencio-dvaro-vandens-malunas/9353",
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    22.658518660595945,
+                    55.78621452322673
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "hill",
+                "name": "Burbaičių piliakalnis",
+                "source": "https://www.pamatyklietuvoje.lt/lankytinos-vietos/burbaiciu-piliakalnis/2643",
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    23.03762579491388,
+                    55.66423250021103
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "church",
+                "name": "Verpenos Šv. Onos bažnyčia",
+                "source": "https://www.pamatyklietuvoje.lt/lankytinos-vietos/verpenos-sv-onos-baznycia/7937",
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    22.91882399257986,
+                    55.65287405040348
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "small_city",
+                "name": "Kražiai",
+                "source": "https://www.pamatyklietuvoje.lt/lankytinos-vietos/kraziai/6895",
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    22.689655615456843,
+                    55.60464626659231
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "church",
+                "name": "Senoji Zapyškio Šv. Jono Krikštytojo bažnyčia",
+                "source": "https://www.pamatyklietuvoje.lt/lankytinos-vietos/senoji-zapyskio-sv-jono-krikstytojo-baznycia/3543",
+                "visited": false,
+                "notes": "Toliau esančiose kapinėse palaidotas Stanislovas Žemaitis. Susideginęs 1990 Maskvoje, protestuodamas prieš Rusijos ekonominę blokadą."
+            },
+            "geometry": {
+                "coordinates": [
+                    23.65404954519522,
+                    54.92880132210155
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "church",
+                "name": "Lentvario Viešpaties apreiškimo Švč. Mergelei Marijai bažnyčia",
+                "source": "https://www.pamatyklietuvoje.lt/details/lentvario-viespaties-apreiskimo-svc-mergelei-marijai-baznycia/11531",
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    25.048269981890428,
+                    54.64162479904732
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "aircraft",
+                "name": "Old plane near Barbeles primary school",
+                "source": "https://www.redzet.eu/en/photo/aircraft-near-barbele-boys-school-roots-and-wings-V-224-19-AM",
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    24.618765453949123,
+                    56.46315475350937
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "aircraft",
+                "name": "Įstra aviacijos muziejus",
+                "source": "https://www.aviapark.lt/",
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    24.359829,
+                    55.827269
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "chapel",
+                "name": "Parausių koplyčia",
+                "source": "https://lt.m.wikipedia.org/wiki/Parausi%C5%B3_koply%C4%8Dia",
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    23.249155988600677,
+                    54.687520476020495
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "hardware_store",
+                "name": "Depo",
+                "source": "https://depo-diy.lt/",
+                "visited": true
+            },
+            "geometry": {
+                "coordinates": [
+                    25.225163877046924,
+                    54.741889659788484
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "shop",
+                "name": "Promo Cash&Carry",
+                "source": "https://epromo.lt",
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    25.24146941214022,
+                    54.72505626442617
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "small_city",
+                "name": "Liškiava",
+                "source": "https://www.pamatyklietuvoje.lt/lankytinos-vietos/liskiava/2460",
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    24.0539413621116,
+                    54.081184784360204
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "church",
+                "name": "Akmenio kaimo Nukryžiuotojo Jėzaus bažnyčia",
+                "source": "https://www.pamatyklietuvoje.lt/lankytinos-vietos/akmenio-kaimo-nukryziuotojo-jezaus-baznycia/2343",
+                "visited": true
+            },
+            "geometry": {
+                "coordinates": [
+                    24.623193595449152,
+                    54.30217805214377
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "hill",
+                "name": "Velnio duobė",
+                "source": "https://lt.wikipedia.org/wiki/Velnio_duob%C4%97",
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    24.51435291841483,
+                    54.611807937575975
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "watermill",
+                "name": "Siesarties vandens malūnas",
+                "source": "https://lt.wikipedia.org/wiki/Siesarties_vandens_mal%C5%ABnas",
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    25.19199734774918,
+                    55.22682897481707
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "small_city",
+                "name": "Troškūnai",
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    24.869300331884062,
+                    55.58675494086475
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "manor",
+                "name": "Vašuokėnų dvaras",
+                "source": "https://pamirsta.lt/vasuokenu-dvaro-griuvesiai/",
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    24.882420683261813,
+                    55.63695970540971
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "small_city",
+                "name": "Kurtuvėnai",
+                "source": "https://www.pamatyklietuvoje.lt/zemelapis?q=Kurtuv%C4%97nai",
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    23.048496505440596,
+                    55.828184277815836
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "chapel",
+                "name": "Bernotiškių koplyčia",
+                "source": "https://lt.wikipedia.org/wiki/Bernoti%C5%A1ki%C5%B3_koply%C4%8Dia",
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    24.80329626848652,
+                    55.30156825480162
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "chapel",
+                "name": "Čedasų Šv. Apaštalų Petro ir Povilo bažnyčia",
+                "source": "https://lt.wikipedia.org/wiki/%C4%8Cedas%C5%B3_%C5%A1v._apa%C5%A1tal%C5%B3_Petro_ir_Povilo_ba%C5%BEny%C4%8Dia",
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    25.416481750006852,
+                    56.09980703030186
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "hill",
+                "name": "Kruonio gravitacinė kalva",
+                "source": "https://www.pamatyklietuvoje.lt/lankytinos-vietos/kruonio-gravitacine-kalva/7872",
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    24.26962889654496,
+                    54.79473647033285
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "locomotive",
+                "name": "Garvežys",
+                "source": "https://www.niekonaujo.lt/20170811/garvezys",
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    25.287801497398135,
+                    54.67039716481847
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "small_city",
+                "name": "Linksmakalnis",
+                "source": "https://lt.wikipedia.org/wiki/Linksmakalnis",
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    23.930129498468915,
+                    54.758154266437884
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "fort",
+                "name": "Kauno tvirtovės III fortas",
+                "source": "https://lt.wikipedia.org/wiki/III_Kauno_fortas",
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    23.907350053965246,
+                    54.850609248367704
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "bridge",
+                "name": "Kazbiejų tiltas",
+                "source": "https://lt.wikipedia.org/wiki/Kazbiej%C5%B3_tiltas",
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    25.134670826237056,
+                    54.614860786060945
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "hill",
+                "name": "Girininkų piliakalnis",
+                "source": "https://lt.wikipedia.org/wiki/Girnik%C5%B3_piliakalnis",
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    23.03394034978234,
+                    55.86336150179028
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "small_city",
+                "name": "Kurtuvėnai",
+                "source": "https://lt.wikipedia.org/wiki/Kurtuv%C4%97nai",
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    23.048832625073402,
+                    55.82801331302295
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "small_city",
+                "name": "Naisiai",
+                "source": "https://lt.wikipedia.org/wiki/Naisiai",
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    23.51042189527874,
+                    56.02180605488914
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "manor",
+                "name": "Arvydų-Bezdonių dvaras",
+                "source": "https://www.checkinlithuania.com/lankytini-objektai/arvydu-bezdoniu-dvaras-lyg-rozinis-leliu-namelis/",
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    25.51927928469641,
+                    54.79885558345944
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "manor",
+                "name": "Baltosios Vokės dvaras",
+                "source": "https://lt.wikipedia.org/wiki/Baltosios_Vok%C4%97s_dvaras",
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    25.189808867993207,
+                    54.598374732937145
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "manor",
+                "name": "Glitiškių dvaras",
+                "source": "https://lt.wikipedia.org/wiki/Gliti%C5%A1ki%C5%B3_dvaras",
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    25.22193712670216,
+                    54.98539784051769
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "manor",
+                "name": "Liubavos dvaras",
+                "source": "https://lt.wikipedia.org/wiki/Liubavo_dvaras",
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    25.34142256318262,
+                    54.850783228379015
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "manor",
+                "name": "Petešos dvaras",
+                "source": "https://lt.wikipedia.org/wiki/Pete%C5%A1os_dvaras",
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    25.34780050277729,
+                    54.56579468467777
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "hill",
+                "name": "Maišiagalos piliakalnis",
+                "source": "https://lt.wikipedia.org/wiki/Mai%C5%A1iagalos_piliakalnis",
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    25.06372586811179,
+                    54.8661976950618
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "manor",
+                "name": "Maišiagalos dvaras",
+                "source": "https://lt.wikipedia.org/wiki/Mai%C5%A1iagalos_dvaras",
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    25.060402787187627,
+                    54.867407644230155
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "manor",
+                "name": "Burbiškio dvaras",
+                "source": "https://lt.wikipedia.org/wiki/Burbi%C5%A1kio_dvaras_(Radvili%C5%A1kis)",
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    25.21660317390615,
+                    55.501388625497896
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "hill",
+                "name": "Šeimyniškėlių piliakalnis",
+                "source": "https://lt.wikipedia.org/wiki/%C5%A0eimyni%C5%A1k%C4%97li%C5%B3_piliakalnis",
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    25.138833184003772,
+                    55.545713880377065
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "museum_openair",
+                "name": "velnio akmuo",
+                "source": "https://lt.wikipedia.org/wiki/velnio_akmuo_(druskininkai)",
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    23.929026390173846,
+                    53.985278893576435
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "hill",
+                "name": "Kalniškių atodanga",
+                "source": "https://lt.wikipedia.org/wiki/Kalni%C5%A1ki%C5%B3_konglomerat%C5%B3_atodanga",
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    24.075173637882955,
+                    54.8891560717521
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "hill",
+                "name": "Žaliakalnio funikulierius",
+                "source": "https://visit.kaunas.lt/lt/aplankykite/top/kauno-funikulieriai/",
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    23.918107019564985,
+                    54.90214685270482
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "hill",
+                "name": "Pyplių piliakalnis",
+                "source": "https://lt.wikipedia.org/wiki/Pypli%C5%B3_piliakalnis",
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    23.75029965545815,
+                    54.92717038913614
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "hill",
+                "name": "Skališkių ola",
+                "source": "https://lt.wikipedia.org/wiki/Skali%C5%A1ki%C5%B3_ola",
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    25.57816264998138,
+                    54.87580359741722
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "hill",
+                "name": "Keturnaujienos Dievo Gailestingumo koplyčia",
+                "source": "https://lt.m.wikipedia.org/wiki/Keturnaujienos_Dievo_Gailestingumo_koply%C4%8Dia",
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    22.910248779363997,
+                    54.85027103285
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "castle",
+                "name": "Raudonės pilis",
+                "source": "https://lt.wikipedia.org/wiki/Raudon%C4%97s_pilis",
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    23.130846768417,
+                    55.09726573714386
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "manor",
+                "name": "Veliuonos dvaras",
+                "source": "https://lt.wikipedia.org/wiki/Veliuonos_dvaras",
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    23.278724094138994,
+                    55.0804863037026
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "manor",
+                "name": "Belvederio dvaras",
+                "source": "https://lt.wikipedia.org/wiki/Belvederio_dvaras",
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    23.390585799019817,
+                    55.079756026706775
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "castle",
+                "name": "Belvederio dvaras",
+                "source": "https://lt.wikipedia.org/wiki/Panemun%C4%97s_pilis",
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    22.986299715093338,
+                    55.09950471793297
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "hill",
+                "name": "Menčių klinčių karjeras",
+                "source": "https://www.pamatyklietuvoje.lt/details/menciu-klinciu-karjeras/4628",
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    22.92212560569368,
+                    56.27478752411932
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "hill",
+                "name": "Ukmergės piliakalnis",
+                "source": "https://www.pamatyklietuvoje.lt/lankytinos-vietos/ukmerges-piliakalnis/3024",
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    24.76913481937575,
+                    55.25007236496057
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "manor",
+                "name": "Vaitkuškio dvaras",
+                "source": "https://lt.wikipedia.org/wiki/Vaitku%C5%A1kio_dvaras",
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    24.798988004386757,
+                    55.20908859276133
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "castle",
+                "name": "Siesikų dvaras - pilis",
+                "source": "https://www.pamatyklietuvoje.lt/lankytinos-vietos/siesiku-dvaras-pilis/2017",
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    24.513616901520493,
+                    55.28601128004152
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "church",
+                "name": "Vilniaus šv. Onos bažnyčia",
+                "source": "https://lt.wikipedia.org/wiki/Vilniaus_%C5%A1v._Onos_ba%C5%BEny%C4%8Dia",
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    25.29316886990216,
+                    54.683076711963025
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "manor",
+                "name": "Trakų Vokės dvaras",
+                "source": "https://lt.wikipedia.org/wiki/Trak%C5%B3_Vok%C4%97s_dvaras",
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    25.108759943958262,
+                    54.63065232648225
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "manor",
+                "name": "Taujėnų dvaras",
+                "source": "https://www.pamatyklietuvoje.lt/lankytinos-vietos/taujenu-dvaras/7332",
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    24.761552224718343,
+                    55.396386848254394
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "bridge",
+                "name": "Jonavos geležinkelio tiltas",
+                "source": "https://lt.wikipedia.org/wiki/Jonavos_gele%C5%BEinkelio_tiltas",
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    24.295774864603004,
+                    55.07492981405008
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "small_city",
+                "name": "Linkuva",
+                "source": "https://lt.wikipedia.org/wiki/Linkuva",
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    23.9724315100934,
+                    56.08553408591598
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "small_city",
+                "name": "Žeimelis",
+                "source": "https://lt.wikipedia.org/wiki/%C5%BDeimelis",
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    23.99789699814674,
+                    56.27230080044793
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "small_city",
+                "name": "Akmenė",
+                "source": "https://lt.wikipedia.org/wiki/Akmen%C4%97",
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    22.747935031601003,
+                    56.24586505432984
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "small_city",
+                "name": "Šiaulėnai",
+                "source": "https://lt.wikipedia.org/wiki/%C5%A0iaul%C4%97nai",
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    23.401092011854416,
+                    55.677421112361856
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "small_city",
+                "name": "Kirdeikiai",
+                "source": "https://lt.wikipedia.org/wiki/Kirdeikiai",
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    25.941496031873697,
+                    55.37700628408402
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "windmill",
+                "name": "Pumpėnų vėjo malūnas",
+                "source": "https://lt.wikipedia.org/wiki/Pump%C4%97n%C5%B3_v%C4%97jo_mal%C5%ABnas",
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    24.337506145453432,
+                    55.934674742686184
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "small_city",
+                "name": "Duokiškis",
+                "source": "https://lt.wikipedia.org/wiki/Duoki%C5%A1kis",
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    25.524013480802807,
+                    55.74326111832795
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "stream",
+                "name": "Ariogalos šaltinėlis",
+                "source": "https://www.pamatyklietuvoje.lt/details/marijos-asaru-sventas-saltinis/1354",
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    23.443968195342762,
+                    55.280508706408256
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "statue",
+                "name": "Perkūno žirgai",
+                "source": "https://lt.wikipedia.org/wiki/%C5%BDemai%C4%8Di%C5%B3_plentas",
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    23.893940517773046,
+                    54.92232041433385
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "small_city",
+                "name": "Tverai",
+                "source": "https://lt.wikipedia.org/wiki/Tverai",
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    22.148567463099482,
+                    55.732961329479366
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "small_city",
+                "name": "Kleboniškiai",
+                "source": "https://lt.wikipedia.org/wiki/Kleboni%C5%A1kiai",
+                "description": "Senas gatvinis kaimas. Turi muziejų",
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    23.855872469737335,
+                    55.769904735019196
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "church",
+                "name": "Semeliškių šv. Nikolajaus Stebukladario cerkvė",
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    24.657635213874045,
+                    54.667098686766906
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "church",
+                "name": "Gegužinės Viešpaties Apreiškimo Švč. Mergelei Marijai bažnyčia",
+                "source": "https://lt.wikipedia.org/wiki/Gegu%C5%BEin%C4%97s_Vie%C5%A1paties_Aprei%C5%A1kimo_%C5%A0v%C4%8D._Mergelei_Marijai_ba%C5%BEny%C4%8Dia",
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    24.501313859151907,
+                    55.009574971402486
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "manor",
+                "name": "Belvederio dvaras",
+                "source": "https://lt.wikipedia.org/wiki/Belvederio_dvaras",
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    23.38981831704652,
+                    55.08081049907409
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "manor",
+                "name": "Burbiškių dvaras (Raseiniai)",
+                "source": "https://lt.wikipedia.org/wiki/Burbi%C5%A1ki%C5%B3_dvaras_(Raseiniai)",
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    23.345165428657907,
+                    55.363547578660445
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "chapel",
+                "name": "Laumių šv. vyskupo Stanislovo koplyčia",
+                "source": "https://lt.wikipedia.org/wiki/Laumi%C5%B3_%C5%A1v._vyskupo_Stanislovo_koply%C4%8Dia",
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    21.856946560518622,
+                    56.18371461386093
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "bridge",
+                "name": "Moterties upelio tunelis",
+                "source": "https://www.alytusinfo.lt/lankytinos-vietos/moterties-upelio-pralaida/",
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    24.100954683047718,
+                    54.38895421399235
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "school",
+                "name": "Vilniaus kultūros, pramogų ir sporto rūmai",
+                "source": "https://www.openhousevilnius.lt/programa/vilniaus-kulturos-pramogu-ir-sporto-rumai/",
+                "visited": true
+            },
+            "geometry": {
+                "coordinates": [
+                    25.30107912897438,
+                    54.69690165379464
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "memorial",
+                "name": "Tuskulėnų rimties parko koplyčia – kolumbariumas",
+                "source": "https://www.openhousevilnius.lt/programa/tuskulenu-rimties-parko-koplycia-kolumbariumas/",
+                "visited": true
+            },
+            "geometry": {
+                "coordinates": [
+                    25.302987371737657,
+                    54.69808360986306
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "manor",
+                "name": "Vileišių rūmai",
+                "source": "https://www.openhousevilnius.lt/programa/lietuviu-literaturos-ir-tautosakos-institutas-vileisiu-rumai/",
+                "visited": true
+            },
+            "geometry": {
+                "coordinates": [
+                    25.30538001841012,
+                    54.69513974489993
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "school",
+                "name": "Internamas – Nacionalinės M. K. Čiurlionio menų mokyklos bendrabutis",
+                "source": "https://www.openhousevilnius.lt/programa/internamas-nacionalines-m-k-ciurlionio-menu-mokyklos-bendrabutis/",
+                "visited": true
+            },
+            "geometry": {
+                "coordinates": [
+                    25.30185570709162,
+                    54.691885766367136
+                ],
+                "type": "Point"
+            }
+        }
+    ]
 }

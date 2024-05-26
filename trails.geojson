@@ -1,814 +1,988 @@
 {
-  "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "trail",
-        "name": "Pajautos slėnio takai",
-        "source": "https://www.pamatyklietuvoje.lt/lankytinos-vietos/pajautos-slenio-takai/4407",
-        "distance": 6,
-        "visited": true
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [24.852474331855774, 54.8848687650288]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "trail",
-        "name": "Žaliasis takas",
-        "source": "https://www.pamatyklietuvoje.lt/lankytinos-vietos/zaliasis-takas/4374",
-        "distance": 9,
-        "visited": true
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [24.701723456382748, 54.58815085679128]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "trail",
-        "name": "Kalvarijų Kryžiaus kelias",
-        "distance": 7,
-        "visited": true
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [25.283435583114624, 54.72975633403814]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "cognitive_trail",
-        "name": "Pūčkorių pažintinis takas",
-        "source": "https://www.pamatyklietuvoje.lt/lankytinos-vietos/puckoriu-pazintinis-istorinis-takas/4341",
-        "distance": 4.7,
-        "visited": true
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [25.353843569755554, 54.69273555817407]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "cognitive_trail",
-        "name": "Varnikų pažintinis takas",
-        "source": "https://www.pamatyklietuvoje.lt/lankytinos-vietos/varniku-pazintinis-takas/4399",
-        "distance": 3.5,
-        "visited": true
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [24.962857961654663, 54.647180270861256]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "cognitive_trail",
-        "name": "Grabijolų pažintinis takas",
-        "source": "https://www.pamatyklietuvoje.lt/lankytinos-vietos/grabijolu-pazintinis-takas-laikinai-uzdarytas/7963",
-        "distance": 3.5,
-        "visited": true
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [24.868605136871338, 54.839256747531884]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "cognitive_trail",
-        "name": "Dūkštos pažintinis takas",
-        "source": "https://www.pamatyklietuvoje.lt/lankytinos-vietos/dukstos-pazintinis-takas/4319",
-        "distance": 4.5,
-        "visited": true
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [24.94598150253296, 54.826774369806316]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "cognitive_trail",
-        "name": "Karmazinų pažintinis takas",
-        "source": "https://www.pamatyklietuvoje.lt/lankytinos-vietos/karmazinu-pazintinis-takas/4322",
-        "distance": 7,
-        "visited": true
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [24.9848735332489, 54.805458898155365]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "cognitive_trail",
-        "name": "Šilėnų pažintinis takas",
-        "source": "https://www.pamatyklietuvoje.lt/lankytinos-vietos/silenu-pazintinis-takas/4405",
-        "distance": 6,
-        "visited": true
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [25.044885277748108, 54.73110996074607]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "trail",
-        "name": "Senasis Vilniaus - Kauno traktas",
-        "source": "https://www.pamatyklietuvoje.lt/lankytinos-vietos/senasis-vilniaus-kauno-traktas/4445",
-        "distance": 2.2,
-        "visited": true
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [25.197524428367615, 54.64402658143336]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "trail",
-        "name": "Miško pakraščio takas",
-        "source": "https://www.pamatyklietuvoje.lt/lankytinos-vietos/misko-pakrascio-takas/4395",
-        "distance": 6.6,
-        "visited": false
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [25.233739614486694, 54.70025029226359]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "cognitive_trail",
-        "name": "Rokantiškių piliakalnio pažintinis takas",
-        "source": "https://nesedeknamuose.lt/pazintiniai-takai/rokantiskiu-piliakalnio-pazintinis-takas/",
-        "distance": 1.1,
-        "visited": true
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [25.40488600730896, 54.68719161973532]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "cognitive_trail",
-        "name": "Strielčiukų žygtakis",
-        "source": "https://nesedeknamuose.lt/pazintiniai-takai/strielciuku-zygtakis/",
-        "distance": 3.4,
-        "visited": true
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [25.3954017162323, 54.68997608616814]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "trail",
-        "name": "Verkių trasa",
-        "source": "https://nesedeknamuose.lt/pazintiniai-takai/verkiu-trasa/",
-        "distance": 10,
-        "visited": false
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [25.300827026367188, 54.75183307733285]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "trail",
-        "name": "Ribiškių pažintinis takas",
-        "source": "https://nesedeknamuose.lt/pazintiniai-takai/ribiskiu-takas/",
-        "distance": 6,
-        "visited": true
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [25.315380692481995, 54.651059966464665]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "cognitive_trail",
-        "name": "Saidės pažintinis takas",
-        "source": "https://nesedeknamuose.lt/pazintiniai-takai/saides-pazintinis-takas/",
-        "distance": 1.2,
-        "visited": true
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [25.04309356212616, 54.71990168413046]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "cognitive_trail",
-        "name": "Baltojo kalno takas",
-        "source": "https://www.pamatyklietuvoje.lt/lankytinos-vietos/baltojo-kalno-takas/4406",
-        "distance": 2.9,
-        "visited": true
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [24.829925000667572, 54.88717142337064]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "cognitive_trail",
-        "name": "Dziackagirio gamtinis pažintinis takas",
-        "source": "https://pamatyklietuvoje.lt/details/dziackagirio-gamtinis-pazintinis-takas/4321",
-        "distance": 13.8,
-        "visited": false
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [24.39911663532257, 54.06101411998201]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "cognitive_trail",
-        "name": "Senųjų kaimų pažintinis takas",
-        "source": "https://nesedeknamuose.lt/pazintiniai-takai/senuju-kaimu-pazintinis-takas/",
-        "distance": 10,
-        "visited": false
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [25.319591760635376, 54.750560639190354]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "cognitive_trail",
-        "name": "Salako pažintinis takas",
-        "source": "https://www.pamatyklietuvoje.lt/lankytinos-vietos/salako-pazintinis-takas/4386",
-        "distance": 5.3,
-        "visited": false
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [26.156140565872192, 55.58188634616799]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "cognitive_trail",
-        "name": "Salako pažintinis takas",
-        "source": "https://www.pamatyklietuvoje.lt/lankytinos-vietos/briedziu-takais/4400",
-        "distance": 11.5,
-        "visited": false
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [26.140615940093994, 55.58358126373988]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "cognitive_trail",
-        "name": "Bijotų pažintinis takas",
-        "source": "https://www.pamatyklietuvoje.lt/lankytinos-vietos/pazintinis-takas-bijotu-sirvinto-miskais/4326",
-        "distance": 3.5,
-        "visited": false
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [23.74147117137909, 54.283714044358874]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "cognitive_trail",
-        "name": "Šventos pažintinis mitologinis takas",
-        "source": "https://www.pamatyklietuvoje.lt/lankytinos-vietos/sventos-pazintinis-mitologinis-takas/4387",
-        "distance": 1.3,
-        "visited": false
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [26.205343008041382, 55.19428468126298]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "cognitive_trail",
-        "name": "Kačėniškės piliakalnio pažintinis takas",
-        "source": "https://www.pamatyklietuvoje.lt/lankytinos-vietos/pazintinis-takas-link-kaceniskes-piliakalnio/26482",
-        "distance": 0.8,
-        "visited": false
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [26.259596049785614, 55.22651892973623]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "cognitive_trail",
-        "name": "Daugėliškių miško bunkerio pažintinis takas",
-        "source": "https://pamatyklietuvoje.lt/details/daugeliskiu-misko-bunkerio-pazintinis-takas/6892",
-        "distance": 1.1,
-        "visited": false
-      },
-      "geometry": {
-        "coordinates": [23.697155644636638, 55.17484282498077],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "cognitive_trail",
-        "name": "Jurakalnio geologinis - pažintinis takas",
-        "source": "https://pamatyklietuvoje.lt/details/jurakalnio-geologinis-pazintinis-takas/4655",
-        "distance": 3,
-        "visited": false
-      },
-      "geometry": {
-        "coordinates": [22.78921745040111, 56.15179874528437],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "cognitive_trail",
-        "name": "Žuvinto ežero gamtinis takas",
-        "source": "https://www.pamatyklietuvoje.lt/details/zuvinto-ezero-gamtinis-takas/7272",
-        "distance": 0.5,
-        "visited": false
-      },
-      "geometry": {
-        "coordinates": [23.64004293037752, 54.45701706596955],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "cognitive_trail",
-        "name": "Cedronas",
-        "source": "https://welovelithuania.com/cedrono-aukstupio-krastovaizdzio-draustinyje-naujas-pazintinis-takas/",
-        "distance": 3,
-        "visited": true
-      },
-      "geometry": {
-        "coordinates": [25.267201928054902, 54.72706032109926],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "cognitive_trail",
-        "name": "Gaujos mokomasis takas",
-        "source": "https://www.pamatyklietuvoje.lt/lankytinos-vietos/gaujos-mokomasis-takas/4401",
-        "distance": 1.7,
-        "visited": true
-      },
-      "geometry": {
-        "coordinates": [25.660873445603073, 54.179157294662446],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "cognitive_trail",
-        "name": "Sapieginės pažintinis poilsio takas",
-        "source": "https://www.pamatyklietuvoje.lt/lankytinos-vietos/sapiegines-pazintinis-poilsio-takas/4342",
-        "distance": 5.3,
-        "visited": false
-      },
-      "geometry": {
-        "coordinates": [25.347300051787812, 54.70004439612404],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "cognitive_trail",
-        "name": "Lopaičių pažintinis takas",
-        "source": "https://www.pamatyklietuvoje.lt/details/lopaiciu-pazintinis-takas/7870",
-        "distance": 1,
-        "visited": false
-      },
-      "geometry": {
-        "coordinates": [22.190993845992637, 55.74232830563744],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "trail",
-        "name": "Sveikatos takai",
-        "source": "https://nesedeknamuose.lt/pazintiniai-takai/sveikatos-takai/",
-        "distance": 12,
-        "visited": false
-      },
-      "geometry": {
-        "coordinates": [21.07322633211325, 55.80685342691453],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "trail",
-        "name": "Žvėrinčiaus miško takas",
-        "source": "https://nesedeknamuose.lt/pazintiniai-takai/zverinciaus-misko-takas",
-        "distance": 5.8,
-        "visited": false
-      },
-      "geometry": {
-        "coordinates": [24.016697268701307, 54.612881695371584],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "cognitive_trail",
-        "name": "Žvėrinčiaus miško takas",
-        "source": "https://www.checkinlithuania.com/pesciuju-takai/giliaus-ezero-pazintinis-takas/",
-        "distance": 3.3,
-        "visited": false
-      },
-      "geometry": {
-        "coordinates": [23.190577090505997, 55.60974055199412],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "trail",
-        "name": "Labrytys – Palangos bėgimo takas",
-        "source": "https://nesedeknamuose.lt/pazintiniai-takai/labrytys-palangos-begimo-takas",
-        "distance": 6,
-        "visited": false
-      },
-      "geometry": {
-        "coordinates": [21.05919929434023, 55.922206458651914],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "cognitive_trail",
-        "name": "Puokainių miškas",
-        "source": "https://www.latvia.travel/lt/lankytina-vieta/puokainiu-miskas",
-        "distance": 15,
-        "visited": false
-      },
-      "geometry": {
-        "coordinates": [23.073498687607156, 56.56994084577721],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "cognitive_trail",
-        "name": "Labanoro girios pažintinis takas",
-        "source": "https://nesedeknamuose.lt/pazintiniai-takai/labanoro-girios-pazintinis-takas",
-        "distance": 2.6,
-        "visited": false
-      },
-      "geometry": {
-        "coordinates": [25.822479224637902, 55.26376996849186],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "cognitive_trail",
-        "name": "Paršežerio pėsčiųjų pažintinis takas",
-        "source": "https://pamatyklietuvoje.lt/lankytinos-vietos/parsezerio-pesciuju-pazintinis-takas/4437",
-        "distance": 13.8,
-        "visited": false
-      },
-      "geometry": {
-        "coordinates": [22.291192667485916, 55.63650812735244],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "cognitive_trail",
-        "name": "Lūksto gintarų takas",
-        "source": "https://www.pamatyklietuvoje.lt/details/luksto-gintaru-takas/4370",
-        "distance": 1.1,
-        "visited": false
-      },
-      "geometry": {
-        "coordinates": [22.34134789807007, 55.724602835136494],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "cognitive_trail",
-        "name": "Šventosios aukštupio pažintinė trasa",
-        "source": "https://www.pamatyklietuvoje.lt/lankytinos-vietos/sventosios-aukstupio-pazintine-trasa/26607",
-        "distance": 10.5,
-        "visited": false
-      },
-      "geometry": {
-        "coordinates": [25.977326220509752, 55.62926975719975],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "trail",
-        "name": "Šereiklaukio miško takas",
-        "source": "https://www.pamatyklietuvoje.lt/lankytinos-vietos/sereiklaukio-misko-takas/4394",
-        "distance": 9,
-        "visited": false
-      },
-      "geometry": {
-        "coordinates": [22.109860078264717, 55.05426229876457],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "cognitive_trail",
-        "name": "Mūšos tyrelio pažintinis takas",
-        "source": "https://www.pamatyklietuvoje.lt/lankytinos-vietos/musos-tyrelio-pazintinis-takas/4415",
-        "distance": 8,
-        "visited": false
-      },
-      "geometry": {
-        "coordinates": [23.262696054120426, 56.21976603470043],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "cognitive_trail",
-        "name": "Plokščių pažintinis takas",
-        "source": "https://www.pamatyklietuvoje.lt/lankytinos-vietos/ploksciu-pazintinis-takas/4418",
-        "distance": 7,
-        "visited": false
-      },
-      "geometry": {
-        "coordinates": [23.17773509964968, 55.08266776939405],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "cognitive_trail",
-        "name": "Akmenų rūžos pažintinis takas",
-        "source": "https://www.pamatyklietuvoje.lt/lankytinos-vietos/akmenu-ruzos-pazintinis-takas/4414",
-        "distance": 1.3,
-        "visited": false
-      },
-      "geometry": {
-        "coordinates": [23.197076168305244, 55.60583924580857],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "cognitive_trail",
-        "name": "Šventosios aukštupio pažintinė trasa",
-        "source": "https://nesedeknamuose.lt/pazintiniai-takai/sventosios-aukstupio-pazintine-trasa",
-        "distance": 10.5,
-        "visited": false
-      },
-      "geometry": {
-        "coordinates": [25.977249400881675, 55.629439330909406],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "trail",
-        "name": "Takas aplink 3 ežerus",
-        "distance": 7,
-        "visited": true
-      },
-      "geometry": {
-        "coordinates": [25.447133142802386, 54.771051530473414],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "trail",
-        "name": "Kalnų takai",
-        "source": "https://www.klaipedosrajonas.lt/kalnu-takai/",
-        "distance": 6.8,
-        "visited": false
-      },
-      "geometry": {
-        "coordinates": [21.45896498751239, 55.76754833778517],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "cognitive_trail",
-        "name": "Jiesios pažintinis takas",
-        "source": "https://www.pamatyklietuvoje.lt/details/jiesios-atodanga/3956",
-        "distance": 2.2,
-        "visited": false
-      },
-      "geometry": {
-        "coordinates": [23.93762383564541, 54.84368405241378],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "cognitive_trail",
-        "name": "Juodlės pažintinis takas",
-        "source": "https://nesedeknamuose.lt/pazintiniai-takai/juodles-pazintinis-takas/",
-        "distance": 4.2,
-        "visited": false
-      },
-      "geometry": {
-        "coordinates": [22.920316141503292, 55.81607397603739],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "cognitive_trail",
-        "name": "Dubravos rezervatinės apyrubės pažintinis takas",
-        "source": "https://www.pamatyklietuvoje.lt/lankytinos-vietos/dubravos-rezervatines-apyrubes-pazintinis-takas/4431",
-        "distance": 3.8,
-        "visited": false
-      },
-      "geometry": {
-        "coordinates": [24.07879980590033, 54.85626309885248],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "cognitive_trail",
-        "name": "Ąžuolyno gamtos pažinimo takas",
-        "source": "https://nesedeknamuose.lt/pazintiniai-takai/azuolyno-gamtos-pazinimo-takas/",
-        "distance": 2,
-        "visited": false
-      },
-      "geometry": {
-        "coordinates": [23.94922482410732, 54.90313141740046],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "trail",
-        "name": "Bebrų takas",
-        "source": "https://nesedeknamuose.lt/pazintiniai-takai/azuolyno-gamtos-pazinimo-takas/",
-        "distance": 2,
-        "visited": false
-      },
-      "geometry": {
-        "coordinates": [25.232461133444133,54.67430960967903],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "cognitive_trail",
-        "name": "Girelės pažintinis takas",
-        "source": "https://nesedeknamuose.lt/gireles-pazintinis-takas-kur-laisvalaiki-leidzia-kaisiadoriskiaihttps://nesedeknamuose.lt/pazintiniai-takai/azuolyno-gamtos-pazinimo-takas/",
-        "distance": 1.5,
-        "visited": false
-      },
-      "geometry": {
-        "coordinates": [24.435805813606407, 54.85864803222648],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "cognitive_trail",
-        "name": "Punios šilo pažintinis takas",
-        "distance": 8,
-        "visited": false
-      },
-      "geometry": {
-        "coordinates": [24.038774611327398, 54.50740729939048],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "trail",
-        "name": "Trijų bunkerių maršrutas Dzūkijoje",
-        "source": "https://nesedeknamuose.lt/triju-bunkeriu-marsrutas-dzukijoje",
-        "distance": 27,
-        "visited": false
-      },
-      "geometry": {
-        "coordinates": [24.494930637121826, 54.15936994352123],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "trail",
-        "name": "Panerių pažintinis takas",
-        "source": "https://nesedeknamuose.lt/pazintiniai-takai/paneriu-pazintinis-takas/",
-        "distance": 5,
-        "visited": false
-      },
-      "geometry": {
-        "coordinates": [25.19750857080311, 54.64400960004008],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "trail",
-        "name": "Sakalinės girininkijos pėsčiųjų takas",
-        "source": "https://nesedeknamuose.lt/ilgas-ir-apsemtas-trumpas-ir-vaizdingas",
-        "distance": 11.6, 
-        "visited": false
-      },
-      "geometry": {
-        "coordinates": [22.28935173597813, 55.19610494302714],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "trail",
-        "name": "Algimanto apygardos partizanų kovų takais pažintinis maršrutas",
-        "source": "https://nesedeknamuose.lt/nuo-slaptavietes-iki-slaptavietes-algimanto-apygardos-partizanu-kovu-takais/",
-        "distance": 13.7, 
-        "visited": false
-      },
-      "geometry": {
-        "coordinates": [25.303083313090212, 55.698970173938875],
-        "type": "Point"
-      }
-    }
-  ]
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "trail",
+                "name": "Pajautos slėnio takai",
+                "source": "https://www.pamatyklietuvoje.lt/lankytinos-vietos/pajautos-slenio-takai/4407",
+                "distance": 6,
+                "visited": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.852474331855774,
+                    54.8848687650288
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "trail",
+                "name": "Žaliasis takas",
+                "source": "https://www.pamatyklietuvoje.lt/lankytinos-vietos/zaliasis-takas/4374",
+                "distance": 9,
+                "visited": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.701723456382748,
+                    54.58815085679128
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "trail",
+                "name": "Kalvarijų Kryžiaus kelias",
+                "distance": 7,
+                "visited": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.283435583114624,
+                    54.72975633403814
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "cognitive_trail",
+                "name": "Pūčkorių pažintinis takas",
+                "source": "https://www.pamatyklietuvoje.lt/lankytinos-vietos/puckoriu-pazintinis-istorinis-takas/4341",
+                "distance": 4.7,
+                "visited": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.353843569755554,
+                    54.69273555817407
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "cognitive_trail",
+                "name": "Varnikų pažintinis takas",
+                "source": "https://www.pamatyklietuvoje.lt/lankytinos-vietos/varniku-pazintinis-takas/4399",
+                "distance": 3.5,
+                "visited": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.962857961654663,
+                    54.647180270861256
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "cognitive_trail",
+                "name": "Grabijolų pažintinis takas",
+                "source": "https://www.pamatyklietuvoje.lt/lankytinos-vietos/grabijolu-pazintinis-takas-laikinai-uzdarytas/7963",
+                "distance": 3.5,
+                "visited": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.868605136871338,
+                    54.839256747531884
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "cognitive_trail",
+                "name": "Dūkštos pažintinis takas",
+                "source": "https://www.pamatyklietuvoje.lt/lankytinos-vietos/dukstos-pazintinis-takas/4319",
+                "distance": 4.5,
+                "visited": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.94598150253296,
+                    54.826774369806316
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "cognitive_trail",
+                "name": "Karmazinų pažintinis takas",
+                "source": "https://www.pamatyklietuvoje.lt/lankytinos-vietos/karmazinu-pazintinis-takas/4322",
+                "distance": 7,
+                "visited": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.9848735332489,
+                    54.805458898155365
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "cognitive_trail",
+                "name": "Šilėnų pažintinis takas",
+                "source": "https://www.pamatyklietuvoje.lt/lankytinos-vietos/silenu-pazintinis-takas/4405",
+                "distance": 6,
+                "visited": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.044885277748108,
+                    54.73110996074607
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "trail",
+                "name": "Senasis Vilniaus - Kauno traktas",
+                "source": "https://www.pamatyklietuvoje.lt/lankytinos-vietos/senasis-vilniaus-kauno-traktas/4445",
+                "distance": 2.2,
+                "visited": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.197524428367615,
+                    54.64402658143336
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "trail",
+                "name": "Miško pakraščio takas",
+                "source": "https://www.pamatyklietuvoje.lt/lankytinos-vietos/misko-pakrascio-takas/4395",
+                "distance": 6.6,
+                "visited": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.233739614486694,
+                    54.70025029226359
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "cognitive_trail",
+                "name": "Rokantiškių piliakalnio pažintinis takas",
+                "source": "https://nesedeknamuose.lt/pazintiniai-takai/rokantiskiu-piliakalnio-pazintinis-takas/",
+                "distance": 1.1,
+                "visited": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.40488600730896,
+                    54.68719161973532
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "cognitive_trail",
+                "name": "Strielčiukų žygtakis",
+                "source": "https://nesedeknamuose.lt/pazintiniai-takai/strielciuku-zygtakis/",
+                "distance": 3.4,
+                "visited": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.3954017162323,
+                    54.68997608616814
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "trail",
+                "name": "Verkių trasa",
+                "source": "https://nesedeknamuose.lt/pazintiniai-takai/verkiu-trasa/",
+                "distance": 10,
+                "visited": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.300827026367188,
+                    54.75183307733285
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "trail",
+                "name": "Ribiškių pažintinis takas",
+                "source": "https://nesedeknamuose.lt/pazintiniai-takai/ribiskiu-takas/",
+                "distance": 6,
+                "visited": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.315380692481995,
+                    54.651059966464665
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "cognitive_trail",
+                "name": "Saidės pažintinis takas",
+                "source": "https://nesedeknamuose.lt/pazintiniai-takai/saides-pazintinis-takas/",
+                "distance": 1.2,
+                "visited": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.04309356212616,
+                    54.71990168413046
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "cognitive_trail",
+                "name": "Baltojo kalno takas",
+                "source": "https://www.pamatyklietuvoje.lt/lankytinos-vietos/baltojo-kalno-takas/4406",
+                "distance": 2.9,
+                "visited": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.829925000667572,
+                    54.88717142337064
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "cognitive_trail",
+                "name": "Dziackagirio gamtinis pažintinis takas",
+                "source": "https://pamatyklietuvoje.lt/details/dziackagirio-gamtinis-pazintinis-takas/4321",
+                "distance": 13.8,
+                "visited": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.39911663532257,
+                    54.06101411998201
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "cognitive_trail",
+                "name": "Senųjų kaimų pažintinis takas",
+                "source": "https://nesedeknamuose.lt/pazintiniai-takai/senuju-kaimu-pazintinis-takas/",
+                "distance": 10,
+                "visited": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.319591760635376,
+                    54.750560639190354
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "cognitive_trail",
+                "name": "Salako pažintinis takas",
+                "source": "https://www.pamatyklietuvoje.lt/lankytinos-vietos/salako-pazintinis-takas/4386",
+                "distance": 5.3,
+                "visited": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.156140565872192,
+                    55.58188634616799
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "cognitive_trail",
+                "name": "Salako pažintinis takas",
+                "source": "https://www.pamatyklietuvoje.lt/lankytinos-vietos/briedziu-takais/4400",
+                "distance": 11.5,
+                "visited": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.140615940093994,
+                    55.58358126373988
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "cognitive_trail",
+                "name": "Bijotų pažintinis takas",
+                "source": "https://www.pamatyklietuvoje.lt/lankytinos-vietos/pazintinis-takas-bijotu-sirvinto-miskais/4326",
+                "distance": 3.5,
+                "visited": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.74147117137909,
+                    54.283714044358874
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "cognitive_trail",
+                "name": "Šventos pažintinis mitologinis takas",
+                "source": "https://www.pamatyklietuvoje.lt/lankytinos-vietos/sventos-pazintinis-mitologinis-takas/4387",
+                "distance": 1.3,
+                "visited": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.205343008041382,
+                    55.19428468126298
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "cognitive_trail",
+                "name": "Kačėniškės piliakalnio pažintinis takas",
+                "source": "https://www.pamatyklietuvoje.lt/lankytinos-vietos/pazintinis-takas-link-kaceniskes-piliakalnio/26482",
+                "distance": 0.8,
+                "visited": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.259596049785614,
+                    55.22651892973623
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "cognitive_trail",
+                "name": "Daugėliškių miško bunkerio pažintinis takas",
+                "source": "https://pamatyklietuvoje.lt/details/daugeliskiu-misko-bunkerio-pazintinis-takas/6892",
+                "distance": 1.1,
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    23.697155644636638,
+                    55.17484282498077
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "cognitive_trail",
+                "name": "Jurakalnio geologinis - pažintinis takas",
+                "source": "https://pamatyklietuvoje.lt/details/jurakalnio-geologinis-pazintinis-takas/4655",
+                "distance": 3,
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    22.78921745040111,
+                    56.15179874528437
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "cognitive_trail",
+                "name": "Žuvinto ežero gamtinis takas",
+                "source": "https://www.pamatyklietuvoje.lt/details/zuvinto-ezero-gamtinis-takas/7272",
+                "distance": 0.5,
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    23.64004293037752,
+                    54.45701706596955
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "cognitive_trail",
+                "name": "Cedronas",
+                "source": "https://welovelithuania.com/cedrono-aukstupio-krastovaizdzio-draustinyje-naujas-pazintinis-takas/",
+                "distance": 3,
+                "visited": true
+            },
+            "geometry": {
+                "coordinates": [
+                    25.267201928054902,
+                    54.72706032109926
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "cognitive_trail",
+                "name": "Gaujos mokomasis takas",
+                "source": "https://www.pamatyklietuvoje.lt/lankytinos-vietos/gaujos-mokomasis-takas/4401",
+                "distance": 1.7,
+                "visited": true
+            },
+            "geometry": {
+                "coordinates": [
+                    25.660873445603073,
+                    54.179157294662446
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "cognitive_trail",
+                "name": "Sapieginės pažintinis poilsio takas",
+                "source": "https://www.pamatyklietuvoje.lt/lankytinos-vietos/sapiegines-pazintinis-poilsio-takas/4342",
+                "distance": 5.3,
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    25.347300051787812,
+                    54.70004439612404
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "cognitive_trail",
+                "name": "Lopaičių pažintinis takas",
+                "source": "https://www.pamatyklietuvoje.lt/details/lopaiciu-pazintinis-takas/7870",
+                "distance": 1,
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    22.190993845992637,
+                    55.74232830563744
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "trail",
+                "name": "Sveikatos takai",
+                "source": "https://nesedeknamuose.lt/pazintiniai-takai/sveikatos-takai/",
+                "distance": 12,
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    21.07322633211325,
+                    55.80685342691453
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "trail",
+                "name": "Žvėrinčiaus miško takas",
+                "source": "https://nesedeknamuose.lt/pazintiniai-takai/zverinciaus-misko-takas",
+                "distance": 5.8,
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    24.016697268701307,
+                    54.612881695371584
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "cognitive_trail",
+                "name": "Žvėrinčiaus miško takas",
+                "source": "https://www.checkinlithuania.com/pesciuju-takai/giliaus-ezero-pazintinis-takas/",
+                "distance": 3.3,
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    23.190577090505997,
+                    55.60974055199412
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "trail",
+                "name": "Labrytys – Palangos bėgimo takas",
+                "source": "https://nesedeknamuose.lt/pazintiniai-takai/labrytys-palangos-begimo-takas",
+                "distance": 6,
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    21.05919929434023,
+                    55.922206458651914
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "cognitive_trail",
+                "name": "Puokainių miškas",
+                "source": "https://www.latvia.travel/lt/lankytina-vieta/puokainiu-miskas",
+                "distance": 15,
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    23.073498687607156,
+                    56.56994084577721
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "cognitive_trail",
+                "name": "Labanoro girios pažintinis takas",
+                "source": "https://nesedeknamuose.lt/pazintiniai-takai/labanoro-girios-pazintinis-takas",
+                "distance": 2.6,
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    25.822479224637902,
+                    55.26376996849186
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "cognitive_trail",
+                "name": "Paršežerio pėsčiųjų pažintinis takas",
+                "source": "https://pamatyklietuvoje.lt/lankytinos-vietos/parsezerio-pesciuju-pazintinis-takas/4437",
+                "distance": 13.8,
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    22.291192667485916,
+                    55.63650812735244
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "cognitive_trail",
+                "name": "Lūksto gintarų takas",
+                "source": "https://www.pamatyklietuvoje.lt/details/luksto-gintaru-takas/4370",
+                "distance": 1.1,
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    22.34134789807007,
+                    55.724602835136494
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "cognitive_trail",
+                "name": "Šventosios aukštupio pažintinė trasa",
+                "source": "https://www.pamatyklietuvoje.lt/lankytinos-vietos/sventosios-aukstupio-pazintine-trasa/26607",
+                "distance": 10.5,
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    25.977326220509752,
+                    55.62926975719975
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "trail",
+                "name": "Šereiklaukio miško takas",
+                "source": "https://www.pamatyklietuvoje.lt/lankytinos-vietos/sereiklaukio-misko-takas/4394",
+                "distance": 9,
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    22.109860078264717,
+                    55.05426229876457
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "cognitive_trail",
+                "name": "Mūšos tyrelio pažintinis takas",
+                "source": "https://www.pamatyklietuvoje.lt/lankytinos-vietos/musos-tyrelio-pazintinis-takas/4415",
+                "distance": 8,
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    23.262696054120426,
+                    56.21976603470043
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "cognitive_trail",
+                "name": "Plokščių pažintinis takas",
+                "source": "https://www.pamatyklietuvoje.lt/lankytinos-vietos/ploksciu-pazintinis-takas/4418",
+                "distance": 7,
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    23.17773509964968,
+                    55.08266776939405
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "cognitive_trail",
+                "name": "Akmenų rūžos pažintinis takas",
+                "source": "https://www.pamatyklietuvoje.lt/lankytinos-vietos/akmenu-ruzos-pazintinis-takas/4414",
+                "distance": 1.3,
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    23.197076168305244,
+                    55.60583924580857
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "cognitive_trail",
+                "name": "Šventosios aukštupio pažintinė trasa",
+                "source": "https://nesedeknamuose.lt/pazintiniai-takai/sventosios-aukstupio-pazintine-trasa",
+                "distance": 10.5,
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    25.977249400881675,
+                    55.629439330909406
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "trail",
+                "name": "Takas aplink 3 ežerus",
+                "distance": 7,
+                "visited": true
+            },
+            "geometry": {
+                "coordinates": [
+                    25.447133142802386,
+                    54.771051530473414
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "trail",
+                "name": "Kalnų takai",
+                "source": "https://www.klaipedosrajonas.lt/kalnu-takai/",
+                "distance": 6.8,
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    21.45896498751239,
+                    55.76754833778517
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "cognitive_trail",
+                "name": "Jiesios pažintinis takas",
+                "source": "https://www.pamatyklietuvoje.lt/details/jiesios-atodanga/3956",
+                "distance": 2.2,
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    23.93762383564541,
+                    54.84368405241378
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "cognitive_trail",
+                "name": "Juodlės pažintinis takas",
+                "source": "https://nesedeknamuose.lt/pazintiniai-takai/juodles-pazintinis-takas/",
+                "distance": 4.2,
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    22.920316141503292,
+                    55.81607397603739
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "cognitive_trail",
+                "name": "Dubravos rezervatinės apyrubės pažintinis takas",
+                "source": "https://www.pamatyklietuvoje.lt/lankytinos-vietos/dubravos-rezervatines-apyrubes-pazintinis-takas/4431",
+                "distance": 3.8,
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    24.07879980590033,
+                    54.85626309885248
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "cognitive_trail",
+                "name": "Ąžuolyno gamtos pažinimo takas",
+                "source": "https://nesedeknamuose.lt/pazintiniai-takai/azuolyno-gamtos-pazinimo-takas/",
+                "distance": 2,
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    23.94922482410732,
+                    54.90313141740046
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "trail",
+                "name": "Bebrų takas",
+                "source": "https://nesedeknamuose.lt/pazintiniai-takai/azuolyno-gamtos-pazinimo-takas/",
+                "distance": 2,
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    25.232461133444133,
+                    54.67430960967903
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "cognitive_trail",
+                "name": "Girelės pažintinis takas",
+                "source": "https://nesedeknamuose.lt/gireles-pazintinis-takas-kur-laisvalaiki-leidzia-kaisiadoriskiaihttps://nesedeknamuose.lt/pazintiniai-takai/azuolyno-gamtos-pazinimo-takas/",
+                "distance": 1.5,
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    24.435805813606407,
+                    54.85864803222648
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "cognitive_trail",
+                "name": "Punios šilo pažintinis takas",
+                "distance": 8,
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    24.038774611327398,
+                    54.50740729939048
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "trail",
+                "name": "Trijų bunkerių maršrutas Dzūkijoje",
+                "source": "https://nesedeknamuose.lt/triju-bunkeriu-marsrutas-dzukijoje",
+                "distance": 27,
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    24.494930637121826,
+                    54.15936994352123
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "trail",
+                "name": "Panerių pažintinis takas",
+                "source": "https://nesedeknamuose.lt/pazintiniai-takai/paneriu-pazintinis-takas/",
+                "distance": 5,
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    25.19750857080311,
+                    54.64400960004008
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "trail",
+                "name": "Sakalinės girininkijos pėsčiųjų takas",
+                "source": "https://nesedeknamuose.lt/ilgas-ir-apsemtas-trumpas-ir-vaizdingas",
+                "distance": 11.6,
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    22.28935173597813,
+                    55.19610494302714
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "trail",
+                "name": "Algimanto apygardos partizanų kovų takais pažintinis maršrutas",
+                "source": "https://nesedeknamuose.lt/nuo-slaptavietes-iki-slaptavietes-algimanto-apygardos-partizanu-kovu-takais/",
+                "distance": 13.7,
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    25.303083313090212,
+                    55.698970173938875
+                ],
+                "type": "Point"
+            }
+        }
+    ]
 }

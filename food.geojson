@@ -1,676 +1,838 @@
 {
-  "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "cafe",
-        "name": "Cafe Musė",
-        "visited": true
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [24.842914938926697, 54.94860836828664]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "kebab",
-        "name": "Foman kebabai",
-        "visited": false
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [24.84331592917442, 54.94829450607914]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "kebab",
-        "name": "Azerai",
-        "visited": true
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [25.277953147888184, 54.7436946656358]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "kebab",
-        "name": "Užkandinė Alyva",
-        "visited": true
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [21.230220794677734, 55.884256798010604]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "restaurant",
-        "name": "Snack bar",
-        "visited": false
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [21.239245086908337, 55.891645516784614]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "restaurant",
-        "name": "Venckai Venckuose",
-        "visited": false
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [21.32161170244217, 55.512567103591]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "restaurant",
-        "name": " Chinkali namai",
-        "visited": false
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [25.21371826529503, 54.67574244781728]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "fast_food",
-        "name": "Čeburėkinė",
-        "visited": false
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [25.043511986732483, 54.64419886114008]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "restaurant",
-        "name": "Viduklės koldūnai",
-        "visited": false
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [22.89639562368393, 55.400017132344644]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "kebab",
-        "name": " Saunch ",
-        "visited": false
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [25.245750546455383, 54.672971739080225]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "restaurant_vegetarian",
-        "name": "Rosehip",
-        "visited": true
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [25.277748629450798, 54.680453691946]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "kebab",
-        "name": "Kebab republic",
-        "visited": true
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [23.98885264992714, 54.91641337214686]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "restaurant",
-        "name": " Yakitori Grill Boutique",
-        "visited": false
-      },
-      "geometry": {
-        "coordinates": [25.303248304783835, 54.6786309385173],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "cafe",
-        "name": "Kavos Reikalai",
-        "visited": true
-      },
-      "geometry": {
-        "coordinates": [25.273658171928417, 54.690059067622315],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "cafe",
-        "name": "Backstage Roastery Cafe",
-        "visited": true
-      },
-      "geometry": {
-        "coordinates": [25.265998284255033, 54.674953747402185],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "cake",
-        "name": "Patore sesės",
-        "visited": false
-      },
-      "geometry": {
-        "coordinates": [25.277680225305744, 54.67546201207389],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "cake",
-        "name": "Jūratės Gulbinienės įmonė",
-        "visited": false
-      },
-      "geometry": {
-        "coordinates": [25.23624562145892, 54.728140109166844],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "cake",
-        "name": "Babarskienės šakočiai",
-        "visited": false,
-        "source": "http://www.babarskiene.lt/"
-      },
-      "geometry": {
-        "coordinates": [25.26566822534079, 54.67638509996911],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "ice-cream",
-        "name": "Rotonda",
-        "visited": false
-      },
-      "geometry": {
-        "coordinates": [25.293031870065903, 54.68601935027698],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "kebab",
-        "name": "Paragauk pats",
-        "visited": true
-      },
-      "geometry": {
-        "coordinates": [24.669023224133724, 54.784255954745845],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "burger",
-        "name": "Barbeque Burgers",
-        "visited": false
-      },
-      "geometry": {
-        "coordinates": [25.222842607182997, 54.66811801260849],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "watermill",
-        "name": "Šlyninkos Vandens Malūnas",
-        "visited": true
-      },
-      "geometry": {
-        "coordinates": [26.19784069295133, 55.73385813321718],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "cafe",
-        "name": "Chaika",
-        "source": "https://chaika.lt/lt/kavines/",
-        "visited": false
-      },
-      "geometry": {
-        "coordinates": [25.282101969380534, 54.68527286674538],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "restaurant",
-        "name": "Retro čeburėkai",
-        "visited": true
-      },
-      "geometry": {
-        "coordinates": [21.25944185413144, 55.890940094977566],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "restaurant",
-        "name": "Bobos daržas",
-        "visited": false
-      },
-      "geometry": {
-        "coordinates": [25.26555767577389, 54.68255863258841],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "cake",
-        "name": "Ali Šokoladinė",
-        "visited": false
-      },
-      "geometry": {
-        "coordinates": [25.279221956630664, 54.684005160147166],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "restaurant",
-        "name": "Pamella",
-        "visited": false,
-        "description": "Good ramen. Works only at evenings"
-      },
-      "geometry": {
-        "coordinates": [25.288616079267484, 54.6720100433227],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "restaurant",
-        "name": "Druska Miltai Vanduo",
-        "visited": false
-      },
-      "geometry": {
-        "coordinates": [25.288369176425306, 54.67190683442499],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "fast_food",
-        "name": "Cheburekine",
-        "visited": false
-      },
-      "geometry": {
-        "coordinates": [25.251796034260337, 54.66708154324658],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "fast_food",
-        "name": "Čeburekinė",
-        "visited": false
-      },
-      "geometry": {
-        "coordinates": [25.280943408203058, 54.67239823162129],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "wine_bar",
-        "name": "Džiaugsmas",
-        "visited": false
-      },
-      "geometry": {
-        "coordinates": [25.279851623094117, 54.682668619291775],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "cafe",
-        "name": "Mint Vinetu",
-        "description": "Book store/cafe",
-        "visited": false
-      },
-      "geometry": {
-        "coordinates": [25.284969072661482, 54.681428658548384],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "cocktail_bar",
-        "name": "Salionas",
-        "visited": false
-      },
-      "geometry": {
-        "coordinates": [25.283307326724838, 54.687367620744794],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "tea",
-        "name": "MIN CHA",
-        "description": "Bubble tea store",
-        "visited": false
-      },
-      "geometry": {
-        "coordinates": [25.27789458066181, 54.68481779287822],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "restaurant",
-        "name": "Pirmas Blynas",
-        "source": "https://www.pirmasblynas.lt",
-        "description": "Food is prepared and served by people with disability. Mainly serves pancakes",
-        "visited": false
-      },
-      "geometry": {
-        "coordinates": [25.29015910082333, 54.67899851364811],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "kebab",
-        "name": "Labas kebabas",
-        "visited": false
-      },
-      "geometry": {
-        "coordinates": [25.140381269032048, 54.64608643021907],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "kebab",
-        "name": "Kebis",
-        "source": "https://www.facebook.com/profile.php?id=100043332862281&sk=photos",
-        "visited": false
-      },
-      "geometry": {
-        "coordinates": [25.102271283845283, 54.66822917185689],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "kebab",
-        "name": "Brolių kebabai",
-        "source": "https://www.facebook.com/profile.php?id=100043332862281&sk=photos",
-        "visited": true
-      },
-      "geometry": {
-        "coordinates": [25.25486335065733, 54.66812583304417],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "restaurant",
-        "name": "Bebro blyninė",
-        "source": "https://www.facebook.com/BebroBlynai",
-        "visited": false
-      },
-      "geometry": {
-        "coordinates": [25.302706071098612, 54.678651760028345],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "restaurant",
-        "name": "Oišy Izakaya",
-        "source": "https://www.oisy.lt/meniu.html",
-        "visited": false
-      },
-      "geometry": {
-        "coordinates": [25.278263667919845, 54.67994627000979],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "restaurant",
-        "name": "Kamikadzė",
-        "source": "https://www.facebook.com/uab.kamikadze/",
-        "visited": false
-      },
-      "geometry": {
-        "coordinates": [25.27806927003877, 54.6818163878138],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "kebab",
-        "name": "Adiada",
-        "source": "https://www.facebook.com/kebabaisiauliuoseadiada",
-        "visited": false
-      },
-      "geometry": {
-        "coordinates": [23.273635057250942, 55.913424482855476],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "burger",
-        "name": "RestoBaZar",
-        "source": "https://m.facebook.com/restobazar/about",
-        "visited": true
-      },
-      "geometry": {
-        "coordinates": [26.244430630639982, 55.7310499161718],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "cake",
-        "name": "1323 Blynai",
-        "source": "https://www.instagram.com/1323blynai/",
-        "visited": true
-      },
-      "geometry": {
-        "coordinates": [25.261275980209177, 54.69960125935722],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "kebab",
-        "name": "Tarbushi Bistro",
-        "source": "https://www.facebook.com/tarbushibistro/",
-        "visited": true,
-        "notes": "Standard lithuanian kebabs with mayo. Very affordable pricing."
-      },
-      "geometry": {
-        "coordinates": [25.264376640588637, 54.6908992007491],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "kebab",
-        "name": "Skoniai",
-        "source": "https://www.skoniai.com/",
-        "visited": false
-      },
-      "geometry": {
-        "coordinates": [21.138465215051326, 55.706517606692216],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "burger",
-        "name": "Bunker Food",
-        "source": "https://bunkerfood.lt/",
-        "visited": false
-      },
-      "geometry": {
-        "coordinates": [26.432989134232145, 55.59761524115541],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "restaurant",
-        "name": "Mažoji Himalaja",
-        "source": "https://www.facebook.com/MazojiHimalaja",
-        "visited": false
-      },
-      "geometry": {
-        "coordinates": [25.279175948303134, 54.67739736132586],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "restaurant",
-        "name": "Blynų namai",
-        "visited": false
-      },
-      "geometry": {
-        "coordinates": [24.93293969906108, 54.64689500070966],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "kebab",
-        "name": "Amazonė. Kebabai",
-        "url": "https://restoranasamazone.lt",
-        "visited": false
-      },
-      "geometry": {
-        "coordinates": [24.360259893052444, 55.727503996941664],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "cafe",
-        "name": "Retro Bytes Cafe",
-        "url": "https://www.facebook.com/profile.php?id=100093042039641",
-        "visited": false
-      },
-      "geometry": {
-        "coordinates": [23.915843146870827, 54.89881797870058],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "cafe",
-        "name": "Kohvik Vaffel",
-        "url": "https://vaffel.ee/",
-        "visited": false
-      },
-      "geometry": {
-        "coordinates": [24.738407301460512, 59.44409548450045],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "kebab",
-        "name": "Kebabų ambasadoriai",
-        "visited": false
-      },
-      "geometry": {
-        "coordinates": [25.091053252634197, 54.77901139067211],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "restaurant",
-        "name": "Alka",
-        "visited": false
-      },
-      "geometry": {
-        "coordinates": [23.9901994434355, 54.007097117229875],
-        "type": "Point"
-      }
-    }
-  ]
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "cafe",
+                "name": "Cafe Musė",
+                "visited": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.842914938926697,
+                    54.94860836828664
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "kebab",
+                "name": "Foman kebabai",
+                "visited": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.84331592917442,
+                    54.94829450607914
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "kebab",
+                "name": "Azerai",
+                "visited": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.277953147888184,
+                    54.7436946656358
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "kebab",
+                "name": "Užkandinė Alyva",
+                "visited": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.230220794677734,
+                    55.884256798010604
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "restaurant",
+                "name": "Snack bar",
+                "visited": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.239245086908337,
+                    55.891645516784614
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "restaurant",
+                "name": "Venckai Venckuose",
+                "visited": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.32161170244217,
+                    55.512567103591
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "restaurant",
+                "name": " Chinkali namai",
+                "visited": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.21371826529503,
+                    54.67574244781728
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "fast_food",
+                "name": "Čeburėkinė",
+                "visited": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.043511986732483,
+                    54.64419886114008
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "restaurant",
+                "name": "Viduklės koldūnai",
+                "visited": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.89639562368393,
+                    55.400017132344644
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "kebab",
+                "name": " Saunch ",
+                "visited": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.245750546455383,
+                    54.672971739080225
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "restaurant_vegetarian",
+                "name": "Rosehip",
+                "visited": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.277748629450798,
+                    54.680453691946
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "kebab",
+                "name": "Kebab republic",
+                "visited": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.98885264992714,
+                    54.91641337214686
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "restaurant",
+                "name": " Yakitori Grill Boutique",
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    25.303248304783835,
+                    54.6786309385173
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "cafe",
+                "name": "Kavos Reikalai",
+                "visited": true
+            },
+            "geometry": {
+                "coordinates": [
+                    25.273658171928417,
+                    54.690059067622315
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "cafe",
+                "name": "Backstage Roastery Cafe",
+                "visited": true
+            },
+            "geometry": {
+                "coordinates": [
+                    25.265998284255033,
+                    54.674953747402185
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "cake",
+                "name": "Patore sesės",
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    25.277680225305744,
+                    54.67546201207389
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "cake",
+                "name": "Jūratės Gulbinienės įmonė",
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    25.23624562145892,
+                    54.728140109166844
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "cake",
+                "name": "Babarskienės šakočiai",
+                "visited": false,
+                "source": "http://www.babarskiene.lt/"
+            },
+            "geometry": {
+                "coordinates": [
+                    25.26566822534079,
+                    54.67638509996911
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "ice-cream",
+                "name": "Rotonda",
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    25.293031870065903,
+                    54.68601935027698
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "kebab",
+                "name": "Paragauk pats",
+                "visited": true
+            },
+            "geometry": {
+                "coordinates": [
+                    24.669023224133724,
+                    54.784255954745845
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "burger",
+                "name": "Barbeque Burgers",
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    25.222842607182997,
+                    54.66811801260849
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "watermill",
+                "name": "Šlyninkos Vandens Malūnas",
+                "visited": true
+            },
+            "geometry": {
+                "coordinates": [
+                    26.19784069295133,
+                    55.73385813321718
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "cafe",
+                "name": "Chaika",
+                "source": "https://chaika.lt/lt/kavines/",
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    25.282101969380534,
+                    54.68527286674538
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "restaurant",
+                "name": "Retro čeburėkai",
+                "visited": true
+            },
+            "geometry": {
+                "coordinates": [
+                    21.25944185413144,
+                    55.890940094977566
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "restaurant",
+                "name": "Bobos daržas",
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    25.26555767577389,
+                    54.68255863258841
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "cake",
+                "name": "Ali Šokoladinė",
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    25.279221956630664,
+                    54.684005160147166
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "restaurant",
+                "name": "Pamella",
+                "visited": false,
+                "description": "Good ramen. Works only at evenings"
+            },
+            "geometry": {
+                "coordinates": [
+                    25.288616079267484,
+                    54.6720100433227
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "restaurant",
+                "name": "Druska Miltai Vanduo",
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    25.288369176425306,
+                    54.67190683442499
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "fast_food",
+                "name": "Cheburekine",
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    25.251796034260337,
+                    54.66708154324658
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "fast_food",
+                "name": "Čeburekinė",
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    25.280943408203058,
+                    54.67239823162129
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "wine_bar",
+                "name": "Džiaugsmas",
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    25.279851623094117,
+                    54.682668619291775
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "cafe",
+                "name": "Mint Vinetu",
+                "description": "Book store/cafe",
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    25.284969072661482,
+                    54.681428658548384
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "cocktail_bar",
+                "name": "Salionas",
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    25.283307326724838,
+                    54.687367620744794
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "tea",
+                "name": "MIN CHA",
+                "description": "Bubble tea store",
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    25.27789458066181,
+                    54.68481779287822
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "restaurant",
+                "name": "Pirmas Blynas",
+                "source": "https://www.pirmasblynas.lt",
+                "description": "Food is prepared and served by people with disability. Mainly serves pancakes",
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    25.29015910082333,
+                    54.67899851364811
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "kebab",
+                "name": "Labas kebabas",
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    25.140381269032048,
+                    54.64608643021907
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "kebab",
+                "name": "Kebis",
+                "source": "https://www.facebook.com/profile.php?id=100043332862281&sk=photos",
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    25.102271283845283,
+                    54.66822917185689
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "kebab",
+                "name": "Brolių kebabai",
+                "source": "https://www.facebook.com/profile.php?id=100043332862281&sk=photos",
+                "visited": true
+            },
+            "geometry": {
+                "coordinates": [
+                    25.25486335065733,
+                    54.66812583304417
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "restaurant",
+                "name": "Bebro blyninė",
+                "source": "https://www.facebook.com/BebroBlynai",
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    25.302706071098612,
+                    54.678651760028345
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "restaurant",
+                "name": "Oišy Izakaya",
+                "source": "https://www.oisy.lt/meniu.html",
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    25.278263667919845,
+                    54.67994627000979
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "restaurant",
+                "name": "Kamikadzė",
+                "source": "https://www.facebook.com/uab.kamikadze/",
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    25.27806927003877,
+                    54.6818163878138
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "kebab",
+                "name": "Adiada",
+                "source": "https://www.facebook.com/kebabaisiauliuoseadiada",
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    23.273635057250942,
+                    55.913424482855476
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "burger",
+                "name": "RestoBaZar",
+                "source": "https://m.facebook.com/restobazar/about",
+                "visited": true
+            },
+            "geometry": {
+                "coordinates": [
+                    26.244430630639982,
+                    55.7310499161718
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "cake",
+                "name": "1323 Blynai",
+                "source": "https://www.instagram.com/1323blynai/",
+                "visited": true
+            },
+            "geometry": {
+                "coordinates": [
+                    25.261275980209177,
+                    54.69960125935722
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "kebab",
+                "name": "Tarbushi Bistro",
+                "source": "https://www.facebook.com/tarbushibistro/",
+                "visited": true,
+                "notes": "Standard lithuanian kebabs with mayo. Very affordable pricing."
+            },
+            "geometry": {
+                "coordinates": [
+                    25.264376640588637,
+                    54.6908992007491
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "kebab",
+                "name": "Skoniai",
+                "source": "https://www.skoniai.com/",
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    21.138465215051326,
+                    55.706517606692216
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "burger",
+                "name": "Bunker Food",
+                "source": "https://bunkerfood.lt/",
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    26.432989134232145,
+                    55.59761524115541
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "restaurant",
+                "name": "Mažoji Himalaja",
+                "source": "https://www.facebook.com/MazojiHimalaja",
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    25.279175948303134,
+                    54.67739736132586
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "restaurant",
+                "name": "Blynų namai",
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    24.93293969906108,
+                    54.64689500070966
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "kebab",
+                "name": "Amazonė. Kebabai",
+                "url": "https://restoranasamazone.lt",
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    24.360259893052444,
+                    55.727503996941664
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "cafe",
+                "name": "Retro Bytes Cafe",
+                "url": "https://www.facebook.com/profile.php?id=100093042039641",
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    23.915843146870827,
+                    54.89881797870058
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "cafe",
+                "name": "Kohvik Vaffel",
+                "url": "https://vaffel.ee/",
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    24.738407301460512,
+                    59.44409548450045
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "kebab",
+                "name": "Kebabų ambasadoriai",
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    25.091053252634197,
+                    54.77901139067211
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "restaurant",
+                "name": "Alka",
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    23.9901994434355,
+                    54.007097117229875
+                ],
+                "type": "Point"
+            }
+        }
+    ]
 }
