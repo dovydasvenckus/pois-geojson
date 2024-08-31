@@ -2216,6 +2216,37 @@
                 ],
                 "type": "Point"
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "monastery",
+                "name": "Pažaislio vienuolynas",
+                "source": "https://www.pazaislis.org/",
+                "visited": true
+            },
+            "geometry": {
+                "coordinates": [
+                    24.0206965182372,
+                    54.87633588892723
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "park",
+                "name": "Santakos parkas",
+                "visited": false 
+            },
+            "geometry": {
+                "coordinates": [
+                    23.881799977947423,
+                    54.89894344050768
+                ],
+                "type": "Point"
+            }
         }
     ]
 }

@@ -983,6 +983,54 @@
                 ],
                 "type": "Point"
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "cognitive_trail",
+                "name": "Pažaislio pažintinis takas",
+                "distance": 4,
+                "visited": true
+            },
+            "geometry": {
+                "coordinates": [
+                    24.02072118036358,
+                    54.87525132003762
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "cognitive_trail",
+                "name": "Žiegždrių geologinis takas",
+                "distance": 1.6,
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    24.076613372364505,
+                    54.88878838440408
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "cognitive_trail",
+                "name": "Kadagių slėnis",
+                "distance": 1.3,
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    24.1793637377574,
+                    54.814781990338076
+                ],
+                "type": "Point"
+            }
         }
     ]
 }
