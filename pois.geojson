@@ -2200,6 +2200,22 @@
                 ],
                 "type": "Point"
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "park",
+                "name": "Kauno botanikos sodas",
+                "source": "https://botanika.vdu.lt/",
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    23.91101283383452,
+                    54.871427276457496
+                ],
+                "type": "Point"
+            }
         }
     ]
 }
