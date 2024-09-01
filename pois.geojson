@@ -2238,12 +2238,27 @@
             "properties": {
                 "type": "park",
                 "name": "Santakos parkas",
-                "visited": false 
+                "visited": false
             },
             "geometry": {
                 "coordinates": [
                     23.881799977947423,
                     54.89894344050768
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "manor",
+                "name": "Raudondvario dvaras",
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    23.78183633891709,
+                    54.94298253768713
                 ],
                 "type": "Point"
             }

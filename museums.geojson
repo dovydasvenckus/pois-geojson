@@ -589,6 +589,38 @@
                 ],
                 "type": "Point"
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "museum_art",
+                "name": "Nacionalinis M. K. Čiurlionio dailės muziejus",
+                "source": "https://ciurlionis.lt",
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    23.912059389754376,
+                    54.90027623871549
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "museum_openair",
+                "name": "Tado Ivanausko Obelynės sodyba-memorialinis muziejus",
+                "source": "http://www.krmuziejus.lt/obelynes-sodyba/",
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    23.912059389754376,
+                    54.90027623871549
+                ],
+                "type": "Point"
+            }
         }
     ]
 }
