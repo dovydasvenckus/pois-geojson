@@ -1031,6 +1031,22 @@
                 ],
                 "type": "Point"
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "cognitive_trail",
+                "name": "Šaltinių takas",
+                "distance": 6,
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    23.72358728412175,
+                    54.92945436029564
+                ],
+                "type": "Point"
+            }
         }
     ]
 }

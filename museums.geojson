@@ -621,6 +621,38 @@
                 ],
                 "type": "Point"
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "museum_openair",
+                "name": "Tradicinių amatų centras, Kauno rajono muziejaus filialas",
+                "source": "http://www.krmuziejus.lt/tradiciniu-amatu-centras/",
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    23.782401800647733,
+                    55.01778288385566
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "museum_industry",
+                "name": "Pogrindinė spaustuvė ",
+                "note": "Reikia paskambint ir susitarti laiką",
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    23.922390601096282,
+                    54.95948142442367
+                ],
+                "type": "Point"
+            }
         }
     ]
 }
