@@ -296,7 +296,7 @@
                 "name": "Dziackagirio gamtinis pažintinis takas",
                 "source": "https://pamatyklietuvoje.lt/details/dziackagirio-gamtinis-pazintinis-takas/4321",
                 "distance": 13.8,
-                "visited": false
+                "visited": true
             },
             "geometry": {
                 "type": "Point",

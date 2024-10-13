@@ -24,7 +24,7 @@
                 "type": "small_city",
                 "name": "Zervynos",
                 "source": "https://www.pamatyklietuvoje.lt/lankytinos-vietos/zervynos/64",
-                "visited": false,
+                "visited": true,
                 "description": "Gatvinis kaimas"
             },
             "geometry": {
@@ -880,7 +880,7 @@
                 "type": "market",
                 "name": "Halės turgus",
                 "source": "http://www.halesturgaviete.lt",
-                "visited": false
+                "visited": true
             },
             "geometry": {
                 "coordinates": [
