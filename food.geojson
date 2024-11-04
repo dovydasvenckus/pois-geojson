@@ -833,6 +833,22 @@
                 ],
                 "type": "Point"
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "restaurant",
+                "name": "Užeiga „Pas Jadvygą“",
+                "description": "Henytės mamos restoranas",
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    23.882420084856534,
+                    54.90801540312168
+                ],
+                "type": "Point"
+            }
         }
     ]
 }
