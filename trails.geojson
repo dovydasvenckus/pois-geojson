@@ -1047,6 +1047,23 @@
                 ],
                 "type": "Point"
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "cognitive_trail",
+                "name": "Giliaus ežero pažintinis takas",
+                "distance": 3.1,
+                "visited": false,
+                "source": "https://nesedeknamuose.lt/pazintiniai-takai/giliaus-ezero-pazintinis-takas/"
+            },
+            "geometry": {
+                "coordinates": [
+                    23.190565520481755,
+                    55.60975154113484
+                ],
+                "type": "Point"
+            }
         }
     ]
 }

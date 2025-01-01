@@ -653,6 +653,52 @@
                 ],
                 "type": "Point"
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "museum_openair",
+                "name": "Aštuonračio muziejukas",
+                "visited": false,
+                "source": "https://www.pamatyklietuvoje.lt/lankytinos-vietos/astuonracio-muziejus/2197"
+            },
+            "geometry": {
+                "coordinates": [
+                    22.769739775658962,
+                    55.42667568134431
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "museum_industry",
+                "name": "Žirklių muziejus",
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    22.795788427117657,
+                    55.547813587588166
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "museum_industry",
+                "name": "Lazdų muziejus",
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    22.93066418233724,
+                    55.631464380403685
+                ],
+                "type": "Point"
+            }
         }
     ]
 }

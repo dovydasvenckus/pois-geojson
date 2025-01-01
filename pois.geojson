@@ -2238,7 +2238,7 @@
             "properties": {
                 "type": "park",
                 "name": "Santakos parkas",
-                "visited": true 
+                "visited": true
             },
             "geometry": {
                 "coordinates": [
@@ -2259,6 +2259,22 @@
                 "coordinates": [
                     23.78183633891709,
                     54.94298253768713
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "bridge",
+                "name": "Lyduvenų tiltas",
+                "visited": false,
+                "source": "https://www.pamatyklietuvoje.lt/lankytinos-vietos/lyduvenu-gelezinkelio-tiltas/83"
+            },
+            "geometry": {
+                "coordinates": [
+                    23.085835538912818,
+                    55.50552669728941
                 ],
                 "type": "Point"
             }
