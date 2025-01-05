@@ -529,22 +529,6 @@
         {
             "type": "Feature",
             "properties": {
-                "type": "museum_art",
-                "name": "Nacionalinis M. K. Čiurlionio dailės muziejus",
-                "source": "https://ciurlionis.lt",
-                "visited": false
-            },
-            "geometry": {
-                "coordinates": [
-                    25.29316886990216,
-                    54.683076711963025
-                ],
-                "type": "Point"
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "type": "aircraft",
                 "name": "Polish aviation musem",
                 "source": "https://muzeumlotnictwa.pl/muzeum/pl/",
@@ -696,6 +680,22 @@
                 "coordinates": [
                     22.93066418233724,
                     55.631464380403685
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "museum_war",
+                "name": "Signataru namai",
+                "source": "https://lnm.lt/muziejai/signataru-namai/",
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    25.28926717693963,
+                    54.6823194873744
                 ],
                 "type": "Point"
             }

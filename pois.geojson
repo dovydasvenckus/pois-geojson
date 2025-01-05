@@ -2278,6 +2278,22 @@
                 ],
                 "type": "Point"
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "church",
+                "name": "Vilniaus Šv. Onos bažnyčia",
+                "source": "https://vilniausonosbaznycia.net/",
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    25.29316886990216,
+                    54.683076711963025
+                ],
+                "type": "Point"
+            }
         }
     ]
 }
