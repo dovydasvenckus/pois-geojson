@@ -690,7 +690,7 @@
                 "type": "museum_war",
                 "name": "Signataru namai",
                 "source": "https://lnm.lt/muziejai/signataru-namai/",
-                "visited": false
+                "visited": true
             },
             "geometry": {
                 "coordinates": [
