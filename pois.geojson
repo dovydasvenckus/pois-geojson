@@ -2294,6 +2294,38 @@
                 ],
                 "type": "Point"
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "tree",
+                "name": "Lietuvos tautinio atgimimo ąžuolynas",
+                "source": "https://www.vilkaviskisinfo.lt/lankytinos-vietos/jono-basanaviciaus-gimtoji-sodyba-ir-lietuvos-tautinio-atgimimo-azuolynas/",
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    22.999227724914277,
+                    54.48974494466913
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "memorial",
+                "name": "1941 sukilimo memorialas",
+                "source": "https://grokiskis.lt/rokiskis-triskart-lietuva/obeliu-miestas-nuo-klestejimo-istorijos-kirciu-iki-nudienos-ramybes",
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    25.799723559401713,
+                    55.94131879707703
+                ],
+                "type": "Point"
+            }
         }
     ]
 }

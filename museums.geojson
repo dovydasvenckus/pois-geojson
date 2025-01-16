@@ -699,6 +699,22 @@
                 ],
                 "type": "Point"
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "museum_art",
+                "name": "Jono Basanavičiaus gimtinė",
+                "source": "https://www.vilkaviskisinfo.lt/lankytinos-vietos/jono-basanaviciaus-gimtoji-sodyba-ir-lietuvos-tautinio-atgimimo-azuolynas/",
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    22.99739069893323,
+                    54.48756628027263
+                ],
+                "type": "Point"
+            }
         }
     ]
 }
