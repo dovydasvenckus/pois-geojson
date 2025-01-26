@@ -784,22 +784,6 @@
             "type": "Feature",
             "properties": {
                 "type": "museum_openair",
-                "name": "Markučių dvaro muziejus",
-                "source": "https://www.markuciudvaras.lt/",
-                "visited": false
-            },
-            "geometry": {
-                "coordinates": [
-                    25.32546826240838,
-                    54.67385180551764
-                ],
-                "type": "Point"
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "type": "museum_openair",
                 "name": "Medinės miesto architektūros muziejus",
                 "source": "https://mmam.lt/",
                 "visited": false
