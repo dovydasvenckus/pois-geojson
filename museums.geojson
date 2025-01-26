@@ -715,6 +715,102 @@
                 ],
                 "type": "Point"
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "museum_art",
+                "name": "Jono Basanavičiaus gimtinė",
+                "source": "http://beatricesnamai.lt",
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    25.277294580754784,
+                    54.68973219372273
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "museum_art",
+                "name": "Šiuolaikinio meno centras",
+                "source": "https://cac.lt/",
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    25.285733744910004,
+                    54.677953165616685
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "museum_art",
+                "name": "Vilniaus muziejus",
+                "source": "https://vilniausmuziejus.lt/",
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    25.2849611877524,
+                    54.67841718862863
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "museum_art",
+                "name": "Iliuzijų muziejus",
+                "source": "https://vilnil.lt/",
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    25.284641556761045,
+                    54.67852005671071
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "museum_openair",
+                "name": "Markučių dvaro muziejus",
+                "source": "https://www.markuciudvaras.lt/",
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    25.32546826240838,
+                    54.67385180551764
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "museum_openair",
+                "name": "Medinės miesto architektūros muziejus",
+                "source": "https://mmam.lt/",
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    25.311459939447786,
+                    54.68224132328959
+                ],
+                "type": "Point"
+            }
         }
     ]
 }
