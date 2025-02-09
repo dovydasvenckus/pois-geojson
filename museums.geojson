@@ -754,7 +754,7 @@
                 "type": "museum_art",
                 "name": "Vilniaus muziejus",
                 "source": "https://vilniausmuziejus.lt/",
-                "visited": false
+                "visited": true
             },
             "geometry": {
                 "coordinates": [

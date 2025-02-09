@@ -313,7 +313,7 @@
                 "name": "Senųjų kaimų pažintinis takas",
                 "source": "https://nesedeknamuose.lt/pazintiniai-takai/senuju-kaimu-pazintinis-takas/",
                 "distance": 10,
-                "visited": false
+                "visited": true
             },
             "geometry": {
                 "type": "Point",
