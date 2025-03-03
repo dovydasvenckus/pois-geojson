@@ -2326,6 +2326,37 @@
                 ],
                 "type": "Point"
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "cinema",
+                "name": "Romuva",
+                "source": "https://www.kcromuva.lt/repertuaras",
+                "visited": true
+            },
+            "geometry": {
+                "coordinates": [
+                    23.915670887543286,
+                    54.897783501585195
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "mural",
+                "name": "Valujavičius ir Lithuanica freska ant daugiabučio",
+                "visited": true
+            },
+            "geometry": {
+                "coordinates": [
+                    23.962658739332824,
+                    54.91643945069919
+                ],
+                "type": "Point"
+            }
         }
     ]
 }

@@ -500,7 +500,7 @@
                 "type": "aircraft",
                 "name": "Lietuvos aviacijos muziejus",
                 "source": "https://www.pamatyklietuvoje.lt/lankytinos-vietos/lietuvos-aviacijos-muziejus/2269",
-                "visited": false
+                "visited": true
             },
             "geometry": {
                 "coordinates": [
@@ -580,7 +580,7 @@
                 "type": "museum_art",
                 "name": "Nacionalinis M. K. Čiurlionio dailės muziejus",
                 "source": "https://ciurlionis.lt",
-                "visited": false
+                "visited": true
             },
             "geometry": {
                 "coordinates": [
@@ -808,6 +808,22 @@
                 "coordinates": [
                     25.277186150128557,
                     54.67717930444661
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "museum_art",
+                "name": "Amsterdamo Mokyklos muziejus",
+                "source": "https://www.amsterdamomokyklosmuziejus.lt/",
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    23.92555809740591,
+                    54.89588427746432
                 ],
                 "type": "Point"
             }

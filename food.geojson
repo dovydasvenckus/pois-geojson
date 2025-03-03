@@ -849,6 +849,21 @@
                 ],
                 "type": "Point"
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "kebab",
+                "name": "Berlin doner kebab",
+                "visited": true
+            },
+            "geometry": {
+                "coordinates": [
+                    23.88622315419144,
+                    54.90316890131629
+                ],
+                "type": "Point"
+            }
         }
     ]
 }
