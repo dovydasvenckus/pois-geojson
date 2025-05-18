@@ -827,6 +827,54 @@
                 ],
                 "type": "Point"
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "museum_art",
+                "name": "Vytauto Kasiulio dailės muziejus",
+                "source": "https://www.lndm.lt/vkdm/",
+                "visited": true
+            },
+            "geometry": {
+                "coordinates": [
+                    25.278303401719,
+                    54.690169873755906
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "museum_art",
+                "name": "Lietuvos nacionalinis dailės muziejus",
+                "source": "https://www.lndm.lt/vpg/",
+                "visited": true
+            },
+            "geometry": {
+                "coordinates": [
+                    25.2901046399717,
+                    54.680730231704274
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "museum_art",
+                "name": "Lietuvos teatro, muzikos ir kino muziejus",
+                "source": "https://ltmkm.lt/",
+                "visited": true
+            },
+            "geometry": {
+                "coordinates": [
+                    25.28094797407678,
+                    54.68131769495989
+                ],
+                "type": "Point"
+            }
         }
     ]
 }
