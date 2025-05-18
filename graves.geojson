@@ -1,0 +1,20 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "grave",
+                "name": "Rūta J",
+                "visited": true
+            },
+            "geometry": {
+                "coordinates": [
+                    22.918512808963072,
+                    55.99906474965127
+                ],
+                "type": "Point"
+            }
+        }
+    ]
+}
