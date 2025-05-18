@@ -1839,7 +1839,7 @@
                 "type": "manor",
                 "name": "Taujėnų dvaras",
                 "source": "https://www.pamatyklietuvoje.lt/lankytinos-vietos/taujenu-dvaras/7332",
-                "visited": false
+                "visited": true
             },
             "geometry": {
                 "coordinates": [
