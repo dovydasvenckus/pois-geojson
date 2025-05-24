@@ -245,7 +245,7 @@
             "type": "Feature",
             "properties": {
                 "type": "small_city",
-                "name": " Plokščiai",
+                "name": " Plokščiai (Vaiguvos upės gatvė)",
                 "visited": false
             },
             "geometry": {
@@ -2354,6 +2354,96 @@
                 "coordinates": [
                     23.962658739332824,
                     54.91643945069919
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "hill",
+                "name": "Čiobiškio ola",
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    24.650251157515356,
+                    54.96657791284284
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "ferry",
+                "name": "Čiobiškio keltas",
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    24.650251157515356,
+                    54.96657791284284
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "manor",
+                "name": "Viešvilės dvaras",
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    22.386673236745764,
+                    55.0727021819236
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "small_city",
+                "name": "Gaurė",
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    22.47108435197626,
+                    55.24236378766642
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "small_city",
+                "name": "Vepriai",
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    24.5745191711232,
+                    55.14998809106615
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "memorial",
+                "name": "Lukšiai crosses",
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    23.17495804331162,
+                    54.948591439392374
                 ],
                 "type": "Point"
             }

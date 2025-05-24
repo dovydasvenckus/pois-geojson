@@ -1064,6 +1064,23 @@
                 ],
                 "type": "Point"
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "cognitive_trail",
+                "name": "Kalnų takai",
+                "distance": 6.9,
+                "visited": false,
+                "source": "https://nesedeknamuose.lt/pazintiniai-takai/kalnu-takai/"
+            },
+            "geometry": {
+                "coordinates": [
+                    21.459333306353045,
+                    55.767556753051224
+                ],
+                "type": "Point"
+            }
         }
     ]
 }

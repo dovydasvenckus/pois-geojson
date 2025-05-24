@@ -343,6 +343,21 @@
                 ],
                 "type": "Point"
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "abandoned",
+                "name": "Šiaukiu branduolinių galvučių saugykla",
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    23.468200843079444,
+                    55.95004577497727
+                ],
+                "type": "Point"
+            }
         }
     ]
 }

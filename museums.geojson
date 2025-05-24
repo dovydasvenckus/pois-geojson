@@ -875,6 +875,38 @@
                 ],
                 "type": "Point"
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "museum_industry",
+                "name": "Centru kambarys",
+                "source": "https://ltmkm.lt/",
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    23.313893909291608,
+                    55.92869501316264
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "museum_industry",
+                "name": "Rūta šokolado muziejus",
+                "source": "https://ltmkm.lt/",
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    23.31175454259065,
+                    55.929724570349265
+                ],
+                "type": "Point"
+            }
         }
     ]
 }

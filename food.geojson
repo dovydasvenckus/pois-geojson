@@ -864,6 +864,66 @@
                 ],
                 "type": "Point"
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "restaurant",
+                "name": "GOGI GUY Korean BBQ (social grill)",
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    25.29526754091492,
+                    54.71300661413676
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "restaurant",
+                "name": "Tamago (hipster grill)",
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    25.27460048742924,
+                    54.6761941153502
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "restaurant",
+                "name": "Mėsos parduotuve",
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    25.185364630819635,
+                    54.76173807581549
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "restaurant",
+                "name": "Traukinys M23",
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    24.06406756021792,
+                    54.38857592501526
+                ],
+                "type": "Point"
+            }
         }
     ]
 }
