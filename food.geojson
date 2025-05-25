@@ -488,21 +488,6 @@
         {
             "type": "Feature",
             "properties": {
-                "type": "cocktail_bar",
-                "name": "Salionas",
-                "visited": false
-            },
-            "geometry": {
-                "coordinates": [
-                    25.283307326724838,
-                    54.687367620744794
-                ],
-                "type": "Point"
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "type": "tea",
                 "name": "MIN CHA",
                 "description": "Bubble tea store",
