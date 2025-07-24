@@ -802,7 +802,7 @@
                 "type": "museum_industry",
                 "name": "Vilniaus Gaono žydų Istorijos muziejaus Samuelio Bako muziejus",
                 "source": "https://www.jmuseum.lt/",
-                "visited": false
+                "visited": true
             },
             "geometry": {
                 "coordinates": [
