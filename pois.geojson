@@ -2462,6 +2462,21 @@
                 ],
                 "type": "Point"
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "memorial",
+                "name": "Lietuvos partizanų memorialas",
+                "visited": true
+            },
+            "geometry": {
+                "coordinates": [
+                    23.950088227956087,
+                    54.880103450537376
+                ],
+                "type": "Point"
+            }
         }
     ]
 }
