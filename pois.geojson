@@ -2477,6 +2477,22 @@
                 ],
                 "type": "Point"
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "park",
+                "name": "Žalgirio parkas (610 metų paminijimo)",
+                "source": "https://www.kaunorajonas.lt/lankytinos-vietos/zalgirio-musio-memorialinis-parkas/",
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    23.728308908185255,
+                    55.13756384467328
+                ],
+                "type": "Point"
+            }
         }
     ]
 }
