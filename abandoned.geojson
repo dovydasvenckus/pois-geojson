@@ -358,6 +358,21 @@
                 ],
                 "type": "Point"
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "abandoned",
+                "name": "Abandoned industrial complex near Šilutė",
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    21.455691401746776,
+                    55.3365505787977
+                ],
+                "type": "Point"
+            }
         }
     ]
 }
