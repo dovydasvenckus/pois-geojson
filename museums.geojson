@@ -907,6 +907,22 @@
                 ],
                 "type": "Point"
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "museum_industry",
+                "name": "Macikų lagerio karceris-muziejus",
+                "source": "https://www.pamatyklietuvoje.lt/details/maciku-lagerio-karcerismuziejus/2363",
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    21.518708194158393,
+                    55.35676960477156
+                ],
+                "type": "Point"
+            }
         }
     ]
 }
