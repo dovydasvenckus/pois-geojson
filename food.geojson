@@ -909,6 +909,21 @@
                 ],
                 "type": "Point"
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "restaurant",
+                "name": "Virtienių restoranėlis",
+                "visited": false
+            },
+            "geometry": {
+                "coordinates": [
+                    23.61538374359924,
+                    56.24150717264533
+                ],
+                "type": "Point"
+            }
         }
     ]
 }
