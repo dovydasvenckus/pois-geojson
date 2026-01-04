@@ -720,9 +720,9 @@
             "type": "Feature",
             "properties": {
                 "type": "museum_art",
-                "name": "Jono Basanavičiaus gimtinė",
+                "name": "Beatričės namai",
                 "source": "http://beatricesnamai.lt",
-                "visited": false
+                "visited": true
             },
             "geometry": {
                 "coordinates": [
